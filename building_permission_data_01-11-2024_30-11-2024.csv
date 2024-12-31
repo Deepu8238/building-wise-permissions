@@ -1,0 +1,2073 @@
+year,month,district_Name,mandal_Name,panchayat_Name,gplgdcode,total_No_of_Application_Received,no_of_Application_Under_Process_At_GP,no_of_Application_Under_Process_AT_DTCP,no_of_Application_Approve_with_in_BSLA,no_of_Application_Approve_Beyond_BSLA,no_of_Application_Proceeding_Upload_with_in_SLA,no_of_Application_Proceeding_Upload_Beyond_SLA,no_of_Application_Reject_With_in_BSLA,no_of_Application_Reject_Beyond_BSLA,total_Fee,harithaNidhi,totalFeesWithHarithaNidhi
+2024,November,Adilabad,Adilabad,Chanda,194914,2,1,0,1,0,0,0,0,0,5644.6,0,0
+2024,November,Adilabad,Adilabad,Landasangvi,194921,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Adilabad,Bela,Bela,194983,3,1,0,1,0,0,1,0,0,3395.3,0,0
+2024,November,Adilabad,Bela,Sangdi,194996,2,0,0,2,0,0,0,0,0,1195,0,0
+2024,November,Adilabad,Boath,Beerlagondi,281185,1,0,0,1,0,0,0,0,0,4337.2,0,0
+2024,November,Adilabad,Boath,Boath (B),195047,6,0,0,2,0,0,4,0,0,33213.2,0,0
+2024,November,Adilabad,Boath,Pochera,195059,3,0,0,3,0,0,0,0,0,13152.9,0,0
+2024,November,Adilabad,Boath,Sonala,195061,3,0,0,1,0,0,2,0,0,9886,0,0
+2024,November,Adilabad,Gudihathnur,Gudihathinur,195134,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Adilabad,Gudihathnur,Kolhari,195136,2,1,1,0,0,0,0,0,0,0,0,0
+2024,November,Adilabad,Gudihathnur,Mannur,195139,2,0,0,1,0,0,1,0,0,3146.6,0,0
+2024,November,Adilabad,Ichoda,Adegaon K,195145,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Adilabad,Jainad,Kura,195198,1,0,0,0,0,0,1,0,0,1799.8,0,0
+2024,November,Adilabad,Mavala ,Battisawargoan,194912,2,0,0,2,0,0,0,0,0,1392.7,0,0
+2024,November,Adilabad,Mavala ,Mavala,194923,6,5,0,1,0,0,0,0,0,0,0,0
+2024,November,Adilabad,Neradigonda,Neradigonda,195571,6,0,0,2,0,0,4,0,0,56503.6,0,0
+2024,November,Adilabad,Neradigonda,Tejapur,195575,1,0,0,1,0,0,0,0,0,2230.4,0,0
+2024,November,Adilabad,Neradigonda,Waddur,195577,1,0,0,1,0,0,0,0,0,1144.8,0,0
+2024,November,Adilabad,Sirikonda,Sirikonda,195161,1,0,0,1,0,0,0,0,0,2131.9,0,0
+2024,November,Bhadradri Kothagudem,Aswapuram,Kalyanapuram,279483,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Bhadradri Kothagudem,Aswapuram,Mondikunta,202130,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Bhadradri Kothagudem,Aswaraopeta,Aswaraopeta,202136,25,19,0,1,0,0,0,0,5,10772.8,0,0
+2024,November,Bhadradri Kothagudem,Aswaraopeta,Peraigudem,202147,4,1,0,0,0,0,0,3,0,0,0,0
+2024,November,Bhadradri Kothagudem,Bhadrachalam,Bhadrachalam,245211,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Bhadradri Kothagudem,Burgampadu,Burgampahad,202201,1,0,0,0,0,0,1,0,0,3303.5,0,0
+2024,November,Bhadradri Kothagudem,Burgampadu,Lakshmipuram,202204,1,0,0,0,0,0,1,0,0,16618.5,0,0
+2024,November,Bhadradri Kothagudem,Dammapeta,Dammapeta,202282,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Bhadradri Kothagudem,Dummugudem,Mulkapadu,279707,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Bhadradri Kothagudem,Dummugudem,Turubaka,202318,2,0,0,0,0,0,0,2,0,0,0,0
+2024,November,Bhadradri Kothagudem,Sujathanagar ,Nayakulagudem,280344,2,1,0,1,0,0,0,0,0,11893,0,0
+2024,November,Bhadradri Kothagudem,Sujathanagar ,Nimmalagudem,280351,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Bhadradri Kothagudem,Sujathanagar ,Sujathanagar,202493,5,2,0,2,0,0,0,0,1,22332,0,0
+2024,November,Hanumakonda,Atmakur,House Buzurg,213264,2,1,0,1,0,0,0,0,0,4739.2,0,0
+2024,November,Hanumakonda,Atmakur,Katakshapur,279761,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Hanumakonda,Bheemadevarpalle,Bheemdevarapalli,200960,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Hanumakonda,Bheemadevarpalle,Kothakonda,200969,3,0,0,2,0,0,1,0,0,25090.9,0,0
+2024,November,Hanumakonda,Bheemadevarpalle,Manikyapoor,200972,3,1,0,1,0,0,0,1,0,11579.6,0,0
+2024,November,Hanumakonda,Bheemadevarpalle,Mustafapoor,200974,1,0,0,1,0,0,0,0,0,6600,0,0
+2024,November,Hanumakonda,Bheemadevarpalle,Vangara,200979,2,0,0,1,0,0,1,0,0,14486.6,0,0
+2024,November,Hanumakonda,Inavolue ,Ramnagar,278029,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Hanumakonda,Kamalapur,Bheempalli,201357,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Hanumakonda,Kamalapur,Gopalpur,201359,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Hanumakonda,Kamalapur,Kannur,201365,1,0,0,1,0,0,0,0,0,5920,0,0
+2024,November,Hanumakonda,Kamalapur,Marripelli,201367,1,0,0,1,0,0,0,0,0,7669.7,0,0
+2024,November,Hanumakonda,Kamalapur,Vangapelli,201375,1,0,0,1,0,0,0,0,0,1196.7,0,0
+2024,November,Hanumakonda,NADIKUDA,Choutuparthi,214014,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Hanumakonda,NADIKUDA,Kowkonda,214018,2,0,0,1,0,0,0,1,0,3905.6,0,0
+2024,November,Hanumakonda,NADIKUDA,Musthyalapalle,214022,2,0,0,0,0,0,2,0,0,10642.8,0,0
+2024,November,Hanumakonda,NADIKUDA,Nadikuda,214023,4,1,0,3,0,0,0,0,0,22123.4,0,0
+2024,November,Hanumakonda,NADIKUDA,Narsakkapally,214026,3,0,0,3,0,0,0,0,0,17932.6,0,0
+2024,November,Hanumakonda,NADIKUDA,Ramakistapoor,214031,1,0,0,1,0,0,0,0,0,9281.9,0,0
+2024,November,Hanumakonda,NADIKUDA,Varikole,214032,1,0,0,1,0,0,0,0,0,3311.9,0,0
+2024,November,Hanumakonda,Parkal,Vellampalle,214033,1,0,0,1,0,0,0,0,0,6404.6,0,0
+2024,November,Hanumakonda,Parkal,Venkatapoor,214034,2,0,0,2,0,0,0,0,0,4741.3,0,0
+2024,November,Hanumakonda,Shayampet,Gangirenigudem,214156,2,0,0,2,0,0,0,0,0,2121.4,0,0
+2024,November,Hanumakonda,Shayampet,Katrapalle,214161,5,0,0,2,0,0,0,3,0,11736.3,0,0
+2024,November,Hanumakonda,Shayampet,Koppula,214162,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Hanumakonda,Shayampet,Kothagattu Singaram,214163,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Hanumakonda,Shayampet,Mylaram,214164,3,0,0,3,0,0,0,0,0,12552.9,0,0
+2024,November,Hanumakonda,Shayampet,Neredpalle,214165,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Hanumakonda,Shayampet,Pathipaka,214166,4,0,0,4,0,0,0,0,0,9563.7,0,0
+2024,November,Hanumakonda,Shayampet,Pragathi Singaram,214155,1,0,0,1,0,0,0,0,0,3354.8,0,0
+2024,November,Hanumakonda,Shayampet,Sadanipally,277961,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Hanumakonda,Shayampet,Shayampet,214169,7,1,0,6,0,0,0,0,0,15511.5,0,0
+2024,November,Hanumakonda,Shayampet,Vasanthapur,214172,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Bheerpur,Beerpur,201891,2,1,0,0,0,0,0,0,1,0,0,0
+2024,November,Jagtial,Bheerpur,Narsimlapalle,201901,3,2,0,0,0,0,0,1,0,0,0,0
+2024,November,Jagtial,Bheerpur,Rekulapally,201907,1,0,0,1,0,0,0,0,0,6326.8,0,0
+2024,November,Jagtial,Buggaram,Chinnapoor,201056,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Buggaram,Gopalapoor,201062,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Buggaram,Shekalla,201212,2,1,1,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Buggaram,Velgonda,201078,1,0,0,0,1,0,0,0,0,0,0,0
+2024,November,Jagtial,Dharmapuri,Burgupally,279814,4,3,0,1,0,0,0,0,0,592.9,0,0
+2024,November,Jagtial,Dharmapuri,Dammannapet,201057,2,0,0,2,0,0,0,0,0,6013,0,0
+2024,November,Jagtial,Dharmapuri,Donur,201060,1,0,0,1,0,0,0,0,0,1830.5,0,0
+2024,November,Jagtial,Dharmapuri,Kamalapur,201064,3,0,0,3,0,0,0,0,0,10999.3,0,0
+2024,November,Jagtial,Dharmapuri,Pedda Nukkalapet,201069,1,0,0,1,0,0,0,0,0,3713.8,0,0
+2024,November,Jagtial,Dharmapuri,Rajaram,201070,3,1,0,2,0,0,0,0,0,6075.8,0,0
+2024,November,Jagtial,Dharmapuri,Rayapatnam,201071,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Dharmapuri,Thimmapoor,201076,1,0,0,1,0,0,0,0,0,3000.2,0,0
+2024,November,Jagtial,Gollapalle,Aggimalla,201193,2,0,0,1,0,0,0,1,0,8195.4,0,0
+2024,November,Jagtial,Gollapalle,Dammannapet,279686,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Gollapalle,Gollapally,201202,3,2,1,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Gollapalle,Ibrahimnagar,201205,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Gollapalle,Rangadamunipally,201796,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Ibrahimpatnam,Ammakkapet,201267,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Ibrahimpatnam,Bardipur,201269,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Ibrahimpatnam,Dabba,201270,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Ibrahimpatnam,Gudur,201274,2,0,0,2,0,0,0,0,0,9038.6,0,0
+2024,November,Jagtial,Ibrahimpatnam,Ibrahimpatnam,201275,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Ibrahimpatnam,Kojan Kothur,201277,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Ibrahimpatnam,Thimmapur,201283,5,0,0,1,0,0,3,1,0,21786.8,0,0
+2024,November,Jagtial,Ibrahimpatnam,Varshakonda,201284,5,1,0,1,0,0,0,3,0,7931.5,0,0
+2024,November,Jagtial,Ibrahimpatnam,Vemulakurthy,201285,6,3,0,3,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Jagtial,Ambaripet,201287,3,1,0,2,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Jagtial,Dharur,201293,2,0,0,2,0,0,0,0,0,11551.5,0,0
+2024,November,Jagtial,Jagtial,Mothe,201305,5,3,0,2,0,0,0,0,0,35913.2,0,0
+2024,November,Jagtial,Jagtial,Thippannapet,201314,1,0,0,0,1,0,0,0,0,0,0,0
+2024,November,Jagtial,Jagtial  Rural,Anthargom,201289,2,1,0,1,0,0,0,0,0,1000.7,0,0
+2024,November,Jagtial,Jagtial  Rural,Chelgal,201291,4,1,0,3,0,0,0,0,0,38159.8,0,0
+2024,November,Jagtial,Jagtial  Rural,Jabithapur,201298,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Jagtial  Rural,Kalleda,201299,2,1,0,0,0,0,1,0,0,4166,0,0
+2024,November,Jagtial,Jagtial  Rural,Kandalapally,201300,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Jagtial  Rural,Laxmipur,201302,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Jagtial  Rural,Morapalli,201304,3,0,0,0,0,0,3,0,0,23144.3,0,0
+2024,November,Jagtial,Jagtial  Rural,Narsingapur,201306,2,0,0,1,0,0,1,0,0,6647.1,0,0
+2024,November,Jagtial,Jagtial  Rural,Polasa,201307,1,0,0,1,0,0,0,0,0,12160.6,0,0
+2024,November,Jagtial,Jagtial  Rural,Porandla,201308,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Jagtial  Rural,Somanpalli,201309,1,0,0,1,0,0,0,0,0,8239.5,0,0
+2024,November,Jagtial,Jagtial  Rural,Thimmapur,201313,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Kathlapur,Bommena,201443,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Kathlapur,Chinta Kunta,201444,1,0,0,0,0,0,1,0,0,14732.6,0,0
+2024,November,Jagtial,Kathlapur,Dulur,201445,2,1,1,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Kathlapur,Dumpet,201446,1,0,0,1,0,0,0,0,0,1660,0,0
+2024,November,Jagtial,Kathlapur,Kalikota,201449,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Kathlapur,Kathlapoor,201450,5,0,1,1,0,0,3,0,0,25515.3,0,0
+2024,November,Jagtial,Kathlapur,Ottapally,201451,2,0,0,1,1,0,0,0,0,5730,0,0
+2024,November,Jagtial,Kathlapur,Posanipet,201453,2,0,0,2,0,0,0,0,0,10002.7,0,0
+2024,November,Jagtial,Kathlapur,Sirkonda,201455,2,0,0,1,0,0,0,1,0,12450.6,0,0
+2024,November,Jagtial,Kathlapur,Thandrial,201457,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Kodimial,Dabbuthimmaipally,201460,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Kodimial,Kodimial,201462,7,5,0,1,1,0,0,0,0,6300,0,0
+2024,November,Jagtial,Kodimial,Kondapur,279855,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Kodimial,Nachupally,201464,4,3,0,1,0,0,0,0,0,3336.2,0,0
+2024,November,Jagtial,Kodimial,Namilakonda,201466,1,0,0,1,0,0,0,0,0,4911.4,0,0
+2024,November,Jagtial,Kodimial,Pudur,201468,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Kodimial,Ramsagar,201470,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Kodimial,Thippaiapally,201473,2,1,0,1,0,0,0,0,0,1433.7,0,0
+2024,November,Jagtial,Korutla,Dharmaram,201565,1,0,0,1,0,0,0,0,0,3500.3,0,0
+2024,November,Jagtial,Korutla,Gumlapur,201519,2,0,0,2,0,0,0,0,0,9646.7,0,0
+2024,November,Jagtial,Korutla,Joganpalli,201520,3,0,0,0,0,0,3,0,0,26584,0,0
+2024,November,Jagtial,Korutla,Kallur,201521,3,1,0,0,2,0,0,0,0,0,0,0
+2024,November,Jagtial,Korutla,Madhapur,201522,2,0,1,0,1,0,0,0,0,0,0,0
+2024,November,Jagtial,Korutla,Mohan Rao Pet,201523,1,0,0,1,0,0,0,0,0,20887.2,0,0
+2024,November,Jagtial,Korutla,Venkatapur,201529,1,0,0,1,0,0,0,0,0,10092.4,0,0
+2024,November,Jagtial,Mallapur,Kustapoor,201568,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Mallapur,Mallapur,201569,1,0,0,0,0,0,1,0,0,8598.8,0,0
+2024,November,Jagtial,Mallapur,Moglipet,201570,3,0,3,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Mallapur,Muthyampet,201571,1,0,0,1,0,0,0,0,0,8852.5,0,0
+2024,November,Jagtial,Mallapur,Obulapur,201574,3,0,0,3,0,0,0,0,0,14121.2,0,0
+2024,November,Jagtial,Mallapur,Satharam,201579,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Mallapur,Sirpoor,201580,1,0,0,1,0,0,0,0,0,6599,0,0
+2024,November,Jagtial,Mallapur,Valgondla,201581,2,0,0,2,0,0,0,0,0,5984.2,0,0
+2024,November,Jagtial,Mallial,Balvanthapur,201584,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Mallial,Mallial,201588,9,8,0,0,1,0,0,0,0,43907.5,0,0
+2024,November,Jagtial,Mallial,Muthyampet,201590,20,11,0,9,0,0,0,0,0,84319.4,0,0
+2024,November,Jagtial,Mallial,Nookapally,201592,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Mallial,Potharam,201594,4,3,0,1,0,0,0,0,0,28062.5,0,0
+2024,November,Jagtial,Mallial,Rajaram,201595,2,0,0,2,0,0,0,0,0,4641.2,0,0
+2024,November,Jagtial,Mallial,Sarvapur,201598,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Medipalle,Dammannapet,201655,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Medipalle,Kacharam,201658,1,0,0,1,0,0,0,0,0,1530.9,0,0
+2024,November,Jagtial,Medipalle,Katkakunta,201661,2,0,0,0,0,1,1,0,0,1960.9,0,0
+2024,November,Jagtial,Medipalle,Kondapur,201662,2,0,0,2,0,0,0,0,0,18237.8,0,0
+2024,November,Jagtial,Medipalle,Maidipally,201665,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Medipalle,Vallampally,201675,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Metpalle,Athmakur,201679,2,0,0,2,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Metpalle,Athmanagar,201680,1,0,0,1,0,0,0,0,0,20727.6,0,0
+2024,November,Jagtial,Metpalle,Bandalingapur,201268,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Metpalle,Cherlakondapur,282008,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Metpalle,Chowlamaddi,201682,2,0,0,1,1,0,0,0,0,24032.1,0,0
+2024,November,Jagtial,Metpalle,Jaggasagar,201683,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Metpalle,Konaraopet,201684,2,1,0,1,0,0,0,0,0,6705,0,0
+2024,November,Jagtial,Metpalle,Peddapur,201526,3,0,1,2,0,0,0,0,0,16806.6,0,0
+2024,November,Jagtial,Metpalle,Rajeshwar Raopet,201281,2,0,0,1,0,0,0,1,0,0,0,0
+2024,November,Jagtial,Metpalle,Ramaraopally,282007,1,0,0,1,0,0,0,0,0,14059.1,0,0
+2024,November,Jagtial,Metpalle,Shathakkapally,201282,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Metpalle,Vellulla,201689,5,0,0,5,0,0,0,0,0,50566.5,0,0
+2024,November,Jagtial,Metpalle,Vittampet,279874,3,0,0,3,0,0,0,0,0,18352.2,0,0
+2024,November,Jagtial,Pegadapalle,Aithupally,201776,4,0,0,4,0,0,0,0,0,17415.4,0,0
+2024,November,Jagtial,Pegadapalle,Bathkepally,201778,2,0,1,1,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Pegadapalle,Domalakunta,201780,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Pegadapalle,Maddulapally,201786,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Pegadapalle,Nancherla,201789,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Pegadapalle,Narsimhunipet,201791,2,0,0,2,0,0,0,0,0,11440,0,0
+2024,November,Jagtial,Pegadapalle,Pegadapally,201792,3,1,0,2,0,0,0,0,0,93386,0,0
+2024,November,Jagtial,Pegadapalle,Yellapur,201801,1,0,0,1,0,0,0,0,0,4020,0,0
+2024,November,Jagtial,Raikal,Alipur,201802,4,3,0,1,0,0,0,0,0,5680.3,0,0
+2024,November,Jagtial,Raikal,Ayodya,201804,2,0,0,0,1,0,0,0,1,0,0,0
+2024,November,Jagtial,Raikal,Bhoopathipur,201805,6,0,0,3,0,0,2,1,0,5146.8,0,0
+2024,November,Jagtial,Raikal,Bornapally,201806,1,0,0,1,0,0,0,0,0,4290.8,0,0
+2024,November,Jagtial,Raikal,Cherlkondapur,201807,1,0,0,1,0,0,0,0,0,747.2,0,0
+2024,November,Jagtial,Raikal,Itkial,201811,4,2,0,1,0,0,1,0,0,11141.7,0,0
+2024,November,Jagtial,Raikal,Kothapet,201815,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Raikal,Rajnagar,201821,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Raikal,Ramajipet,201822,1,0,0,0,0,0,1,0,0,3198.2,0,0
+2024,November,Jagtial,Raikal,Singa Raopet,201824,1,0,0,1,0,0,0,0,0,3268.4,0,0
+2024,November,Jagtial,Sarangapur,Lachakkapet,201897,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Jagtial,Sarangapur,Laxmidevipally,201898,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Sarangapur,Potharam,201903,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Sarangapur,Rechapally,201906,2,1,0,0,0,0,1,0,0,1346.3,0,0
+2024,November,Jagtial,Sarangapur,Sarangapur,201908,1,0,0,1,0,0,0,0,0,8314.7,0,0
+2024,November,Jagtial,Velgatoor,Endapalli,202046,4,0,0,0,0,1,2,1,0,27494.4,0,0
+2024,November,Jagtial,Velgatoor,Godishelapet,202047,1,0,0,0,0,0,1,0,0,2710.2,0,0
+2024,November,Jagtial,Velgatoor,Gullakota,202048,1,0,0,0,0,0,1,0,0,1579.3,0,0
+2024,November,Jagtial,Velgatoor,Kothapet,202053,4,0,0,3,0,0,0,1,0,33855.8,0,0
+2024,November,Jagtial,Velgatoor,Kotilingala,282003,2,0,0,1,0,0,1,0,0,4021.8,0,0
+2024,November,Jagtial,Velgatoor,Rajakkapalli,279254,1,0,0,1,0,0,0,0,0,1637.5,0,0
+2024,November,Jagtial,Velgatoor,Rajarampalli,202062,3,1,0,0,0,0,0,2,0,0,0,0
+2024,November,Jagtial,Velgatoor,Ramnoor,202063,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Jagtial,Velgatoor,Shakapoor,202064,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Bachannapeta,Bandanagaram,213285,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Bachannapeta,Kesireddipalle,213291,1,0,0,1,0,0,0,0,0,3510,0,0
+2024,November,Jangaon,Chilpur ,Malkapur,213541,6,3,0,0,0,0,3,0,0,7471,0,0
+2024,November,Jangaon,Devaruppula,Chinnamadur,213396,3,0,0,3,0,0,0,0,0,9161,0,0
+2024,November,Jangaon,Devaruppula,Devaruppula,213398,2,1,0,0,0,0,0,1,0,0,0,0
+2024,November,Jangaon,Devaruppula,Peddamadur,213409,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Devaruppula,Seetharampur,213411,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Ghanpur(Stn),Samudrala,213549,2,1,0,1,0,0,0,0,0,5526,0,0
+2024,November,Jangaon,Jangaon,Advikeshavapur,213632,2,1,0,1,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Jangaon,Cheetakoduru,213633,1,0,0,1,0,0,0,0,0,6382.4,0,0
+2024,November,Jangaon,Jangaon,Gangupahad,213635,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Jangaon,Pasarmadla,213639,3,0,0,3,0,0,0,0,0,10005.1,0,0
+2024,November,Jangaon,Jangaon,Peddaramancherla,213641,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Jangaon,Pembarthy,213642,9,1,0,7,1,0,0,0,0,26199.1,0,0
+2024,November,Jangaon,Jangaon,Shameerpet,213643,1,0,0,1,0,0,0,0,0,19549.1,0,0
+2024,November,Jangaon,Jangaon,Siddenki,213644,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Jangaon,Vadlakonda,213645,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Jangaon,Venkriyala,213646,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Jangaon,Yerragollapad,213648,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Kodakandla,Kodakandla,213681,1,0,0,1,0,0,0,0,0,6253.6,0,0
+2024,November,Jangaon,Kodakandla,Mondrai,213684,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Kodakandla,Peddabai Thanda,279182,1,0,0,1,0,0,0,0,0,1698,0,0
+2024,November,Jangaon,Lingala Ghanpur,Jeedikal,213737,1,0,0,1,0,0,0,0,0,1800,0,0
+2024,November,Jangaon,Lingala Ghanpur,Kallem,213738,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Lingala Ghanpur,Kista Gudem,278349,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Lingala Ghanpur,Kundaram,213740,1,0,0,0,0,0,1,0,0,2201.9,0,0
+2024,November,Jangaon,Lingala Ghanpur,Lingalaghanpur,213741,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Lingala Ghanpur,Nellutla,213745,3,2,0,1,0,0,0,0,0,4620.6,0,0
+2024,November,Jangaon,Lingala Ghanpur,Siripuram,213748,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Lingala Ghanpur,Vanaparthy,213749,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Lingala Ghanpur,Waddicherla,213750,6,6,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Narmetta,Dongalachelime Thanda,279303,1,0,0,0,0,0,1,0,0,5204.9,0,0
+2024,November,Jangaon,Narmetta,Gandiramavaram,213923,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Narmetta,Hanmanthapur,213924,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Narmetta,Lokya Thanda (Thalla Thanda),279245,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Narmetta,Machupahad,213926,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Narmetta,Narmetta,213929,4,1,0,2,1,0,0,0,0,6886.6,0,0
+2024,November,Jangaon,Narmetta,Veldanda,213933,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Palakurthi,Dardapalli,213992,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Palakurthi,Eravennu,213993,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Palakurthi,Gudur,213994,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Palakurthi,Harijana Colony,278991,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Palakurthi,Lakshminarayanapur,213997,1,0,0,0,0,0,1,0,0,3343.4,0,0
+2024,November,Jangaon,Palakurthi,Palakurthy,214002,6,6,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Palakurthi,Valmidi,214009,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Raghunatha Palle,Ashwaraopalle,214055,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Raghunatha Palle,Banjipeta,214056,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Raghunatha Palle,Govardhanagiri,214060,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Raghunatha Palle,Komalla,214066,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Raghunatha Palle,Nidigonda,214073,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Raghunatha Palle,Shivaji Nagar,279113,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Tharigoppula ,Akkarajupalle,213917,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Tharigoppula ,Ankushapur,213919,2,0,0,2,0,0,0,0,0,6780,0,0
+2024,November,Jangaon,Tharigoppula ,Jalbai Thanda,279301,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Tharigoppula ,Narasapur,213928,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Tharigoppula ,Tarigoppula,213932,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Zaffergadh,Shapalle,214251,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jangaon,Zaffergadh,Thimmapur,214258,1,0,0,1,0,0,0,0,0,3491.4,0,0
+2024,November,Jangaon,Zaffergadh,Zaffargadh,214261,1,0,0,1,0,0,0,0,0,3738.8,0,0
+2024,November,Jayashankar Bhupalpalli,Bhupalpalle,Azamnagar,213304,9,0,0,9,0,0,0,0,0,15588.2,0,0
+2024,November,Jayashankar Bhupalpalli,Bhupalpalle,Deekshakunta,213305,1,0,0,0,0,0,1,0,0,995.5,0,0
+2024,November,Jayashankar Bhupalpalli,Bhupalpalle,Gorlaveedu,213308,4,2,0,2,0,0,0,0,0,3727.7,0,0
+2024,November,Jayashankar Bhupalpalli,Bhupalpalle,Gurrampet,214208,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Bhupalpalle,Kamalapur,213310,4,0,0,0,0,0,4,0,0,27832,0,0
+2024,November,Jayashankar Bhupalpalli,Bhupalpalle,Lambadi Thanda (B),277981,2,0,0,0,0,0,2,0,0,6207.8,0,0
+2024,November,Jayashankar Bhupalpalli,Bhupalpalle,Nagaram,213314,1,0,0,0,0,0,1,0,0,3695.4,0,0
+2024,November,Jayashankar Bhupalpalli,Bhupalpalle,Neredpalle,213316,1,0,0,0,0,0,1,0,0,1149.5,0,0
+2024,November,Jayashankar Bhupalpalli,Bhupalpalle,Peddapur,214215,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Bhupalpalle,Rampur,213318,2,1,0,0,0,0,1,0,0,1268,0,0
+2024,November,Jayashankar Bhupalpalli,Bhupalpalle,Shamnagar,277994,1,0,0,1,0,0,0,0,0,2864.6,0,0
+2024,November,Jayashankar Bhupalpalli,Chityal,Challagarige,213369,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Chityal,Doothpalle,213371,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Chityal,Gopalapur,213376,3,0,0,1,0,0,2,0,0,5023.5,0,0
+2024,November,Jayashankar Bhupalpalli,Chityal,Jookal,213379,3,0,0,2,0,0,0,1,0,12728.3,0,0
+2024,November,Jayashankar Bhupalpalli,Chityal,Kailapur,278025,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Chityal,Ninepaka,213383,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Ghanapur,Baswarajpalle,213519,1,0,0,1,0,0,0,0,0,2750.3,0,0
+2024,November,Jayashankar Bhupalpalli,Ghanapur,Budharam,213520,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Ghanapur,Burrakayalagudem,278218,2,0,0,2,0,0,0,0,0,1136.2,0,0
+2024,November,Jayashankar Bhupalpalli,Ghanapur,Chelpur,213521,6,0,0,5,0,1,0,0,0,166438.9,0,0
+2024,November,Jayashankar Bhupalpalli,Ghanapur,Mylaram,213527,2,0,0,1,0,0,1,0,0,4648.5,0,0
+2024,November,Jayashankar Bhupalpalli,Ghanapur,Nagarampalle,213528,1,0,0,1,0,0,0,0,0,1909.3,0,0
+2024,November,Jayashankar Bhupalpalli,Kataram,Chintakani,201427,1,0,0,0,0,0,1,0,0,5989.7,0,0
+2024,November,Jayashankar Bhupalpalli,Kataram,Kataram,201435,4,3,0,0,0,0,1,0,0,3750.3,0,0
+2024,November,Jayashankar Bhupalpalli,Kataram,Medipally,280838,1,0,0,0,0,0,1,0,0,1205.4,0,0
+2024,November,Jayashankar Bhupalpalli,Kataram,Regulagudem,201438,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Kataram,Shankarpalli,201439,2,0,0,1,0,0,1,0,0,11082.6,0,0
+2024,November,Jayashankar Bhupalpalli,Mahadevpur,Kaleshwaram,201540,2,1,0,1,0,0,0,0,0,9345.1,0,0
+2024,November,Jayashankar Bhupalpalli,Mahadevpur,Mahadevpoor,201544,3,1,0,1,0,0,0,1,0,4199,0,0
+2024,November,Jayashankar Bhupalpalli,Mahadevpur,Metpalli,201545,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Malharrao,Mallaram,201558,1,0,0,1,0,0,0,0,0,4522.3,0,0
+2024,November,Jayashankar Bhupalpalli,Malharrao,Peddathundla,201560,2,0,0,2,0,0,0,0,0,10699.1,0,0
+2024,November,Jayashankar Bhupalpalli,Mogullapalle,Pidisilla,213849,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Mutharam Mahadevpur,Borlagudem,201706,1,0,0,0,0,0,1,0,0,11127.7,0,0
+2024,November,Jayashankar Bhupalpalli,Mutharam Mahadevpur,Mutharam,201711,1,0,0,1,0,0,0,0,0,4035,0,0
+2024,November,Jayashankar Bhupalpalli,Mutharam Mahadevpur,Nallakunta (Meenajipet),201712,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Mutharam Mahadevpur,Vajinepalli,281734,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Mutharam Mahadevpur,Yamanpally,201717,1,0,0,1,0,0,0,0,0,6120.7,0,0
+2024,November,Jayashankar Bhupalpalli,Regonda,Bhagirthipeta,214102,4,0,0,1,0,0,3,0,0,7900.3,0,0
+2024,November,Jayashankar Bhupalpalli,Regonda,Dammannapet,214106,2,1,0,1,0,0,0,0,0,2841.8,0,0
+2024,November,Jayashankar Bhupalpalli,Regonda,Jaggaiahpet,214108,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Regonda,Kanaparthy,214109,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Regonda,Kothapalligori,214112,11,0,0,0,0,0,1,10,0,3980.5,0,0
+2024,November,Jayashankar Bhupalpalli,Regonda,R.G Thanda,278121,1,0,0,1,0,0,0,0,0,1923.6,0,0
+2024,November,Jayashankar Bhupalpalli,Regonda,Regonda,214122,2,0,0,1,0,0,0,1,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Regonda,Repaka,214123,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Regonda,Roopireddi Palli,214125,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Tekumatla ,Ashireddipalle,213365,1,0,0,0,0,0,1,0,0,4578,0,0
+2024,November,Jayashankar Bhupalpalli,Tekumatla ,Dubyala,213836,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Tekumatla ,Raghavareddipet,213851,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jayashankar Bhupalpalli,Tekumatla ,Tekumatla,213389,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Jogulamba Gadwal,Aiza,Kesavaram,204794,2,0,0,0,0,0,0,2,0,0,0,0
+2024,November,Jogulamba Gadwal,Aiza,Venkatapuram,204804,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jogulamba Gadwal,Alampur,Linganvai,204816,1,0,0,1,0,0,0,0,0,2240,0,0
+2024,November,Jogulamba Gadwal,Alampur,Utkoor,204824,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jogulamba Gadwal,Dharur,Dharur,205075,1,0,0,0,0,0,1,0,0,17087.6,0,0
+2024,November,Jogulamba Gadwal,Gadwal,Baswacheru,205146,2,0,0,2,0,0,0,0,0,7161.2,0,0
+2024,November,Jogulamba Gadwal,Gadwal,Gonpad,205150,1,0,0,1,0,0,0,0,0,1270.3,0,0
+2024,November,Jogulamba Gadwal,Gadwal,Sangala,205165,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jogulamba Gadwal,Gadwal,Veerapur,205166,3,1,0,2,0,0,0,0,0,3515.2,0,0
+2024,November,Jogulamba Gadwal,Ghattu,Mittadoddi,205203,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Jogulamba Gadwal,Itikyal,Kodandapuram,205254,1,0,0,1,0,0,0,0,0,6337.4,0,0
+2024,November,Jogulamba Gadwal,Itikyal,Kondair,205255,1,0,0,1,0,0,0,0,0,1713.2,0,0
+2024,November,Jogulamba Gadwal,Itikyal,Munagala,205256,1,0,0,1,0,0,0,0,0,2898.7,0,0
+2024,November,Jogulamba Gadwal,Itikyal,Saterla,205262,2,0,0,1,0,0,0,1,0,3070,0,0
+2024,November,Jogulamba Gadwal,Itikyal,Yerrawalle,278674,6,2,0,4,0,0,0,0,0,29392.8,0,0
+2024,November,Jogulamba Gadwal,Maldakal,Maldakal,205638,5,1,0,2,0,0,0,2,0,9231.9,0,0
+2024,November,Jogulamba Gadwal,Maldakal,Vittalapuram,205649,2,0,0,2,0,0,0,0,0,2900,0,0
+2024,November,Jogulamba Gadwal,Rajoli,Mandoddi,206050,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jogulamba Gadwal,Rajoli,Rajoli,206057,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Jogulamba Gadwal,Undavelly    ,Kalgotla,205662,1,0,0,0,0,0,1,0,0,1418.1,0,0
+2024,November,Jogulamba Gadwal,Undavelly    ,Pullur,205673,4,0,1,3,0,0,0,0,0,6033.4,0,0
+2024,November,Jogulamba Gadwal,Waddepalle,Tanagala,206060,1,0,0,1,0,0,0,0,0,1634,0,0
+2024,November,Kamareddy,Banswada,Desaipet,209234,1,0,0,0,1,0,0,0,0,3820.2,0,0
+2024,November,Kamareddy,Banswada,Kothabadi,278210,1,0,0,1,0,0,0,0,0,2878.4,0,0
+2024,November,Kamareddy,Banswada,Koyyagutta Thanda,277920,1,0,0,1,0,0,0,0,0,3858,0,0
+2024,November,Kamareddy,Banswada,Pocharam,209239,1,0,0,1,0,0,0,0,0,3312.9,0,0
+2024,November,Kamareddy,Bhiknur,Anthampally,209262,3,0,0,3,0,0,0,0,0,7590.3,0,0
+2024,November,Kamareddy,Bhiknur,Baswapur,209263,3,1,0,2,0,0,0,0,0,7932.7,0,0
+2024,November,Kamareddy,Bhiknur,Bhiknoor,209265,23,12,1,10,0,0,0,0,0,32767.8,0,0
+2024,November,Kamareddy,Bhiknur,Gurjakunta,209266,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Bhiknur,Jangampally,209268,1,0,0,1,0,0,0,0,0,877.8,0,0
+2024,November,Kamareddy,Bhiknur,Laxmidevanpally,209271,1,0,0,0,0,0,1,0,0,2913,0,0
+2024,November,Kamareddy,Bhiknur,Peddamallareddy,209272,3,1,0,2,0,0,0,0,0,3236.2,0,0
+2024,November,Kamareddy,Bhiknur,Rameshwerpally,209275,1,0,0,1,0,0,0,0,0,2163,0,0
+2024,November,Kamareddy,Bhiknur,Ryagatlapally,209276,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Bhiknur,Thippapur,209279,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Bibipet ,Beebipet,209398,12,5,0,5,1,0,0,0,1,45885,0,0
+2024,November,Kamareddy,Bibipet ,Issanagar,209402,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Bibipet ,Mamdapur,209407,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Bibipet ,Tujalpur,209410,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Bichkunda,Bichkunda,209282,8,7,0,1,0,0,0,0,0,4493,0,0
+2024,November,Kamareddy,Bichkunda,Devada Big,209284,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Bichkunda,Wajidnagar,209304,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Birkoor,Birkur,209311,2,0,0,2,0,0,0,0,0,12359.4,0,0
+2024,November,Kamareddy,Domakonda,Ambaripet,209396,2,1,0,1,0,0,0,0,0,3025.7,0,0
+2024,November,Kamareddy,Domakonda,Chitamanpally,209399,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Domakonda,Domakonda,209400,6,4,0,0,0,0,2,0,0,12823.9,0,0
+2024,November,Kamareddy,Domakonda,Gottumukla,209401,2,1,0,1,0,0,0,0,0,7046.6,0,0
+2024,November,Kamareddy,Domakonda,Muthyampet,209408,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Gandhari,Chadmal Thanda,278502,1,0,0,1,0,0,0,0,0,3859,0,0
+2024,November,Kamareddy,Gandhari,Gandhari,209416,4,1,0,3,0,0,0,0,0,3299.8,0,0
+2024,November,Kamareddy,Gandhari,Gandivet,209417,1,0,0,1,0,0,0,0,0,2630,0,0
+2024,November,Kamareddy,Gandhari,Nagloor,209423,1,0,0,1,0,0,0,0,0,4595.7,0,0
+2024,November,Kamareddy,Gandhari,Seethaipally,209427,2,0,0,2,0,0,0,0,0,8685.1,0,0
+2024,November,Kamareddy,Gandhari,Somaram,278506,1,0,0,1,0,0,0,0,0,1832.6,0,0
+2024,November,Kamareddy,Gandhari,Somla Nayak Thanda,278496,1,0,0,0,0,0,1,0,0,3802.6,0,0
+2024,November,Kamareddy,Jukkal,Gundur,209454,1,0,0,1,0,0,0,0,0,1700,0,0
+2024,November,Kamareddy,Jukkal,Hangarga,209455,3,0,0,0,0,0,2,1,0,11590.4,0,0
+2024,November,Kamareddy,Jukkal,Longan,278370,2,0,0,1,0,0,1,0,0,1500,0,0
+2024,November,Kamareddy,Jukkal,Pedda Edgi,209465,1,0,0,1,0,0,0,0,0,3380.9,0,0
+2024,November,Kamareddy,Kamareddy,Chinnamallareddy,209470,2,1,0,0,1,0,0,0,0,2720.9,0,0
+2024,November,Kamareddy,Kamareddy,Gargul,209472,1,0,0,1,0,0,0,0,0,3870.2,0,0
+2024,November,Kamareddy,Kamareddy,Issrojiwadi,209474,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Kamareddy,Kotalpally,278580,1,0,0,1,0,0,0,0,0,3295.9,0,0
+2024,November,Kamareddy,Kamareddy,Narsannapally,209478,1,0,0,1,0,0,0,0,0,11072.9,0,0
+2024,November,Kamareddy,Lingampet,Lingampet,209528,3,2,0,0,0,0,0,1,0,0,0,0
+2024,November,Kamareddy,Lingampet,Mothe,209530,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Lingampet,Pothaipalli,209535,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Lingampet,Shetpally,209537,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Machareddy,Chukkapur,209544,2,1,0,0,0,0,1,0,0,2990,0,0
+2024,November,Kamareddy,Machareddy,Fareedpet,209546,3,0,0,3,0,0,0,0,0,12395.6,0,0
+2024,November,Kamareddy,Machareddy,Gajyanayak Thanda,278518,1,0,0,1,0,0,0,0,0,11563,0,0
+2024,November,Kamareddy,Machareddy,Issaipet,209548,3,0,0,2,0,0,1,0,0,5000,0,0
+2024,November,Kamareddy,Machareddy,Palwancha,209553,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Machareddy,Potharam,209554,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Madnur,Chinna Tadgoor,278510,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Madnur,Handekeroor,209568,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Madnur,Madnur,209574,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Madnur,Shakkarga Kd,209580,2,1,0,1,0,0,0,0,0,3963.4,0,0
+2024,November,Kamareddy,Madnur,Sirpoor,278448,1,0,0,0,0,0,1,0,0,2541.6,0,0
+2024,November,Kamareddy,Naga Reddipet,Chinnoor,209627,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Naga Reddipet,Gopalpet,278478,2,0,0,2,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Naga Reddipet,Raghavapalli,209637,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Nasrullabad ,Ankole Camp,278309,1,0,0,1,0,0,0,0,0,5897.5,0,0
+2024,November,Kamareddy,Nasrullabad ,Ankole Thanda,278316,1,0,0,1,0,0,0,0,0,3977.7,0,0
+2024,November,Kamareddy,Nasrullabad ,B Devpalli,209308,4,0,0,4,0,0,0,0,0,10093.5,0,0
+2024,November,Kamareddy,Nasrullabad ,Durki,209314,1,0,0,1,0,0,0,0,0,1805.6,0,0
+2024,November,Kamareddy,Nasrullabad ,Hajipur,278324,2,0,0,2,0,0,0,0,0,7592.6,0,0
+2024,November,Kamareddy,Nasrullabad ,Nemli,209320,2,1,0,0,1,0,0,0,0,10341,0,0
+2024,November,Kamareddy,Nizam Sagar,Arepally,209726,1,0,0,1,0,0,0,0,0,1595.9,0,0
+2024,November,Kamareddy,Nizam Sagar,Banjapalli,209727,1,0,0,1,0,0,0,0,0,16699.4,0,0
+2024,November,Kamareddy,Nizam Sagar,Manglur,278491,1,0,0,1,0,0,0,0,0,2143.1,0,0
+2024,November,Kamareddy,Pedda Kodapgal ,Kodapgal Big,209295,2,0,0,0,0,0,2,0,0,18443.2,0,0
+2024,November,Kamareddy,Pitlam,Chinna Gouraram,278474,3,0,0,2,0,0,1,0,0,1660.4,0,0
+2024,November,Kamareddy,Pitlam,Gouraram Thanda,278475,1,0,0,0,0,0,1,0,0,367.8,0,0
+2024,November,Kamareddy,Pitlam,Jagadambathanda,278472,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Pitlam,Kodapgal Kd.,209750,1,0,0,1,0,0,0,0,0,492.9,0,0
+2024,November,Kamareddy,Pitlam,Kurthi,209751,1,0,0,0,0,0,1,0,0,392.9,0,0
+2024,November,Kamareddy,Pitlam,Pitlam,209753,4,1,0,3,0,0,0,0,0,1621.3,0,0
+2024,November,Kamareddy,Rajampet ,Argonda,209813,1,0,0,1,0,0,0,0,0,2533,0,0
+2024,November,Kamareddy,Rajampet ,Baswanpally,209814,1,0,0,0,0,0,1,0,0,3662.3,0,0
+2024,November,Kamareddy,Rajampet ,Rajampet,209274,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Ramareddy ,Moshampur,209781,3,1,0,2,0,0,0,0,0,9684.4,0,0
+2024,November,Kamareddy,Ramareddy ,Posanipet,209783,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Ramareddy ,Ramareddy,209784,2,0,0,1,0,0,1,0,0,8089.6,0,0
+2024,November,Kamareddy,Ramareddy ,Rangampet,209785,3,0,0,2,0,0,0,1,0,6986.9,0,0
+2024,November,Kamareddy,Ramareddy ,Reddypet,209556,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Ramareddy ,Singaraipally,209557,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Sadasivanagar,Adloor-Yellareddy,209767,4,1,0,0,0,0,3,0,0,8725.1,0,0
+2024,November,Kamareddy,Sadasivanagar,Kalwaral,209774,1,0,0,0,0,0,1,0,0,4200.6,0,0
+2024,November,Kamareddy,Sadasivanagar,Kupriyal,209776,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Sadasivanagar,Modegaon,209780,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Sadasivanagar,Purya Nayak Thanda,278558,1,0,0,0,0,0,1,0,0,3247.5,0,0
+2024,November,Kamareddy,Sadasivanagar,Sadashivangar,209786,3,0,0,0,2,0,0,1,0,5140.3,0,0
+2024,November,Kamareddy,Sadasivanagar,Thirmanpally,209788,2,0,0,1,0,0,1,0,0,3523.5,0,0
+2024,November,Kamareddy,Sadasivanagar,Uthnoor,209428,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Sadasivanagar,Yacharam,209431,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Kamareddy,Tadwai,Tadwai,209831,2,1,0,0,1,0,0,0,0,4184.4,0,0
+2024,November,Kamareddy,Tadwai,Yendriyal,209833,1,0,0,0,0,0,0,0,1,0,0,0
+2024,November,Kamareddy,Yellareddy,Jangamaipalli,209890,1,0,0,0,0,0,1,0,0,2522.7,0,0
+2024,November,Kamareddy,Yellareddy,Vellutlapet,278614,1,0,0,0,0,0,1,0,0,2595.9,0,0
+2024,November,Karimnagar, Ellandhakunta ,Ellanthakunta,201322,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar, Ellandhakunta ,Mallial,201331,2,1,0,0,0,0,0,1,0,0,0,0
+2024,November,Karimnagar, Ellandhakunta ,Seethampeta,201339,1,0,0,1,0,0,0,0,0,6400.3,0,0
+2024,November,Karimnagar, Ellandhakunta ,Sirsaid,201341,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar, Ellandhakunta ,Tekurthy,201343,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Chigurumamidi,Bommanapalli,201022,2,0,0,1,0,0,0,1,0,15793.2,0,0
+2024,November,Karimnagar,Chigurumamidi,Gagireddypally,201024,3,2,0,1,0,0,0,0,0,5167.1,0,0
+2024,November,Karimnagar,Chigurumamidi,Indurthy,201025,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Karimnagar,Chigurumamidi,Mulkanoor,201029,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Chigurumamidi,Nawabpet,201030,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Chigurumamidi,Rekonda,201034,3,0,0,1,0,0,2,0,0,74023,0,0
+2024,November,Karimnagar,Chigurumamidi,Sundaragiri,201036,11,0,0,0,0,0,5,6,0,87410.1,0,0
+2024,November,Karimnagar,Choppadandi,Arnakonda,201038,2,1,0,1,0,0,0,0,0,15813.5,0,0
+2024,November,Karimnagar,Choppadandi,Desaipet,201043,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Choppadandi,Ragampeta,201049,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Choppadandi,Vedurugatta,201052,3,2,0,1,0,0,0,0,0,27796.3,0,0
+2024,November,Karimnagar,Gangadhara,Burugupally,201170,2,0,0,2,0,0,0,0,0,20977.5,0,0
+2024,November,Karimnagar,Gangadhara,Garshakurthy,201172,3,2,0,1,0,0,0,0,0,12071.7,0,0
+2024,November,Karimnagar,Gangadhara,Gattubuthukur,201173,2,0,0,1,0,0,1,0,0,26343,0,0
+2024,November,Karimnagar,Gangadhara,Himmathnagar,201175,2,0,0,2,0,0,0,0,0,26003.5,0,0
+2024,November,Karimnagar,Gangadhara,Kurikyala,201180,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Gangadhara,Madhuranagar,277999,4,2,0,1,1,0,0,0,0,71287.6,0,0
+2024,November,Karimnagar,Gangadhara,Muppidi Narsaiahpally,278106,1,0,0,1,0,0,0,0,0,7289.6,0,0
+2024,November,Karimnagar,Gangadhara,Nagireddypoor,201183,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Gangadhara,Rangaraopalli,201186,1,0,0,0,1,0,0,0,0,14449.4,0,0
+2024,November,Karimnagar,Gangadhara,Ryalapally,201187,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Gangadhara,Tadijerry,201189,2,1,0,1,0,0,0,0,0,6831.2,0,0
+2024,November,Karimnagar,Gangadhara,Uppermallial,201190,2,1,0,1,0,0,0,0,0,12226.9,0,0
+2024,November,Karimnagar,Gangadhara,Venkampally,289456,2,1,0,0,1,0,0,0,0,8853.6,0,0
+2024,November,Karimnagar,Huzurabad,Chelpur,201249,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Huzurabad,Kandugula,201255,1,0,0,1,0,0,0,0,0,11205.6,0,0
+2024,November,Karimnagar,Huzurabad,Kankulagidda,201256,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Huzurabad,Peddapapaiahpalli,201259,6,1,0,0,0,0,5,0,0,59510.6,0,0
+2024,November,Karimnagar,Huzurabad,Rajapalli,278147,1,0,0,1,0,0,0,0,0,14601.8,0,0
+2024,November,Karimnagar,Huzurabad,Singapur,201263,2,1,0,1,0,0,0,0,0,13618.7,0,0
+2024,November,Karimnagar,Huzurabad,Thummanapalli,201265,1,0,0,1,0,0,0,0,0,13029.7,0,0
+2024,November,Karimnagar,Jammikunta,Korapally,201326,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Jammikunta,Madipally,201330,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Jammikunta,Nagampet,278342,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Manakondur,Devampally,201603,1,0,0,0,1,0,0,0,0,0,0,0
+2024,November,Karimnagar,Manakondur,Gangipally,201605,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Manakondur,Gattududdenapally,201606,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Manakondur,Kondapalkala,201610,3,0,0,1,2,0,0,0,0,35996.2,0,0
+2024,November,Karimnagar,Manakondur,Pachunoor,201617,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Manakondur,Pochampally,201618,1,0,0,1,0,0,0,0,0,1979.9,0,0
+2024,November,Karimnagar,Manakondur,Rangapet,201619,1,0,0,0,0,0,1,0,0,20327.4,0,0
+2024,November,Karimnagar,Manakondur,Utoor,201622,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Manakondur,Vannaram,201623,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Manakondur,Veldhi,201625,1,0,0,0,0,0,1,0,0,4606.2,0,0
+2024,November,Karimnagar,Ramadugu,Dottojipet,201831,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Ramadugu,Gopalraopeta,201833,3,2,0,1,0,0,0,0,0,19370.1,0,0
+2024,November,Karimnagar,Ramadugu,Gundi,201834,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Ramadugu,Mothe,201839,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Ramadugu,Shanagar,201844,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Shankarapatnam,Amudalapally,201912,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Shankarapatnam,Gaddapaka,201917,1,0,0,1,0,0,0,0,0,3922.7,0,0
+2024,November,Karimnagar,Shankarapatnam,Gollapally,278161,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Shankarapatnam,Ippalapally,201918,1,0,0,1,0,0,0,0,0,13975.3,0,0
+2024,November,Karimnagar,Shankarapatnam,Keshavapatnam,201922,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Shankarapatnam,Molangur,201926,2,0,0,2,0,0,0,0,0,30954.5,0,0
+2024,November,Karimnagar,Shankarapatnam,Mutharam,201927,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Shankarapatnam,Thadikal,201929,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Shankarapatnam,Vankayagudem,201930,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Thimmapur,Maktapalli,278146,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Thimmapur,Nallagonda,202012,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Thimmapur,Parlapally,202015,2,0,0,1,0,0,1,0,0,67465.4,0,0
+2024,November,Karimnagar,V Saidapur,Eklaspur,201874,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,V Saidapur,Godishala,201876,2,0,0,2,0,0,0,0,0,5968.2,0,0
+2024,November,Karimnagar,V Saidapur,Saidapur,201883,2,1,0,1,0,0,0,0,0,4371.5,0,0
+2024,November,Karimnagar,Veenavanka,Challur,202025,1,0,0,1,0,0,0,0,0,56782.8,0,0
+2024,November,Karimnagar,Veenavanka,Mallannapally,278153,2,0,0,2,0,0,0,0,0,18585.7,0,0
+2024,November,Karimnagar,Veenavanka,Mamidalapalli,202036,2,1,0,1,0,0,0,0,0,0,0,0
+2024,November,Karimnagar,Veenavanka,Narsingapur,202037,1,0,0,1,0,0,0,0,0,3920.4,0,0
+2024,November,Karimnagar,Veenavanka,Veenavanka,202042,1,0,0,1,0,0,0,0,0,5220,0,0
+2024,November,Khammam,Bonakal,Bonakal,202182,1,0,0,1,0,0,0,0,0,3058,0,0
+2024,November,Khammam,Bonakal,Mustikuntla,202193,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Chinthakani,Chinamandava,202248,1,0,0,0,0,0,1,0,0,2585.2,0,0
+2024,November,Khammam,Chinthakani,Nagili Gonda,202255,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Chinthakani,Proddutur,202260,2,0,0,1,0,0,1,0,0,5026.9,0,0
+2024,November,Khammam,Kalluru,China Korukondi,202364,2,0,0,1,0,0,1,0,0,2560,0,0
+2024,November,Khammam,Kalluru,Gokavaram,202365,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Kalluru,Hanumathanda,279057,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Kalluru,Kalluru,202366,16,6,0,9,1,0,0,0,0,48127,0,0
+2024,November,Khammam,Kalluru,V.N.Thanda,202380,1,0,0,0,1,0,0,0,0,0,0,0
+2024,November,Khammam,Khammam Rural,Kachirajugudem,202409,2,1,0,0,1,0,0,0,0,4281.5,0,0
+2024,November,Khammam,Kusumanchi,Gattu Singaram,202528,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Kusumanchi,Mallepalli,202540,2,1,0,1,0,0,0,0,0,2759.9,0,0
+2024,November,Khammam,Kusumanchi,Munigepalli,202541,1,0,0,0,0,0,1,0,0,3200.9,0,0
+2024,November,Khammam,Kusumanchi,Palair,202546,1,0,0,1,0,0,0,0,0,4291,0,0
+2024,November,Khammam,Kusumanchi,Rajupeta,202549,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Madhira,Atukuru,202553,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Madhira,Dendukuru,202555,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Mudigonda,Banapuram,202582,5,0,0,4,0,0,0,1,0,12745.1,0,0
+2024,November,Khammam,Mudigonda,Chirumarri,202583,3,0,0,3,0,0,0,0,0,8514.8,0,0
+2024,November,Khammam,Mudigonda,Gandhasiri,202584,1,0,0,1,0,0,0,0,0,3578.3,0,0
+2024,November,Khammam,Mudigonda,Gokinepalli,202585,2,1,0,1,0,0,0,0,0,3502.9,0,0
+2024,November,Khammam,Mudigonda,Kamalapuram,202586,5,0,0,5,0,0,0,0,0,23445.8,0,0
+2024,November,Khammam,Mudigonda,Madhapuram,202589,3,0,0,3,0,0,0,0,0,5120.7,0,0
+2024,November,Khammam,Mudigonda,Medepalli,202592,1,0,0,0,1,0,0,0,0,3043.9,0,0
+2024,November,Khammam,Mudigonda,Pammi,202595,6,0,0,2,4,0,0,0,0,3170.4,0,0
+2024,November,Khammam,Mudigonda,Pandregupalli,202596,1,0,0,1,0,0,0,0,0,719.7,0,0
+2024,November,Khammam,Mudigonda,Pedamandava,202597,2,1,0,0,1,0,0,0,0,830.9,0,0
+2024,November,Khammam,Mudigonda,Vallapuram,202600,1,0,0,1,0,0,0,0,0,313.6,0,0
+2024,November,Khammam,Mudigonda,Yadavalli,202602,1,0,0,0,1,0,0,0,0,3967.4,0,0
+2024,November,Khammam,Nelakondapalle,Ammugudem,202609,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Nelakondapalle,Bairavunipalli,202613,2,0,0,1,0,0,1,0,0,1278,0,0
+2024,November,Khammam,Nelakondapalle,Kothakothuru,202622,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Khammam,Nelakondapalle,Nelakondapally,202628,6,3,0,3,0,0,0,0,0,9106.5,0,0
+2024,November,Khammam,Nelakondapalle,Painampalli,202629,3,2,0,1,0,0,0,0,0,2007.7,0,0
+2024,November,Khammam,Nelakondapalle,Rajeswarapuram,202630,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Raghunadhapalem,Haryathanda,279645,1,0,0,0,0,0,1,0,0,1803,0,0
+2024,November,Khammam,Raghunadhapalem,Papatapalle,202444,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Raghunadhapalem,V.R.Banjara,279629,1,0,0,0,0,0,1,0,0,5164.8,0,0
+2024,November,Khammam,Sathupalle,Buggapadu,202686,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Sathupalle,Gangaram,202688,6,3,0,3,0,0,0,0,0,18958.3,0,0
+2024,November,Khammam,Singareni,Singareni,202715,8,0,0,1,0,0,6,1,0,19712.2,0,0
+2024,November,Khammam,Singareni,Viswanadhapalli,202719,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Khammam,Thirumalayapalem,Gol Thanda,202761,2,0,0,2,0,0,0,0,0,4400,0,0
+2024,November,Khammam,Thirumalayapalem,Kokkireni,202768,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Thirumalayapalem,Patharlapadu,202772,1,0,0,1,0,0,0,0,0,2270.3,0,0
+2024,November,Khammam,Thirumalayapalem,Thirumalayapalem,202780,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Vemsoor,Duddipudi,202807,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Khammam,Vemsoor,Kandukuru,202809,3,0,0,3,0,0,0,0,0,15230,0,0
+2024,November,Khammam,Vemsoor,Kondragatlamallela,202810,1,0,0,1,0,0,0,0,0,2146.2,0,0
+2024,November,Khammam,Vemsoor,Vemsoor,202819,5,0,0,5,0,0,0,0,0,8629.7,0,0
+2024,November,Khammam,Yerrupalem,Banigandlapadu,202868,1,0,0,1,0,0,0,0,0,1375.6,0,0
+2024,November,Khammam,Yerrupalem,Bheemavaram Harijanawada,280151,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Khammam,Yerrupalem,Gosaveedu,202874,1,0,0,1,0,0,0,0,0,1002,0,0
+2024,November,Khammam,Yerrupalem,Yerrupalem,202889,3,0,0,3,0,0,0,0,0,3920,0,0
+2024,November,Komarambheem Asifabad,Bejjur,Bejjur,194959,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Komarambheem Asifabad,Bejjur,Marthadi,194969,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Komarambheem Asifabad,Kagaz Nagar,NGOs Colony,289447,4,0,0,4,0,0,0,0,0,41904.9,0,0
+2024,November,Komarambheem Asifabad,Kouthala,Kanki,195374,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Komarambheem Asifabad,Penchikalpet ,Yelkapalle,194980,1,0,0,0,0,0,1,0,0,9219,0,0
+2024,November,Komarambheem Asifabad,Rebbana,Narayanpur,195611,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Komarambheem Asifabad,Rebbana,Rajaram,288923,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Komarambheem Asifabad,Rebbana,Rebbana,195613,4,1,0,1,0,0,2,0,0,26536,0,0
+2024,November,Komarambheem Asifabad,Sirpur (T),Chintakunta,195637,1,0,0,1,0,0,0,0,0,3768.7,0,0
+2024,November,Komarambheem Asifabad,Tiryani,Goyagoan,281926,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Komarambheem Asifabad,Wankdi,Khamana,195769,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Komarambheem Asifabad,Wankdi,Wankidi Kalan,195774,3,2,0,0,1,0,0,0,0,8311.4,0,0
+2024,November,Mahabubabad,Danthalapally ,Danthalapalle,213951,7,0,1,2,0,0,3,1,0,44058.9,0,0
+2024,November,Mahabubabad,Danthalapally ,Gunnepally,213954,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Dornakal,Fakeera Thanda,278030,3,0,0,2,0,0,1,0,0,1514.3,0,0
+2024,November,Mahabubabad,Dornakal,Vennaram,213451,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Kesamudram,Ameenapur,213650,1,0,0,1,0,0,0,0,0,17565.4,0,0
+2024,November,Mahabubabad,Kesamudram,Arpanapale,213652,2,0,0,1,1,0,0,0,0,6555.7,0,0
+2024,November,Mahabubabad,Kesamudram,Bhukya Ram Thanda,279614,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Mahabubabad,Kesamudram,Dhanasari,213654,1,0,0,1,0,0,0,0,0,5146.1,0,0
+2024,November,Mahabubabad,Kesamudram,Kesamudram,213659,6,3,0,3,0,0,0,0,0,31712.2,0,0
+2024,November,Mahabubabad,Kesamudram,Kesamudram (Stn),213660,3,2,0,1,0,0,0,0,0,16333.4,0,0
+2024,November,Mahabubabad,Kesamudram,"ST Colony
+(Sub-Station Thanda)",279534,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Kuravi,Kothur (C),213718,2,0,0,0,0,0,1,1,0,2435,0,0
+2024,November,Mahabubabad,Kuravi,Kuravi,213720,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Kuravi,Lingya Thanda (B),278122,1,0,0,1,0,0,0,0,0,2065.1,0,0
+2024,November,Mahabubabad,Kuravi,Lingya Thanda(K),278215,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Kuravi,Seerole,213727,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Kuravi,Thatya Thanda,278144,1,0,0,1,0,0,0,0,0,2338.1,0,0
+2024,November,Mahabubabad,Mahabubabad,Madhavapuram,213780,1,0,0,0,0,0,0,0,1,0,0,0
+2024,November,Mahabubabad,Maripeda,Abbaipalem,213809,2,0,0,0,0,0,2,0,0,26821.7,0,0
+2024,November,Mahabubabad,Maripeda,Beechrajpalle,213812,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Maripeda,Mulamarri Thanda,279043,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Mahabubabad,Maripeda,Purushottamaigudem,213825,1,0,0,0,0,0,1,0,0,6614.9,0,0
+2024,November,Mahabubabad,Narsimhulapet,Narsimhulapet,213960,5,0,0,0,0,0,5,0,0,55980.1,0,0
+2024,November,Mahabubabad,Narsimhulapet,Pedda Nagaram Stage,279259,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Narsimhulapet,Vanthadupula,213967,4,0,0,1,0,0,1,2,0,2180,0,0
+2024,November,Mahabubabad,Nellikudur,Chinnanagaram,213899,2,0,0,2,0,0,0,0,0,9068.5,0,0
+2024,November,Mahabubabad,Nellikudur,Laxmi Puram,279920,2,0,0,0,0,0,2,0,0,1905.3,0,0
+2024,November,Mahabubabad,Nellikudur,Nellikudur,213908,2,0,0,2,0,0,0,0,0,11704.4,0,0
+2024,November,Mahabubabad,Nellikudur,Ramannagudem,213910,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Peddavangara ,Authapuram,213678,2,1,0,1,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Peddavangara ,Bommakal,214186,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Peddavangara ,Chinnavangara,214189,1,0,0,1,0,0,0,0,0,1911,0,0
+2024,November,Mahabubabad,Peddavangara ,Kanvaigudem,279339,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Peddavangara ,Peddavangara,213687,3,2,0,1,0,0,0,0,0,2194.1,0,0
+2024,November,Mahabubabad,Thorrur,Chikataipalem,214188,6,6,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Thorrur,Madipalle,214198,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubabad,Thorrur,Velikatte,214204,6,2,0,0,1,0,3,0,0,20188.1,0,0
+2024,November,Mahabubnagar,Addakal,Addakal,204767,3,2,1,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubnagar,Addakal,Gudibanda,204770,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubnagar,Addakal,Kandur,204772,2,0,0,1,0,0,0,1,0,4345,0,0
+2024,November,Mahabubnagar,Addakal,Peddamungalched,205867,3,2,0,0,0,0,1,0,0,2560,0,0
+2024,November,Mahabubnagar,Addakal,Ponnakal,204778,1,0,0,0,0,0,1,0,0,1647.3,0,0
+2024,November,Mahabubnagar,Addakal,Thimmaipally,204783,1,0,0,1,0,0,0,0,0,1738.5,0,0
+2024,November,Mahabubnagar,Balanagar,Bodagutta Tanda,280135,2,1,1,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubnagar,Balanagar,Chinnarevally,204886,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubnagar,Balanagar,Hemajipoor,204892,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubnagar,Balanagar,Peddarevally,204904,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubnagar,Balanagar,Thirumalagiri,204909,1,0,0,0,0,0,1,0,0,1545.6,0,0
+2024,November,Mahabubnagar,Chinna Chinta Kunta,Chinnachintakunta,204992,4,0,0,0,0,0,4,0,0,3195.5,0,0
+2024,November,Mahabubnagar,Chinna Chinta Kunta,Undiyala,205005,5,0,0,0,0,0,5,0,0,4259.8,0,0
+2024,November,Mahabubnagar,Chinna Chinta Kunta,Waddemanu,205006,3,0,0,0,0,0,3,0,0,2708.6,0,0
+2024,November,Mahabubnagar,Devarkadara,Ajilapur,205030,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubnagar,Devarkadara,Gaddegudem,205037,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubnagar,Devarkadara,Koukuntla,205044,1,0,0,1,0,0,0,0,0,3310,0,0
+2024,November,Mahabubnagar,Gandeed,Gandeed,210017,2,0,0,0,0,0,2,0,0,2000,0,0
+2024,November,Mahabubnagar,Gandeed,Julapally,210021,1,0,0,1,0,0,0,0,0,3484.4,0,0
+2024,November,Mahabubnagar,Gandeed,Kondapur,210023,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Mahabubnagar,Hanwada,Yerragattu Tanda,280528,1,0,0,1,0,0,0,0,0,5535.2,0,0
+2024,November,Mahabubnagar,Jadcherla,Chinna Adirala,205275,1,0,0,1,0,0,0,0,0,420,0,0
+2024,November,Mahabubnagar,Jadcherla,Kodgal,205282,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubnagar,Jadcherla,Lingampet,205284,3,0,0,0,3,0,0,0,0,6326.4,0,0
+2024,November,Mahabubnagar,Koilkonda,Koilkonda,205382,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mahabubnagar,Koilkonda,Sanginonipalle,258032,2,0,0,2,0,0,0,0,0,4507,0,0
+2024,November,Mahabubnagar,Midjil,Midjil,205692,1,0,0,0,0,0,1,0,0,6015.4,0,0
+2024,November,Mahabubnagar,Midjil,Valabaraopalle,205700,1,0,0,1,0,0,0,0,0,2030,0,0
+2024,November,Mahabubnagar,Midjil,Velgomula,205702,3,1,0,2,0,0,0,0,0,4514.3,0,0
+2024,November,Mahabubnagar,Nawabpet,Ammapur,205767,5,0,0,5,0,0,0,0,0,5933.3,0,0
+2024,November,Mahabubnagar,Nawabpet,Chowdoor,205768,2,1,0,1,0,0,0,0,0,2375,0,0
+2024,November,Mahabubnagar,Nawabpet,Darpalli,279198,1,0,0,1,0,0,0,0,0,6523,0,0
+2024,November,Mancherial,Bellampalle,Kannal,195010,4,1,0,3,0,0,0,0,0,21734.4,0,0
+2024,November,Mancherial,Bellampalle,Lambadithanda,280000,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Bellampalle,Malagurijala,280001,1,0,0,0,1,0,0,0,0,0,0,0
+2024,November,Mancherial,Chennur,Kistampet,195073,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Chennur,Lambadipally,280010,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Chennur,Mutharaopally,280016,4,2,0,2,0,0,0,0,0,27327,0,0
+2024,November,Mancherial,Dandepalle,Kasipet,195105,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Dandepalle,Laxmikantapur,195107,2,1,0,1,0,0,0,0,0,15490,0,0
+2024,November,Mancherial,Dandepalle,Velganoor,195118,1,0,0,1,0,0,0,0,0,18268.2,0,0
+2024,November,Mancherial,Hajipur ,Gudipet,195486,1,0,0,1,0,0,0,0,0,8268,0,0
+2024,November,Mancherial,Hajipur ,Vempalli,195499,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Jaipur,Indaram,195227,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Jaipur,Pegadapalle,195236,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Jaipur,Shetpalle,195240,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Jannaram,Jannaram,195250,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Jannaram,Lingaiahpelli,280043,1,0,0,1,0,0,0,0,0,8336,0,0
+2024,November,Mancherial,Jannaram,Ponkal,195258,4,0,0,4,0,0,0,0,0,59277,0,0
+2024,November,Mancherial,Kannepally ,Kannepalle,195035,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Luxettipet,Balraopet,195454,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Luxettipet,Gullakota,195458,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Luxettipet,Kotha Kommugudem,280072,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Luxettipet,Suraram,280070,2,0,0,1,0,0,0,1,0,1018.9,0,0
+2024,November,Mancherial,Luxettipet,Venkataraopet,195470,1,0,0,1,0,0,0,0,0,5123.9,0,0
+2024,November,Mancherial,Mandamarri,Bokkalagutta,280078,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Mandamarri,Pulimadugu,280077,2,0,0,0,0,0,1,1,0,4449.8,0,0
+2024,November,Mancherial,Nennal,Avadam,195553,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Tandur,Achalapur,195697,2,0,0,1,1,0,0,0,0,21158,0,0
+2024,November,Mancherial,Tandur,Boyapalli,280086,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Tandur,Tandur,195703,3,1,0,2,0,0,0,0,0,88273,0,0
+2024,November,Mancherial,Vemanpalle,Buyyaram,280093,1,0,0,1,0,0,0,0,0,674.5,0,0
+2024,November,Mancherial,Vemanpalle,Sumputum,195761,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mancherial,Vemanpalle,Vemanpalle,195763,3,2,0,0,0,0,0,1,0,0,0,0
+2024,November,Medak,Alladurg,Alladurg,206079,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Chegunta,Ananthasagar,206122,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Chegunta,Chandaipet,206124,4,2,0,2,0,0,0,0,0,9474.8,0,0
+2024,November,Medak,Chegunta,Chegunta,206125,10,6,0,3,1,0,0,0,0,31859.9,0,0
+2024,November,Medak,Chegunta,Pulimamidi,206141,1,0,0,0,1,0,0,0,0,4950,0,0
+2024,November,Medak,Chegunta,Reddipalle,206143,4,1,0,2,0,0,0,1,0,9332.3,0,0
+2024,November,Medak,Chegunta,Rukmapur,206144,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Chegunta,Wadiaram,206148,6,3,0,0,2,0,0,1,0,0,0,0
+2024,November,Medak,Chilpiched ,Banda Pothugal,243918,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Chilpiched ,Chandur,206446,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Chilpiched ,Jaggampet,206451,4,3,0,1,0,0,0,0,0,1595.7,0,0
+2024,November,Medak,Chilpiched ,Raheem Guda Thanda (Ashamkunta Thanda),281078,1,0,0,1,0,0,0,0,0,1732.6,0,0
+2024,November,Medak,Chilpiched ,Ramdas Guda,243408,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Chilpiched ,Somakkapet,206459,2,0,0,1,1,0,0,0,0,3055.5,0,0
+2024,November,Medak,Havelighanpur ,Burugupalle,206509,3,0,0,2,0,0,1,0,0,9403.9,0,0
+2024,November,Medak,Havelighanpur ,Haveli Ghanpur,206514,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Havelighanpur ,Madulwai,206522,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Medak,Havelighanpur ,Nagapur,206526,1,0,0,1,0,0,0,0,0,3596,0,0
+2024,November,Medak,Kowdipalle,Harichand Thanda,281182,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Kowdipalle,Rajipet,243407,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Medak,Kowdipalle,Thimmapur,206460,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Kowdipalle,Thunki,206461,1,0,0,1,0,0,0,0,0,14195,0,0
+2024,November,Medak,Kulcharam,Appajipally,257918,2,0,0,2,0,0,0,0,0,2931.1,0,0
+2024,November,Medak,Kulcharam,Chinna Ghanpur,206464,4,2,0,2,0,0,0,0,0,0,0,0
+2024,November,Medak,Kulcharam,Kistapur,206466,2,1,0,1,0,0,0,0,0,4533.9,0,0
+2024,November,Medak,Kulcharam,Kulcharam,206469,2,0,0,2,0,0,0,0,0,4079.2,0,0
+2024,November,Medak,Kulcharam,Paithara,206470,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Kulcharam,Pothireddipalle,206472,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Kulcharam,Rangampet,206474,3,1,0,2,0,0,0,0,0,6420,0,0
+2024,November,Medak,Kulcharam,Seetharam Thanda,281272,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Kulcharam,Yenigandla,206477,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Manoharabad ,Chetlagowraram,281325,3,0,0,3,0,0,0,0,0,0,0,0
+2024,November,Medak,Manoharabad ,Dandupally,281323,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Manoharabad ,Gouthojigudem,281578,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Manoharabad ,Jeedipalle,207005,1,0,0,0,1,0,0,0,0,49800,0,0
+2024,November,Medak,Manoharabad ,Kallakal,207006,7,1,0,3,0,0,0,1,2,45372,0,0
+2024,November,Medak,Manoharabad ,Konaipally,207008,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Manoharabad ,Kucharam,207009,3,1,0,2,0,0,0,0,0,34408.6,0,0
+2024,November,Medak,Manoharabad ,Manoharabad,207012,3,2,0,1,0,0,0,0,0,16791.8,0,0
+2024,November,Medak,Manoharabad ,Parkibanda,206934,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Manoharabad ,Rangaipalle,207016,2,0,0,1,0,0,0,1,0,3910,0,0
+2024,November,Medak,Medak,Khazipalle,206516,2,1,0,1,0,0,0,0,0,1635.9,0,0
+2024,November,Medak,Medak,M.Bhoopathipur,206520,1,0,0,1,0,0,0,0,0,1597,0,0
+2024,November,Medak,Medak,Rajpalle,206529,8,2,0,0,1,0,0,4,1,0,0,0
+2024,November,Medak,Medak,Rayalamadugu,206531,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Medak,Narsapur,Avancha,206646,2,0,0,2,0,0,0,0,0,0,0,0
+2024,November,Medak,Narsapur,Brahmanpalle,206647,1,0,0,1,0,0,0,0,0,7529.2,0,0
+2024,November,Medak,Narsapur,Chinna Chintakunta,206648,1,0,0,1,0,0,0,0,0,1854.5,0,0
+2024,November,Medak,Narsapur,Chippalthurthy,206649,1,0,0,1,0,0,0,0,0,792.7,0,0
+2024,November,Medak,Narsapur,Kagazmaddur,206651,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Narsapur,Mohammdabad,281223,1,0,0,0,0,0,1,0,0,1443,0,0
+2024,November,Medak,Narsapur,Moosapet,206654,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Narsapur,Narayanpur,206656,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Narsapur,Pedda Chintakunta,206658,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Narsapur,Rustumpet,206661,4,0,0,3,0,0,0,1,0,14373.7,0,0
+2024,November,Medak,Narsingi ,Narsingi,206137,4,0,0,2,0,0,1,1,0,40135.9,0,0
+2024,November,Medak,Narsingi ,Seripalle,206915,1,0,0,0,0,0,1,0,0,5101.3,0,0
+2024,November,Medak,Nizampet ,Jadcheru Thanda,281140,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Medak,Nizampet ,Kalwakunta,206791,1,0,0,1,0,0,0,0,0,5729.8,0,0
+2024,November,Medak,Nizampet ,Nandigaon,206795,4,2,0,1,0,0,0,0,1,3999.2,0,0
+2024,November,Medak,Nizampet ,Naskal,206797,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Nizampet ,Nizampet,206798,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Nizampet ,Venkatapur,206805,1,0,0,1,0,0,0,0,0,5652.9,0,0
+2024,November,Medak,Papannapet,Amriya Thanda,280485,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Papannapet,Chitriyal,206698,2,1,0,1,0,0,0,0,0,13153,0,0
+2024,November,Medak,Papannapet,Kothapalle,206702,2,0,0,0,0,0,1,1,0,4391.3,0,0
+2024,November,Medak,Papannapet,Laxminagar,206704,1,0,0,1,0,0,0,0,0,4030,0,0
+2024,November,Medak,Papannapet,Minpur,206707,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Papannapet,Papannapet,206710,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Papannapet,Rajya Thanda,280369,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Papannapet,Yellapoor,206713,1,0,0,1,0,0,0,0,0,7714,0,0
+2024,November,Medak,Ramayampet,Akkannapet,206784,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Ramayampet,Damaracheruvu,206787,2,1,0,1,0,0,0,0,0,4387.6,0,0
+2024,November,Medak,Ramayampet,Thonigandla,206803,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Medak,Ramayampet,Venkatapur-R,281103,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Regode,Gajwada,206816,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shankarampet (A),Madshetpalli,206893,1,0,0,1,0,0,0,0,0,5957.4,0,0
+2024,November,Medak,Shankarampet (A),Malkapur,206894,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shankarampet (A),Shankarampet - A,206897,3,0,0,3,0,0,0,0,0,13041.3,0,0
+2024,November,Medak,Shankarampet (A),Uthloor,206899,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shankarampet (R),Dharpalle,206904,2,0,0,2,0,0,0,0,0,4493.4,0,0
+2024,November,Medak,Shankarampet (R),Gavalapalle,206906,2,0,1,1,0,0,0,0,0,1809,0,0
+2024,November,Medak,Shankarampet (R),Khajapur,206909,2,1,0,1,0,0,0,0,0,0,0,0
+2024,November,Medak,Shankarampet (R),Mirzapalli,206912,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shankarampet (R),Rudraram,281108,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shankarampet (R),Shalipet,206913,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shankarampet (R),Shankarampet(R),206917,6,6,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shankarampet (R),Suraram,206918,1,0,0,1,0,0,0,0,0,4479.5,0,0
+2024,November,Medak,Shankarampet (R),T.Mandapur,206919,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Medak,Shivampet,Allipur,206921,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shivampet,Chandi,206923,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shivampet,Chennapur,281207,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shivampet,Chinna Gottimukkula,206924,5,1,0,4,0,0,0,0,0,30666.2,0,0
+2024,November,Medak,Shivampet,Donthi,206925,2,1,0,0,1,0,0,0,0,4426,0,0
+2024,November,Medak,Shivampet,Edulapur,206926,1,0,0,0,0,0,1,0,0,2552.6,0,0
+2024,November,Medak,Shivampet,Gomaram,206928,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shivampet,Gudur,281203,5,0,0,0,4,0,0,0,1,13170.4,0,0
+2024,November,Medak,Shivampet,Lachireddy Gudem,281241,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shivampet,Mallupalli Thanda,281195,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shivampet,Pambanda,206933,8,0,0,0,0,0,7,1,0,25966.3,0,0
+2024,November,Medak,Shivampet,Redya Thanda,281256,2,1,0,0,0,0,0,1,0,0,0,0
+2024,November,Medak,Shivampet,Shabashpalle,206939,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shivampet,Shivampet,206940,9,7,0,0,0,0,0,1,1,0,0,0
+2024,November,Medak,Shivampet,Sikindlapur,206941,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Shivampet,Thimmapur,206942,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Tekmal,Achannapalle,206965,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Tekmal,Bodmatpalle,206968,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Tekmal,Dhanoora,206969,1,0,0,0,1,0,0,0,0,3010.7,0,0
+2024,November,Medak,Tekmal,Hasanmahamadpally,281045,1,0,0,1,0,0,0,0,0,3684.9,0,0
+2024,November,Medak,Tekmal,Kadloor,206971,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Tekmal,Palvancha,206974,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Tupran,Immampur,207003,3,1,0,2,0,0,0,0,0,4228.1,0,0
+2024,November,Medak,Tupran,Islampur,207004,2,0,0,2,0,0,0,0,0,3240.2,0,0
+2024,November,Medak,Tupran,Konaipally(PB),281311,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Tupran,Malkapur,207011,1,0,0,1,0,0,0,0,0,5003.3,0,0
+2024,November,Medak,Tupran,Venkataipalle,207019,3,0,0,3,0,0,0,0,0,0,0,0
+2024,November,Medak,Tupran,Yavapur,207020,2,1,0,0,1,0,0,0,0,756.7,0,0
+2024,November,Medak,Yeldurthy,Achampet,281206,5,2,0,2,0,0,1,0,0,4020,0,0
+2024,November,Medak,Yeldurthy,Damarancha,207040,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Yeldurthy,Edulapalle,207042,1,0,0,1,0,0,0,0,0,2763.6,0,0
+2024,November,Medak,Yeldurthy,Hakimpet,207044,4,2,0,2,0,0,0,0,0,4767.2,0,0
+2024,November,Medak,Yeldurthy,Koppulapalle,207046,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Medak,Yeldurthy,Mannevar Jalalpur,207050,1,0,0,0,1,0,0,0,0,2529,0,0
+2024,November,Medak,Yeldurthy,Masaipet,207051,6,2,0,3,1,0,0,0,0,10815.3,0,0
+2024,November,Medak,Yeldurthy,Ramanthapur,207054,3,1,0,0,0,0,1,1,0,3450,0,0
+2024,November,Medak,Yeldurthy,Settipalle Kalan,207055,1,0,0,1,0,0,0,0,0,3954.8,0,0
+2024,November,Medak,Yeldurthy,Yeldurthy,207057,15,14,0,0,0,0,1,0,0,2569.9,0,0
+2024,November,Medchal Malkajigiri,Medchal,Dabilpur,210233,2,1,0,0,0,0,1,0,0,42034.1,0,0
+2024,November,Medchal Malkajigiri,Medchal,Nuthankal,210240,1,0,0,1,0,0,0,0,0,23162.2,0,0
+2024,November,Medchal Malkajigiri,Medchal,Rajabollaram,210242,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Medchal Malkajigiri,Medchal,Ravalkole,210243,6,5,0,1,0,0,0,0,0,0,0,0
+2024,November,Medchal Malkajigiri,Medchal,Yellampet,210248,7,7,0,0,0,0,0,0,0,0,0,0
+2024,November,Medchal Malkajigiri,Muduchinthalapally,Lakshamapur,210457,1,0,0,0,0,0,1,0,0,9330.4,0,0
+2024,November,Medchal Malkajigiri,Muduchinthalapally,Mudichintalapalle,210460,2,0,0,0,0,0,0,2,0,0,0,0
+2024,November,Medchal Malkajigiri,Shamirpet,Aliyabad,210448,7,6,0,1,0,0,0,0,0,55302.1,0,0
+2024,November,Medchal Malkajigiri,Shamirpet,Lalgadimalakpet,210458,2,1,0,0,0,0,1,0,0,48875.1,0,0
+2024,November,Medchal Malkajigiri,Shamirpet,Mazidpur,210459,5,5,0,0,0,0,0,0,0,0,0,0
+2024,November,Medchal Malkajigiri,Shamirpet,Turakapally,210466,10,6,0,4,0,0,0,0,0,20064.4,0,0
+2024,November,Medchal Malkajigiri,Shamirpet,Yadaram,210247,3,0,0,3,0,0,0,0,0,13093.5,0,0
+2024,November,Mulugu,Eturnagaram,Eturnagaram,213480,1,0,0,1,0,0,0,0,0,14460.8,0,0
+2024,November,Mulugu,Govindaraopet,Pasra(Nagaram),213564,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mulugu,Mulug,Incherla,213860,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Mulugu,Mulug,Jaggannapet,213861,3,1,0,1,0,0,1,0,0,4625.4,0,0
+2024,November,Mulugu,Mulug,Jakaram,213862,2,1,0,0,0,0,1,0,0,17930,0,0
+2024,November,Mulugu,Mulug,Jangalapalle,213863,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Mulugu,Mulug,Mallampalle,213869,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Mulugu,Mulug,Mulug,213871,10,9,0,0,0,0,0,1,0,0,0,0
+2024,November,Mulugu,Mulug,Pathipalle,213872,2,0,0,0,0,1,1,0,0,2920.5,0,0
+2024,November,Mulugu,Venkatapur,Jawaharnagar,214209,1,0,0,1,0,0,0,0,0,5676.4,0,0
+2024,November,Mulugu,Venkatapur,Keshavapur,214210,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mulugu,Venkatapur,Laxmidevipet,214211,2,0,0,0,0,0,2,0,0,19331.1,0,0
+2024,November,Mulugu,Venkatapur,Venkatapur,214217,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Mulugu,Venkatapur,Yellareddypally,279015,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Achampeta,Hazipur,204756,1,0,0,0,0,0,1,0,0,1975.6,0,0
+2024,November,Nagarkurnool,Achampeta,Lingotam,204759,2,0,0,2,0,0,0,0,0,2062.6,0,0
+2024,November,Nagarkurnool,Balmoor,Kothapally (Ganeshpur),288839,1,0,0,1,0,0,0,0,0,309.6,0,0
+2024,November,Nagarkurnool,Balmoor,Polisettypally,204923,2,0,0,2,0,0,0,0,0,2245.6,0,0
+2024,November,Nagarkurnool,Bijinapalle,Bijinepally,204943,8,0,0,8,0,0,0,0,0,13500.7,0,0
+2024,November,Nagarkurnool,Bijinapalle,Borusugadda Thanda,279640,1,0,0,1,0,0,0,0,0,3631.3,0,0
+2024,November,Nagarkurnool,Bijinapalle,Karukonda Thanda,279596,2,0,1,1,0,0,0,0,0,2146.2,0,0
+2024,November,Nagarkurnool,Bijinapalle,Mahadevpet,204951,1,0,0,1,0,0,0,0,0,3084.5,0,0
+2024,November,Nagarkurnool,Bijinapalle,Manganoor,204952,2,0,0,2,0,0,0,0,0,7976.1,0,0
+2024,November,Nagarkurnool,Bijinapalle,Palem,204954,3,0,0,3,0,0,0,0,0,7742.4,0,0
+2024,November,Nagarkurnool,Bijinapalle,Shainpally,204957,2,0,0,1,1,0,0,0,0,2539.3,0,0
+2024,November,Nagarkurnool,Bijinapalle,Vasanthapur,204958,1,0,0,1,0,0,0,0,0,4317.5,0,0
+2024,November,Nagarkurnool,Bijinapalle,Waddeman,204961,3,0,0,2,1,0,0,0,0,6073.9,0,0
+2024,November,Nagarkurnool,Charakonda     ,Charakonda,205983,3,1,0,2,0,0,0,0,0,8383,0,0
+2024,November,Nagarkurnool,Kalwakurthy,Gundur,205295,1,0,0,1,0,0,0,0,0,2824.8,0,0
+2024,November,Nagarkurnool,Kalwakurthy,Jillella,205298,1,0,0,1,0,0,0,0,0,3965.9,0,0
+2024,November,Nagarkurnool,Kalwakurthy,Lingasanipalle,205301,1,0,0,1,0,0,0,0,0,2030,0,0
+2024,November,Nagarkurnool,Kalwakurthy,Mukurala,205303,1,0,0,1,0,0,0,0,0,3672.2,0,0
+2024,November,Nagarkurnool,Kalwakurthy,Tharnikal,205307,1,0,0,0,1,0,0,0,0,2770,0,0
+2024,November,Nagarkurnool,Kalwakurthy,Yelikatta,205314,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Kodair,Errannabai Thanda,280210,1,0,0,1,0,0,0,0,0,1379.7,0,0
+2024,November,Nagarkurnool,Kodair,Rekulapally (Tanda),280202,1,0,0,1,0,0,0,0,0,1772.7,0,0
+2024,November,Nagarkurnool,Kollapur,Kudikilla,205399,3,0,0,2,0,0,0,1,0,1095,0,0
+2024,November,Nagarkurnool,Kollapur,Mukkidigudem,205404,2,1,0,1,0,0,0,0,0,2714.3,0,0
+2024,November,Nagarkurnool,Kollapur,Singotam,205408,1,0,0,1,0,0,0,0,0,1335.1,0,0
+2024,November,Nagarkurnool,Lingal,Lingal,205515,7,0,1,4,0,0,2,0,0,5743.9,0,0
+2024,November,Nagarkurnool,Nagar Kurnool,Chandubatla,205707,1,0,0,1,0,0,0,0,0,680,0,0
+2024,November,Nagarkurnool,Nagar Kurnool,Ganyagula,205710,2,1,0,1,0,0,0,0,0,1000,0,0
+2024,November,Nagarkurnool,Nagar Kurnool,Manthati,205713,1,0,0,1,0,0,0,0,0,3734.9,0,0
+2024,November,Nagarkurnool,Nagar Kurnool,Thoodkurthy,205720,4,3,0,1,0,0,0,0,0,1030,0,0
+2024,November,Nagarkurnool,Peddakothapalle,Kalwakole,205844,1,0,0,1,0,0,0,0,0,1676.3,0,0
+2024,November,Nagarkurnool,Peddakothapalle,Peddakothapally,205850,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Peddakothapalle,Sathapur,205851,1,0,0,1,0,0,0,0,0,3532.9,0,0
+2024,November,Nagarkurnool,Peddakothapalle,Yapatla,205853,1,0,0,1,0,0,0,0,0,2045,0,0
+2024,November,Nagarkurnool,Pentlavelli      ,Pentlavelly,205406,2,1,0,1,0,0,0,0,0,4034.4,0,0
+2024,November,Nagarkurnool,Pentlavelli      ,Singavaram,288840,2,0,0,2,0,0,0,0,0,3339.3,0,0
+2024,November,Nagarkurnool,Tadoor,Akunelli Kuduru,205870,1,0,0,0,0,0,1,0,0,1219.1,0,0
+2024,November,Nagarkurnool,Tadoor,Indrakal,205878,1,0,0,0,0,0,1,0,0,1120,0,0
+2024,November,Nagarkurnool,Tadoor,Medipoor,205881,1,0,0,0,0,0,1,0,0,1452.8,0,0
+2024,November,Nagarkurnool,Telkapalle,Alair,205908,1,0,0,0,0,0,1,0,0,715.3,0,0
+2024,November,Nagarkurnool,Telkapalle,Ananthasagar,205909,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Telkapalle,Peddur,205924,4,0,0,0,0,0,4,0,0,3615.4,0,0
+2024,November,Nagarkurnool,Telkapalle,Telkapally,205927,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Thimmajipeta,Chegunta,205936,5,1,0,4,0,0,0,0,0,1450,0,0
+2024,November,Nagarkurnool,Thimmajipeta,Gummakonda,205938,3,0,0,0,0,0,2,1,0,3520,0,0
+2024,November,Nagarkurnool,Uppununthala,Eeratvanipally,288846,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Uppununthala,Koratikal,205952,1,0,0,1,0,0,0,0,0,1145.9,0,0
+2024,November,Nagarkurnool,Uppununthala,Purya Thanda,280267,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Uppununthala,Veltoor,205963,1,0,0,1,0,0,0,0,0,5926.7,0,0
+2024,November,Nagarkurnool,Urkonda     ,Rachalpalle,205694,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Urkonda     ,Urkonda,205698,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Nagarkurnool,Vangoor,Dindichinthalapalle,205985,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Vangoor,Kondareddipalle,205989,2,0,0,1,0,0,1,0,0,1950,0,0
+2024,November,Nagarkurnool,Vangoor,Mittasaguda,205991,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Vangoor,Thumula Palle,206000,1,0,0,1,0,0,0,0,0,1336,0,0
+2024,November,Nagarkurnool,Vangoor,Venkatapur,280278,1,0,0,0,0,0,1,0,0,410,0,0
+2024,November,Nagarkurnool,Veldanda,Gundala,280316,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Veldanda,Kotra,206036,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Veldanda,Kundaram Thanda,280298,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Veldanda,Kuppagandla,206037,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Veldanda,Narayanapur Thanda,280304,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Veldanda,Palugu Thanda,288842,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Nagarkurnool,Veldanda,Peddapur,206038,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Veldanda,Pothepalle,206039,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Veldanda,Rachur,206040,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nagarkurnool,Veldanda,Veldanda,206043,2,0,0,2,0,0,0,0,0,7016,0,0
+2024,November,Nalgonda,Anumula,Srinathpur,207127,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Chandam Pet,Polepally (Ramnagar),207276,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Chandur,Gatuppal,207286,3,1,0,2,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Chintha Palle,Denya Thanda,279515,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Chintha Palle,Godakondla,207313,3,0,0,3,0,0,0,0,0,16141.5,0,0
+2024,November,Nalgonda,Chintha Palle,Madanapoor,207318,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Chityala,Velminedu,207345,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Dameracherla,Damercherla,207396,3,0,0,0,0,0,3,0,0,84769.8,0,0
+2024,November,Nalgonda,Dameracherla,Kondrapole,207403,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Devarakonda,Padamatipally,207430,1,0,0,1,0,0,0,0,0,2935.9,0,0
+2024,November,Nalgonda,Devarakonda,Turpupally,207435,1,0,0,1,0,0,0,0,0,9544.4,0,0
+2024,November,Nalgonda,Gurrampode,Makkapally,207498,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Gurrampode,Tenepally,207506,1,0,0,1,0,0,0,0,0,2332.4,0,0
+2024,November,Nalgonda,Kangal,Pagidemarry,207543,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Kattangoor,Aitipamula,207553,2,0,0,2,0,0,0,0,0,1670.4,0,0
+2024,November,Nalgonda,Kattangoor,Kattangur,207561,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Kethepalle,Bheemaram,207571,1,0,0,1,0,0,0,0,0,1243.2,0,0
+2024,November,Nalgonda,Kethepalle,Inupamula,207575,4,0,0,4,0,0,0,0,0,5705,0,0
+2024,November,Nalgonda,Kondamallepally ,Chinnaadisharlapalli,280428,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Kondamallepally ,Chintachettutanda,280490,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Kondamallepally ,Doniyal,207418,5,1,0,4,0,0,0,0,0,17980.8,0,0
+2024,November,Nalgonda,Kondamallepally ,Gajinagar,207419,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Kondamallepally ,Gurrapu Thanda,280482,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Kondamallepally ,Konda Mallepally,207426,6,3,0,3,0,0,0,0,0,49983.4,0,0
+2024,November,Nalgonda,Marri Guda,Khudabaksh Pally (Kb Pally),207637,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Marri Guda,Marriguda,207640,2,0,0,0,0,1,1,0,0,18455.4,0,0
+2024,November,Nalgonda,Marri Guda,Ramreddypally,207643,1,0,0,1,0,0,0,0,0,6081.7,0,0
+2024,November,Nalgonda,Marri Guda,Tirgandlapally,207647,1,0,0,0,0,0,1,0,0,2174.4,0,0
+2024,November,Nalgonda,Marri Guda,Vattipally,207635,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Miryalaguda,Gudur,207691,2,1,1,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Miryalaguda,Kista Puram,280941,3,1,0,2,0,0,0,0,0,1845.2,0,0
+2024,November,Nalgonda,Miryalaguda,Venkatadri Palem,207702,2,0,1,1,0,0,0,0,0,1910,0,0
+2024,November,Nalgonda,Miryalaguda,Yadgarpally,207704,1,0,0,1,0,0,0,0,0,4616.6,0,0
+2024,November,Nalgonda,Munugode,Munugode,207782,1,0,0,1,0,0,0,0,0,9257.3,0,0
+2024,November,Nalgonda,Munugode,Pelivela,207783,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Munugode,Pulipalupula,207784,1,0,0,0,0,0,1,0,0,1808.7,0,0
+2024,November,Nalgonda,Munugode,Yelagala Gudem,281013,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Nampalle,Mustipally,207849,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Nampalle,Pasnoor,207853,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Narketpalle,Goplaipally,280747,2,1,1,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Narketpalle,M.Yadavally,207882,1,0,0,1,0,0,0,0,0,7534.5,0,0
+2024,November,Nalgonda,Narketpalle,Narketpally,207885,5,2,1,1,1,0,0,0,0,25215.8,0,0
+2024,November,Nalgonda,Neredugomma ,Vizag Colony,280736,4,3,0,1,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Nidamanur,Shakapuram,207933,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Pedda Adiserlapalle,Angadipet X Road,258050,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Pedda Adiserlapalle,Balajinagar,280624,1,0,0,1,0,0,0,0,0,2965.5,0,0
+2024,November,Nalgonda,Peddavura,Peddagudem,280423,1,0,0,1,0,0,0,0,0,607.1,0,0
+2024,November,Nalgonda,Saligouraram,Perkakondaram,208080,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nalgonda,Thirumalagiri Sagar ,Juvvichettuthanda,281588,1,0,0,0,0,0,1,0,0,3226.2,0,0
+2024,November,Nalgonda,Vemulapalle,Vemulapally,208229,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Damaragidda,Bapanpalle,205009,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Narayanpet,Damaragidda,Chaklivaripally,280472,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Damaragidda,Damaragidda,205011,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Damaragidda,Kankurthy,205017,1,0,0,1,0,0,0,0,0,1745,0,0
+2024,November,Narayanpet,Damaragidda,Kyatanpalle,205018,1,0,0,0,0,0,1,0,0,1527.5,0,0
+2024,November,Narayanpet,Damaragidda,Lokurthy,205019,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Damaragidda,Malreddipalle,205021,3,0,0,2,0,0,1,0,0,3664.2,0,0
+2024,November,Narayanpet,Damaragidda,Mogala Madaka,205022,6,2,0,0,0,0,4,0,0,3983.2,0,0
+2024,November,Narayanpet,Damaragidda,Wathugundaltanda,280505,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Damaragidda,Yelsanpalli,280481,2,0,0,0,0,0,2,0,0,2919.6,0,0
+2024,November,Narayanpet,Dhanwada,Cherlapally,205054,14,1,0,0,0,0,13,0,0,14182,0,0
+2024,November,Narayanpet,Dhanwada,Dhanwada,205055,5,0,0,1,0,0,4,0,0,9703.1,0,0
+2024,November,Narayanpet,Dhanwada,Gunmukla,205057,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Dhanwada,Hanmanpalle,205058,3,0,0,0,0,0,3,0,0,3424.7,0,0
+2024,November,Narayanpet,Dhanwada,Kistapur,205060,3,0,0,3,0,0,0,0,0,5810.8,0,0
+2024,November,Narayanpet,Dhanwada,Kondapur,205061,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Dhanwada,Kondronipalli,280530,4,0,0,2,0,0,2,0,0,3783.8,0,0
+2024,November,Narayanpet,Dhanwada,Madigelamula Tanda,280519,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Dhanwada,Mandipalle,205063,2,0,0,1,0,0,1,0,0,4302,0,0
+2024,November,Narayanpet,Dhanwada,Manthronipalli,280531,4,3,0,1,0,0,0,0,0,1707.2,0,0
+2024,November,Narayanpet,Dhanwada,Patha Tanda,280521,1,0,0,0,0,0,1,0,0,2060,0,0
+2024,November,Narayanpet,Dhanwada,Pathapalle,205975,7,3,0,2,0,0,2,0,0,3650.2,0,0
+2024,November,Narayanpet,Dhanwada,Ramakistaiahpalle,205069,1,0,0,1,0,0,0,0,0,1170,0,0
+2024,November,Narayanpet,Kosgi,Amlikunta,205440,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Kosgi,Appayapally,280553,1,0,0,0,0,0,1,0,0,1266.1,0,0
+2024,November,Narayanpet,Kosgi,Bhakthimalla,205443,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Kosgi,Bijjaram,205445,1,0,0,1,0,0,0,0,0,2642.5,0,0
+2024,November,Narayanpet,Kosgi,Gundmal,205448,5,0,0,0,0,0,5,0,0,6620,0,0
+2024,November,Narayanpet,Kosgi,Hanmanpally,205449,1,0,0,1,0,0,0,0,0,4080,0,0
+2024,November,Narayanpet,Kosgi,Kadampalle,205450,1,0,0,1,0,0,0,0,0,2160,0,0
+2024,November,Narayanpet,Kosgi,Kothapalle,205452,1,0,0,1,0,0,0,0,0,1817.7,0,0
+2024,November,Narayanpet,Kosgi,Mirzapur,205455,1,0,0,1,0,0,0,0,0,1668.9,0,0
+2024,November,Narayanpet,Kosgi,Mushrifa,205458,1,0,0,1,0,0,0,0,0,662,0,0
+2024,November,Narayanpet,Kosgi,Nacharam,205459,2,0,0,2,0,0,0,0,0,3402.8,0,0
+2024,November,Narayanpet,Kosgi,Sarjakhanpet,205462,5,1,0,4,0,0,0,0,0,3151.3,0,0
+2024,November,Narayanpet,Kosgi,Thogapur,205463,1,0,0,1,0,0,0,0,0,1804.7,0,0
+2024,November,Narayanpet,Krishna    ,Alampalle,205565,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Krishna    ,Gudeballur,205567,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Krishna    ,Hindupur,205568,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Maddur,Allipur,280630,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Maddur,Bhooned,205521,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Maddur,Chapancheruvu Thanda,280616,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Maddur,Jadava Rao Pally,205529,1,0,0,1,0,0,0,0,0,1215.3,0,0
+2024,November,Narayanpet,Maddur,Kajipuram,205530,1,0,0,1,0,0,0,0,0,883.2,0,0
+2024,November,Narayanpet,Maddur,Kisannagar,205531,1,0,0,0,0,0,1,0,0,1142,0,0
+2024,November,Narayanpet,Maddur,Kommur,205532,1,0,0,1,0,0,0,0,0,2832.4,0,0
+2024,November,Narayanpet,Maddur,Kothapalle,205533,2,1,0,1,0,0,0,0,0,5413.4,0,0
+2024,November,Narayanpet,Maddur,Maddur,205535,28,1,0,25,1,0,1,0,0,121051,0,0
+2024,November,Narayanpet,Maddur,Mannapur,205536,1,0,0,1,0,0,0,0,0,2019.9,0,0
+2024,November,Narayanpet,Maddur,Nagampally,280622,1,0,0,1,0,0,0,0,0,871.4,0,0
+2024,November,Narayanpet,Maddur,Nagireddipally,205538,1,0,0,1,0,0,0,0,0,1229.1,0,0
+2024,November,Narayanpet,Maddur,Nandigam,205539,3,0,0,3,0,0,0,0,0,2350,0,0
+2024,November,Narayanpet,Maddur,Nidjinta,205541,2,0,0,2,0,0,0,0,0,1918.6,0,0
+2024,November,Narayanpet,Maddur,Pallegadda Thanda,280580,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Maddur,Renvatla,205544,15,3,0,10,1,0,0,1,0,22992,0,0
+2024,November,Narayanpet,Maganoor,Maganoor,205573,2,0,0,1,0,0,0,1,0,3639.6,0,0
+2024,November,Narayanpet,Makthal,Karni,205617,4,0,0,4,0,0,0,0,0,1060,0,0
+2024,November,Narayanpet,Makthal,Katrevpalle,205618,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Makthal,Manthangod,205623,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Makthal,Panchalingal,205627,2,0,0,1,0,0,0,1,0,0,0,0
+2024,November,Narayanpet,Makthal,Paspul,205628,2,0,0,2,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Makthal,Satyawar,205631,2,1,0,0,0,0,0,1,0,0,0,0
+2024,November,Narayanpet,Makthal,Upparpally,280549,3,1,0,2,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Marikal ,Appampally,205053,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Marikal ,Buddegani Tanda (K),281991,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Marikal ,Chittanur,205746,3,1,0,2,0,0,0,0,0,2719.7,0,0
+2024,November,Narayanpet,Marikal ,Jinnaram,205751,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Marikal ,Madwar,205062,2,0,0,0,0,0,2,0,0,4870.1,0,0
+2024,November,Narayanpet,Marikal ,Marikal,205064,9,3,0,1,0,1,2,2,0,24267,0,0
+2024,November,Narayanpet,Marikal ,Peddachintakunta,205066,2,0,0,2,0,0,0,0,0,2103.2,0,0
+2024,November,Narayanpet,Marikal ,Rakonda,205068,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Marikal ,Venkatapur,280542,1,0,0,1,0,0,0,0,0,2036.3,0,0
+2024,November,Narayanpet,Narayanpet,Appireddipalle,205728,1,0,0,1,0,0,0,0,0,1362.4,0,0
+2024,November,Narayanpet,Narayanpet,Bhairamkonda,205730,2,0,0,2,0,0,0,0,0,4481.8,0,0
+2024,November,Narayanpet,Narayanpet,Jajapur,205734,9,9,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Narayanpet,Kollampally,205736,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Narayanpet,Kotakonda,205737,6,2,0,4,0,0,0,0,0,9105.1,0,0
+2024,November,Narayanpet,Narayanpet,Pilligundla Thanda,280506,2,0,0,0,0,0,2,0,0,3850.8,0,0
+2024,November,Narayanpet,Narayanpet,Shasanpally,205740,1,0,0,0,0,0,1,0,0,1713.4,0,0
+2024,November,Narayanpet,Narayanpet,Shernapally,205741,1,0,0,1,0,0,0,0,0,1746.2,0,0
+2024,November,Narayanpet,Narayanpet,Singaram,205742,5,1,2,1,1,0,0,0,0,9990,0,0
+2024,November,Narayanpet,Narayanpet,Thirumalapur,205743,9,0,0,2,0,0,5,2,0,8852,0,0
+2024,November,Narayanpet,Narva,Bekkarapalle,205744,1,0,0,1,0,0,0,0,0,2249,0,0
+2024,November,Narayanpet,Narva,Kalwal,205752,2,0,0,0,0,0,2,0,0,5638.7,0,0
+2024,November,Narayanpet,Narva,Lankal,205756,3,1,0,0,0,0,1,1,0,1623.7,0,0
+2024,November,Narayanpet,Narva,Narva,205759,7,1,0,3,0,0,2,1,0,15630.4,0,0
+2024,November,Narayanpet,Narva,Peddakadmoor,205761,1,0,0,1,0,0,0,0,0,2247,0,0
+2024,November,Narayanpet,Narva,Rampur,205763,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Narva,Seepur,205764,3,0,0,1,0,0,0,1,1,2541.7,0,0
+2024,November,Narayanpet,Narva,Undekode,205765,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Utkoor,Bijwar,205966,4,2,0,2,0,0,0,0,0,0,0,0
+2024,November,Narayanpet,Utkoor,Chinnaporla,205967,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Narayanpet,Utkoor,Peddajatram,205976,1,0,0,1,0,0,0,0,0,3668.9,0,0
+2024,November,Narayanpet,Utkoor,Pulimamidi,205978,3,0,0,1,0,0,2,0,0,4953.5,0,0
+2024,November,Narayanpet,Utkoor,Utkoor,205980,11,0,0,11,0,0,0,0,0,19828.4,0,0
+2024,November,Narayanpet,Utkoor,Vallampalle,205981,2,0,0,2,0,0,0,0,0,1752.8,0,0
+2024,November,Nirmal,Basar ,Basar,195509,2,0,0,2,0,0,0,0,0,9032.2,0,0
+2024,November,Nirmal,Bhainsa,Chintalabori,195014,1,0,0,1,0,0,0,0,0,6500,0,0
+2024,November,Nirmal,Bhainsa,Dahegaon,195015,1,0,0,1,0,0,0,0,0,7998.3,0,0
+2024,November,Nirmal,Bhainsa,Mahagaon,195022,1,0,0,1,0,0,0,0,0,8000,0,0
+2024,November,Nirmal,Dasturabad ,Munnial,195280,2,0,0,1,0,0,0,1,0,0,0,0
+2024,November,Nirmal,Dilawarpur,Kanjar,195122,1,0,0,1,0,0,0,0,0,1200,0,0
+2024,November,Nirmal,Dilawarpur,Lolam New,195125,3,0,0,3,0,0,0,0,0,9311.5,0,0
+2024,November,Nirmal,Dilawarpur,Madegaon,195126,1,0,0,1,0,0,0,0,0,10405.2,0,0
+2024,November,Nirmal,Kaddampeddur,Kondkuru,195276,1,0,0,1,0,0,0,0,0,3036,0,0
+2024,November,Nirmal,Kaddampeddur,Kotha Maddipadaga,281545,1,0,0,1,0,0,0,0,0,2804.7,0,0
+2024,November,Nirmal,Kaddampeddur,Lingapur,195277,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nirmal,Kaddampeddur,Yelagadapa,195287,3,0,0,3,0,0,0,0,0,3216.4,0,0
+2024,November,Nirmal,Khanpur,Beernandi,195329,1,0,0,0,0,0,1,0,0,4109,0,0
+2024,November,Nirmal,Khanpur,Maskapur,195335,3,0,3,0,0,0,0,0,0,0,0,0
+2024,November,Nirmal,Kubeer,Kubeer,195394,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nirmal,Kubeer,Nighwa,195398,1,0,0,1,0,0,0,0,0,7500,0,0
+2024,November,Nirmal,Kuntala,Downelly,195410,1,0,0,0,0,0,1,0,0,2512.8,0,0
+2024,November,Nirmal,Kuntala,Kallur,195412,1,0,0,1,0,0,0,0,0,14999.9,0,0
+2024,November,Nirmal,Kuntala,Kuntala,195413,2,0,0,2,0,0,0,0,0,18751.4,0,0
+2024,November,Nirmal,Laxmanchanda,Chamanpalle,195424,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nirmal,Laxmanchanda,Parpally,195435,3,1,0,2,0,0,0,0,0,7805.2,0,0
+2024,November,Nirmal,Laxmanchanda,Thirpelly,281435,1,0,0,1,0,0,0,0,0,3000,0,0
+2024,November,Nirmal,Lokeshwaram,Abdullapur,288911,1,0,0,1,0,0,0,0,0,2000.8,0,0
+2024,November,Nirmal,Lokeshwaram,Lokeswaram,195445,2,1,0,1,0,0,0,0,0,6624.2,0,0
+2024,November,Nirmal,Lokeshwaram,Nagar,195447,1,0,0,1,0,0,0,0,0,4869.5,0,0
+2024,November,Nirmal,Mamda,Mamda,195477,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nirmal,Mamda,New Sangvi,195479,1,0,0,0,0,0,1,0,0,17322.9,0,0
+2024,November,Nirmal,Mamda,Ponkal,195481,1,0,0,0,0,0,1,0,0,2222.9,0,0
+2024,November,Nirmal,Mamda,Raidhari,281347,1,0,0,0,0,0,1,0,0,4048.6,0,0
+2024,November,Nirmal,Mudhole,Chintakunta,195514,2,0,0,2,0,0,0,0,0,16041.6,0,0
+2024,November,Nirmal,Narsapur G ,Narsapur(G),195127,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nirmal,Nirmal,Akkapur,195580,2,0,0,2,0,0,0,0,0,20481.4,0,0
+2024,November,Nirmal,Nirmal,Bhagyanagar,195582,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nirmal,Nirmal,Dyangapur,195584,1,0,0,1,0,0,0,0,0,23000,0,0
+2024,November,Nirmal,Nirmal,Kondapur,195588,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nirmal,Sarangapur,Adelly,281396,4,2,0,2,0,0,0,0,0,1535,0,0
+2024,November,Nirmal,Sarangapur,Beervelli,195618,1,0,0,1,0,0,0,0,0,1350.6,0,0
+2024,November,Nirmal,Sarangapur,Chincholi (B),195620,2,0,1,1,0,0,0,0,0,8578,0,0
+2024,November,Nirmal,Sarangapur,Dhani,195622,1,0,0,1,0,0,0,0,0,1085,0,0
+2024,November,Nirmal,Sarangapur,Jam,195624,1,0,0,1,0,0,0,0,0,980.4,0,0
+2024,November,Nirmal,Sarangapur,Kowtla (B),195627,1,0,0,1,0,0,0,0,0,18687.5,0,0
+2024,November,Nirmal,Sarangapur,Kupti,281379,1,0,0,1,0,0,0,0,0,1324.7,0,0
+2024,November,Nirmal,Sarangapur,Ponkur,195629,1,0,0,1,0,0,0,0,0,1092.5,0,0
+2024,November,Nirmal,Sarangapur,Vanjar,195634,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nirmal,Soan ,Gamjal,195585,1,0,0,0,0,0,1,0,0,10345.8,0,0
+2024,November,Nirmal,Soan ,Kadthal,195587,1,0,0,1,0,0,0,0,0,7137.6,0,0
+2024,November,Nirmal,Soan ,New Bopparam,195433,1,0,0,0,0,0,1,0,0,19748,0,0
+2024,November,Nirmal,Soan ,Pakpatla,195597,3,0,0,3,0,0,0,0,0,37035.3,0,0
+2024,November,Nirmal,Soan ,Sakera,281559,2,1,1,0,0,0,0,0,0,0,0,0
+2024,November,Nirmal,Tanur,Beltaroda,195704,1,0,0,1,0,0,0,0,0,2000.5,0,0
+2024,November,Nirmal,Tanur,Bhosi,195706,1,0,0,1,0,0,0,0,0,1500.4,0,0
+2024,November,Nirmal,Tanur,Bondrat,281498,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nirmal,Tanur,Singangam,195718,1,0,0,1,0,0,0,0,0,2113.1,0,0
+2024,November,Nirmal,Tanur,Tanur,195719,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Armur,Aloor,209185,1,0,0,1,0,0,0,0,0,3513.2,0,0
+2024,November,Nizamabad,Armur,Chepoor,209188,7,2,0,5,0,0,0,0,0,12691,0,0
+2024,November,Nizamabad,Armur,Fathepur,209190,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Armur,Macherla,209196,4,0,0,4,0,0,0,0,0,39975.6,0,0
+2024,November,Nizamabad,Armur,Mirdhapally,209200,3,0,0,3,0,0,0,0,0,28801.8,0,0
+2024,November,Nizamabad,Armur,Pipri,209202,5,0,0,5,0,0,0,0,0,24032.9,0,0
+2024,November,Nizamabad,Balkonda,Balkonda,209205,5,1,1,3,0,0,0,0,0,19701.8,0,0
+2024,November,Nizamabad,Balkonda,Chittapur,209210,4,0,0,3,0,0,1,0,0,33212.2,0,0
+2024,November,Nizamabad,Balkonda,Vannel B,209226,3,2,0,1,0,0,0,0,0,4944.7,0,0
+2024,November,Nizamabad,Bheemgal,Baba Nagar,209244,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Bheemgal,Bachanapally,209246,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Bheemgal,Chengal,209250,2,0,0,2,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Bheemgal,Mendora,209255,1,0,0,1,0,0,0,0,0,3097.5,0,0
+2024,November,Nizamabad,Bheemgal,Muchkoor,209256,3,0,0,3,0,0,0,0,0,11920.1,0,0
+2024,November,Nizamabad,Bheemgal,Pallikonda,209257,1,0,0,0,0,0,1,0,0,3020,0,0
+2024,November,Nizamabad,Bheemgal,Pipri (J),209258,3,1,0,2,0,0,0,0,0,11207.5,0,0
+2024,November,Nizamabad,Bheemgal,Sudharshan Nagar Thanda,279994,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Bodhan,Bardhipur,209325,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Bodhan,Errajpally,209328,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Bodhan,Hunsa,209330,1,0,0,1,0,0,0,0,0,3940.6,0,0
+2024,November,Nizamabad,Bodhan,Khajapur,209333,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Bodhan,Minarpally,209342,5,5,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Bodhan,Ootpally,209344,1,0,0,0,0,0,1,0,0,9190.7,0,0
+2024,November,Nizamabad,Bodhan,Rajeevnagar Thanda,277891,1,0,0,1,0,0,0,0,0,2379.4,0,0
+2024,November,Nizamabad,Bodhan,Salampad Camp,277899,1,0,0,1,0,0,0,0,0,6574,0,0
+2024,November,Nizamabad,Bodhan,Saloora,209349,2,1,0,0,1,0,0,0,0,8078.7,0,0
+2024,November,Nizamabad,Dhar Palle,Dharpally,209359,12,4,0,6,0,0,0,2,0,44114,0,0
+2024,November,Nizamabad,Dhar Palle,Honnajipet,209794,1,0,0,1,0,0,0,0,0,9370,0,0
+2024,November,Nizamabad,Dhar Palle,Mailaram,209366,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Dhar Palle,Ramadugu,209368,2,0,0,2,0,0,0,0,0,6183,0,0
+2024,November,Nizamabad,Dhar Palle,Seethaipet,209369,2,0,0,2,0,0,0,0,0,11492,0,0
+2024,November,Nizamabad,Dich Palle,Dichpally,209378,3,0,0,3,0,0,0,0,0,2305.9,0,0
+2024,November,Nizamabad,Dich Palle,Doosgaon,209379,3,0,0,2,0,0,1,0,0,4322.8,0,0
+2024,November,Nizamabad,Dich Palle,Ghanpur,278764,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Dich Palle,Kamalapur,209383,2,1,0,1,0,0,0,0,0,7442,0,0
+2024,November,Nizamabad,Dich Palle,Mittapally,209387,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Dich Palle,Rampoor,209390,3,1,0,2,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Dich Palle,Yanampally,209395,2,0,0,0,0,0,2,0,0,9389.4,0,0
+2024,November,Nizamabad,Indalwai ,Gangaram Thanda,278906,5,0,4,1,0,0,0,0,0,6546.1,0,0
+2024,November,Nizamabad,Indalwai ,Gannaram,209380,6,0,0,4,0,0,1,1,0,50134.3,0,0
+2024,November,Nizamabad,Indalwai ,Indalwai,209382,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Indalwai ,Nallavelli,209367,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Indalwai ,Ranjeeth Nayak Thanda,278900,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Nizamabad,Indalwai ,Vengalpad,209371,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Indalwai ,Yellareddypally,209372,3,0,0,2,0,0,0,1,0,0,0,0
+2024,November,Nizamabad,Jakranpalle,Argul,209432,1,0,0,0,0,0,1,0,0,3382.8,0,0
+2024,November,Nizamabad,Jakranpalle,Balnagar,278916,2,0,0,1,0,0,0,1,0,3759.1,0,0
+2024,November,Nizamabad,Jakranpalle,Brahmanpally,209433,3,1,0,2,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Jakranpalle,Jakranpally,209435,1,0,0,1,0,0,0,0,0,3254.2,0,0
+2024,November,Nizamabad,Jakranpalle,Keshpally,209437,2,0,0,2,0,0,0,0,0,3213.6,0,0
+2024,November,Nizamabad,Jakranpalle,Laxmapoor,209439,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Jakranpalle,Munipally,209441,2,0,0,2,0,0,0,0,0,11973.9,0,0
+2024,November,Nizamabad,Jakranpalle,Narayanpet,209442,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Jakranpalle,Thorlikonda,209446,1,0,0,1,0,0,0,0,0,9030,0,0
+2024,November,Nizamabad,Kammar Palle,Basheerabad,209487,1,0,0,1,0,0,0,0,0,4189,0,0
+2024,November,Nizamabad,Kammar Palle,Choutpally,209488,1,0,0,1,0,0,0,0,0,7180.6,0,0
+2024,November,Nizamabad,Kammar Palle,Hasakothur,209489,1,0,0,1,0,0,0,0,0,5212.1,0,0
+2024,November,Nizamabad,Kammar Palle,Kammarpally,209491,8,0,0,8,0,0,0,0,0,42422.7,0,0
+2024,November,Nizamabad,Kammar Palle,Uploor,209497,2,0,0,2,0,0,0,0,0,10260.4,0,0
+2024,November,Nizamabad,Kotgiri,Hangarga Faram,278945,1,0,0,0,0,0,1,0,0,962.4,0,0
+2024,November,Nizamabad,Kotgiri,Kallur,209506,1,0,0,1,0,0,0,0,0,2448.7,0,0
+2024,November,Nizamabad,Kotgiri,Kotgir,209510,1,0,0,1,0,0,0,0,0,4431,0,0
+2024,November,Nizamabad,Kotgiri,Sunkini,209520,1,0,0,0,0,0,1,0,0,3003.4,0,0
+2024,November,Nizamabad,Makloor,Deekampally,209590,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Makloor,Gottimukla,209593,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Makloor,Kalledi,209596,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Mendora ,Kodicherla,209215,2,0,0,2,0,0,0,0,0,4348.7,0,0
+2024,November,Nizamabad,Mendora ,Velkatoor,209227,2,0,0,2,0,0,0,0,0,8726.1,0,0
+2024,November,Nizamabad,Mortad,Donkal,209610,3,0,0,2,0,0,1,0,0,21297.6,0,0
+2024,November,Nizamabad,Mortad,Donpal,209611,2,0,0,2,0,0,0,0,0,15491.6,0,0
+2024,November,Nizamabad,Mortad,Morthad,209614,9,2,0,6,0,0,0,1,0,84403.5,0,0
+2024,November,Nizamabad,Mortad,Sunket,209618,1,0,0,1,0,0,0,0,0,13352.7,0,0
+2024,November,Nizamabad,Mortad,Thimmapur,209621,1,0,0,1,0,0,0,0,0,36886,0,0
+2024,November,Nizamabad,Mosara,Mosra,209847,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Mupkal ,Kothapalli,209216,1,0,0,1,0,0,0,0,0,10121.6,0,0
+2024,November,Nizamabad,Mupkal ,Mupkal,209218,5,3,0,1,1,0,0,0,0,25014.4,0,0
+2024,November,Nizamabad,Nandipet,Ailapur,209640,2,0,0,1,0,0,1,0,0,7771.7,0,0
+2024,November,Nizamabad,Nandipet,Bazarkothur,209644,2,0,0,1,0,0,1,0,0,12310.8,0,0
+2024,November,Nizamabad,Nandipet,Chimrajpally,209646,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Nandipet,Donkeshwar,209648,1,0,0,1,0,0,0,0,0,3987,0,0
+2024,November,Nizamabad,Nandipet,G.G.Nadukuda,209649,2,0,0,2,0,0,0,0,0,6916.8,0,0
+2024,November,Nizamabad,Nandipet,Komatpally,209654,1,0,0,1,0,0,0,0,0,2631,0,0
+2024,November,Nizamabad,Nandipet,Mallaram,278962,1,0,0,1,0,0,0,0,0,5756.6,0,0
+2024,November,Nizamabad,Nandipet,Marampally,209656,1,0,0,1,0,0,0,0,0,2903.7,0,0
+2024,November,Nizamabad,Nandipet,Nandipet,209657,5,1,0,3,0,0,1,0,0,18035.7,0,0
+2024,November,Nizamabad,Nandipet,Talveda,209663,1,0,0,0,0,0,1,0,0,2719.8,0,0
+2024,November,Nizamabad,Nandipet,Velmal,209667,2,0,0,2,0,0,0,0,0,4083.2,0,0
+2024,November,Nizamabad,Navipet,Jannepalli,209674,2,1,0,1,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Navipet,Mattaiah Farm Thanda,278972,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Navipet,Nagepur,209681,4,0,0,0,0,0,4,0,0,8710,0,0
+2024,November,Nizamabad,Navipet,Nandigama,209683,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Navipet,Navipet,209685,13,2,0,2,0,4,3,0,2,91939.4,0,0
+2024,November,Nizamabad,Navipet,Pothangal,209687,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Ranjal,Bagepally,209756,2,0,0,2,0,0,0,0,0,6635.2,0,0
+2024,November,Nizamabad,Ranjal,Kalyapur,209759,3,0,0,3,0,0,0,0,0,12991.1,0,0
+2024,November,Nizamabad,Ranjal,Kandakurthi,209760,2,0,1,1,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Ranjal,Kunepally,209761,1,0,0,0,1,0,0,0,0,4273.8,0,0
+2024,November,Nizamabad,Ranjal,Neela,209762,3,1,0,2,0,0,0,0,0,5832.8,0,0
+2024,November,Nizamabad,Ranjal,Renjal,209763,3,1,0,1,1,0,0,0,0,8914.9,0,0
+2024,November,Nizamabad,Ranjal,Thadbiloli,209765,5,0,0,2,0,0,2,1,0,7359.8,0,0
+2024,November,Nizamabad,Ranjal,Veerannagutta,209766,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Rudrur ,Boppapur,209837,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Rudrur ,Raikur,209514,5,5,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Rudrur ,Rudrur,209849,4,2,0,2,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Sirkonda,Gadkole,209793,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Sirkonda,Hussain Nagar,209795,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Sirkonda,Kondapur,209796,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Sirkonda,Mailaram,209799,2,1,0,0,0,0,0,0,1,0,0,0
+2024,November,Nizamabad,Sirkonda,Nyavanandi,209801,2,0,0,2,0,0,0,0,0,27690.5,0,0
+2024,November,Nizamabad,Sirkonda,Sirikonda,209808,6,5,0,1,0,0,0,0,0,6098.8,0,0
+2024,November,Nizamabad,Varni,S.N.Puram,209850,2,1,0,1,0,0,0,0,0,6855.4,0,0
+2024,November,Nizamabad,Varni,Sydpur,279896,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Varni,Varni,209855,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Velpur,Komanpally,209860,1,0,0,0,0,0,1,0,0,2458.6,0,0
+2024,November,Nizamabad,Velpur,Kuknoor,209862,2,0,0,1,0,0,0,1,0,6299.5,0,0
+2024,November,Nizamabad,Velpur,Pachal Nadukuda,209865,1,0,0,1,0,0,0,0,0,14402.4,0,0
+2024,November,Nizamabad,Velpur,Padgal,209866,3,0,0,3,0,0,0,0,0,27352.2,0,0
+2024,November,Nizamabad,Velpur,Vailpoor,209868,1,0,0,1,0,0,0,0,0,7006.4,0,0
+2024,November,Nizamabad,Velpur,Wadi,209870,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Yeda Palle,Yedapally,209884,3,2,0,1,0,0,0,0,0,2773,0,0
+2024,November,Nizamabad,Yergatla ,Thorthy,209622,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,Yergatla ,Yergatla,209624,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Nizamabad,chandur,Chandur,209838,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Anthargaon ,Brahmanpalli,201853,2,1,0,0,1,0,0,0,0,0,0,0
+2024,November,Peddapalli,Anthargaon ,Eklaspur,201854,1,0,0,1,0,0,0,0,0,12834.5,0,0
+2024,November,Peddapalli,Anthargaon ,Kundanpalli,201861,4,0,0,1,0,0,3,0,0,6379.4,0,0
+2024,November,Peddapalli,Anthargaon ,Murmur,201864,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Anthargaon ,Peddampet,278773,3,0,1,0,0,0,2,0,0,7224.8,0,0
+2024,November,Peddapalli,Anthargaon ,Tts Anthergoan,278774,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Peddapalli,Anthargaon ,Yellampalli,278775,1,0,0,1,0,0,0,0,0,3349.8,0,0
+2024,November,Peddapalli,Dharmaram,Chamanpally,201084,2,1,1,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Dharmaram,Dharmaram,201085,9,6,0,2,0,0,1,0,0,8434.4,0,0
+2024,November,Peddapalli,Dharmaram,Erraguntapalli,201087,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Dharmaram,Gopalraopet,201088,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Dharmaram,Khilavanaparthy,201092,1,0,0,1,0,0,0,0,0,10653.1,0,0
+2024,November,Peddapalli,Dharmaram,Myadaram,201096,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Dharmaram,Narsingapur,201098,2,1,0,0,0,0,0,1,0,0,0,0
+2024,November,Peddapalli,Dharmaram,Nayakampalli,278137,1,0,0,1,0,0,0,0,0,5978.7,0,0
+2024,November,Peddapalli,Dharmaram,Pathipaka,201100,4,2,0,2,0,0,0,0,0,21801.3,0,0
+2024,November,Peddapalli,Eligaid,Muppirithota,201108,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Eligaid,Narasapur,201109,2,1,0,1,0,0,0,0,0,2473.1,0,0
+2024,November,Peddapalli,Julapalle,Julapally,201348,7,2,0,3,0,0,0,2,0,34269.2,0,0
+2024,November,Peddapalli,Julapalle,Venkatraopalli,201354,1,0,0,1,0,0,0,0,0,4522.4,0,0
+2024,November,Peddapalli,Kamanpur,Gollapalli,278722,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Kamanpur,Gundaram,201377,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Kamanpur,Kamanpoor,201381,3,1,0,2,0,0,0,0,0,20222.1,0,0
+2024,November,Peddapalli,Kamanpur,Nagaram,201384,1,0,0,0,0,0,1,0,0,8136.9,0,0
+2024,November,Peddapalli,Kamanpur,Penchikalpet,201387,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Kamanpur,Rompikunta,201391,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Manthani,Arenda,201628,1,0,0,0,0,0,1,0,0,3468.2,0,0
+2024,November,Peddapalli,Manthani,Rachapalli,201648,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Manthani,Suraiahpalli,201650,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Mutharam Manthani,Adavisrirampoor,201718,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Mutharam Manthani,Machupet,201726,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Mutharam Manthani,Mutharam,201727,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Odela,Bheemarapalli,278739,1,0,0,1,0,0,0,0,0,2369.5,0,0
+2024,November,Peddapalli,Odela,Gudem,201733,2,1,0,0,0,0,1,0,0,4692.1,0,0
+2024,November,Peddapalli,Odela,Kolanoor,201740,4,3,0,1,0,0,0,0,0,15675,0,0
+2024,November,Peddapalli,Odela,Odela,201744,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Odela,Sanagonda,201747,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Palakurthy,Elkalapalli,201855,2,0,0,1,0,0,0,1,0,10464,0,0
+2024,November,Peddapalli,Palakurthy,Palakurthy,201865,1,0,0,1,0,0,0,0,0,5001.3,0,0
+2024,November,Peddapalli,Palakurthy,Ramaraopalli,257877,2,1,0,1,0,0,0,0,0,5973.2,0,0
+2024,November,Peddapalli,Peddapalle,Appannapet,201750,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Peddapalle,Cheekurai,201756,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Peddapalle,Kapulapalli,278749,1,0,0,0,0,0,1,0,0,13701.2,0,0
+2024,November,Peddapalli,Peddapalle,Kothapalli,201761,1,0,0,0,1,0,0,0,0,3971.6,0,0
+2024,November,Peddapalli,Peddapalle,Mulasala,201763,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Peddapalle,Peddabonkur,201767,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Peddapalle,Raghavapoor,201769,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Peddapalle,Raginedu,201770,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Peddapalle,Turkala Maddi Kunta,201775,1,0,0,1,0,0,0,0,0,14920,0,0
+2024,November,Peddapalli,Ramagiri,Begumpet,201376,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Ramagiri,Kalvacherla,201380,2,0,0,1,0,0,1,0,0,65668.9,0,0
+2024,November,Peddapalli,Ramagiri,Lonkakesaram,278726,2,1,1,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Ramagiri,Nagepalli,201385,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Ramagiri,Nawabpeta,278724,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Ramagiri,Ratnapoor,201390,4,0,0,4,0,0,0,0,0,32089.5,0,0
+2024,November,Peddapalli,Srirampur,Gangaram,201965,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Srirampur,Ippalapalli,278777,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Srirampur,Mangapet,201970,2,1,1,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Srirampur,Pegadapalli,201976,2,1,0,0,1,0,0,0,0,8411.5,0,0
+2024,November,Peddapalli,Srirampur,Srirampoor,201977,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Sultanabad,Bhupathipoor,201980,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Peddapalli,Sultanabad,Chinabonkur,201982,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Sultanabad,Chinakalvala,201983,1,0,0,0,1,0,0,0,0,10809.7,0,0
+2024,November,Peddapalli,Sultanabad,Devunipalli,278790,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Sultanabad,Dubbapalli,278793,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Sultanabad,Garrepalli,201984,4,2,0,0,0,0,0,2,0,0,0,0
+2024,November,Peddapalli,Sultanabad,Gattepalli,201985,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Sultanabad,Itherajpalli,201987,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Sultanabad,Narayanapur,201994,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Peddapalli,Sultanabad,Sambaiahpalli,201998,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Boinpalle,Boinpalli,200981,5,2,0,0,0,0,1,2,0,11920.4,0,0
+2024,November,Rajanna Sircilla,Boinpalle,Desaipalli,200983,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Boinpalle,Kodurupaka,200987,1,0,0,0,0,1,0,0,0,2252.8,0,0
+2024,November,Rajanna Sircilla,Boinpalle,Kothapeta,200989,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Rajanna Sircilla,Boinpalle,Marlapet,200993,1,0,0,1,0,0,0,0,0,8929,0,0
+2024,November,Rajanna Sircilla,Boinpalle,Narsigapoor,200994,5,0,0,5,0,0,0,0,0,13267.1,0,0
+2024,November,Rajanna Sircilla,Boinpalle,Neelojipally,200995,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Boinpalle,Stambampalli,200999,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Boinpalle,Thadakonda,201000,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Boinpalle,Vardavelly,201001,2,0,0,2,0,0,0,0,0,5158.4,0,0
+2024,November,Rajanna Sircilla,Boinpalle,Vilasagar,201003,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Chandurthi,Ananthapalli,201004,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Chandurthi,Chandurthy,201007,4,2,0,2,0,0,0,0,0,21439.5,0,0
+2024,November,Rajanna Sircilla,Chandurthi,Jogapur,201009,1,0,0,0,1,0,0,0,0,9012.7,0,0
+2024,November,Rajanna Sircilla,Chandurthi,Lingampet,201012,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Chandurthi,Mallial,201013,2,1,0,1,0,0,0,0,0,6852.7,0,0
+2024,November,Rajanna Sircilla,Chandurthi,Marrigadda,201014,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Chandurthi,Moodapally,201015,2,0,0,2,0,0,0,0,0,26348,0,0
+2024,November,Rajanna Sircilla,Chandurthi,Narsingapur,201016,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Chandurthi,Ramannapet,201017,1,0,0,1,0,0,0,0,0,5180,0,0
+2024,November,Rajanna Sircilla,Ellanthakunta,Ananthagiri,201128,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Ellanthakunta,Anantharam,201129,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Ellanthakunta,Dacharam,201131,1,0,0,1,0,0,0,0,0,5317.4,0,0
+2024,November,Rajanna Sircilla,Ellanthakunta,Ellanthakunta,201132,4,2,0,1,0,0,0,1,0,8813.8,0,0
+2024,November,Rajanna Sircilla,Ellanthakunta,Peddalingapuram,201142,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Ellanthakunta,Repaka,201145,5,0,0,0,0,0,3,2,0,7655.7,0,0
+2024,November,Rajanna Sircilla,Ellanthakunta,Thippapuram,201150,2,0,0,2,0,0,0,0,0,5712.5,0,0
+2024,November,Rajanna Sircilla,Ellanthakunta,Vallampatla,201151,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Rajanna Sircilla,Gambhiraopet,Dammannapet,201154,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Gambhiraopet,Gambhiraopet,201157,8,5,0,3,0,0,0,0,0,74341.3,0,0
+2024,November,Rajanna Sircilla,Gambhiraopet,Kothapally,201160,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Gambhiraopet,Mustafanager,201164,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Gambhiraopet,Nagampet,201165,2,0,0,1,0,0,1,0,0,4760.5,0,0
+2024,November,Rajanna Sircilla,Gambhiraopet,Narmal,201166,1,0,0,0,0,0,1,0,0,8796.7,0,0
+2024,November,Rajanna Sircilla,Gambhiraopet,Rajupeta,278375,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Gambhiraopet,Samudralingapur,201167,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Konaraopeta,Bausaipet,201496,2,0,0,0,0,0,2,0,0,10356.2,0,0
+2024,November,Rajanna Sircilla,Konaraopeta,Govindaraopet Thanda,278408,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Konaraopeta,Kolanoor,201500,2,0,0,2,0,0,0,0,0,12105.3,0,0
+2024,November,Rajanna Sircilla,Konaraopeta,Konaraopet,201501,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Konaraopeta,Malkapet,201503,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Konaraopeta,Mamidipalli,201504,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Konaraopeta,Marrimadla,201506,1,0,0,0,0,0,1,0,0,284.2,0,0
+2024,November,Rajanna Sircilla,Konaraopeta,Marthanpet,201507,1,0,0,1,0,0,0,0,0,5711.5,0,0
+2024,November,Rajanna Sircilla,Konaraopeta,Nizambad,201510,5,4,0,1,0,0,0,0,0,10606,0,0
+2024,November,Rajanna Sircilla,Mustabad,Avunoor,201692,7,2,0,4,0,0,0,1,0,15586.8,0,0
+2024,November,Rajanna Sircilla,Mustabad,Gudem,201696,1,0,0,1,0,0,0,0,0,13214.6,0,0
+2024,November,Rajanna Sircilla,Mustabad,Maddikunta,201699,1,0,0,1,0,0,0,0,0,21521.2,0,0
+2024,November,Rajanna Sircilla,Mustabad,Mohinikunta,201700,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Mustabad,Musthabad,201702,5,3,0,1,1,0,0,0,0,19884.1,0,0
+2024,November,Rajanna Sircilla,Mustabad,Namapur,201703,2,0,0,2,0,0,0,0,0,3454.2,0,0
+2024,November,Rajanna Sircilla,Mustabad,Pothugal,201704,4,0,0,2,0,0,2,0,0,47778.9,0,0
+2024,November,Rajanna Sircilla,Rudrangi ,Manala,209494,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Rudrangi ,Rudrangi,201019,11,3,0,4,0,0,0,2,2,45981,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Baddenapally,201933,1,0,0,0,1,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Balamallupally,201934,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Baswapur,201935,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Cheerlavanch,201938,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Chinnalingapur,201940,1,0,0,1,0,0,0,0,0,27273.3,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Indiramma Colony,257896,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Jillella,201945,2,1,0,1,0,0,0,0,0,5490.5,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Mandepally,201948,8,0,0,2,0,0,3,3,0,98562.1,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Nerella,201951,1,0,0,1,0,0,0,0,0,32490,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Padmanagar,278382,1,0,0,0,0,0,1,0,0,3018.5,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Rallapet,201955,2,0,0,1,0,0,0,1,0,0,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Sarampally,201958,2,1,0,1,0,0,0,0,0,71859,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Thadur,201960,1,0,0,0,0,0,1,0,0,8705,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Thangallapally,201961,4,2,0,2,0,0,0,0,0,24630.2,0,0
+2024,November,Rajanna Sircilla,Thangallapalli,Venugopalpur,201962,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Veernapalli ,Babai Cheruvu Thanda,278384,1,0,0,1,0,0,0,0,0,19593,0,0
+2024,November,Rajanna Sircilla,Veernapalli ,Lalsing Thanda,278391,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Veernapalli ,Veernapally,202117,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Vemulawada Rural,Balrajpally,202073,1,0,0,0,0,0,1,0,0,7163.2,0,0
+2024,November,Rajanna Sircilla,Vemulawada Rural,Fazilnagar,202078,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Vemulawada Rural,Hanumajipet,202079,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Vemulawada Rural,Vattemula,202095,3,2,0,0,0,0,1,0,0,4890.9,0,0
+2024,November,Rajanna Sircilla,Yella Reddi Peta,Almaspur,202099,2,0,0,0,0,0,2,0,0,39605.2,0,0
+2024,November,Rajanna Sircilla,Yella Reddi Peta,Bandalingampally,202100,2,0,0,2,0,0,0,0,0,11274,0,0
+2024,November,Rajanna Sircilla,Yella Reddi Peta,Boppapur,202101,5,0,0,4,0,0,0,1,0,68300.4,0,0
+2024,November,Rajanna Sircilla,Yella Reddi Peta,Dumala,202102,3,0,0,2,0,0,0,1,0,10463.8,0,0
+2024,November,Rajanna Sircilla,Yella Reddi Peta,Kishtunayak Thanda,278393,1,0,0,0,0,0,1,0,0,4893,0,0
+2024,November,Rajanna Sircilla,Yella Reddi Peta,Narayanapuram (Pattirachu,202110,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Yella Reddi Peta,Padira,202111,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rajanna Sircilla,Yella Reddi Peta,Rajannapet,202112,2,0,0,0,0,0,2,0,0,17442.4,0,0
+2024,November,Rajanna Sircilla,Yella Reddi Peta,Singaram,202114,1,0,0,0,0,0,1,0,0,917,0,0
+2024,November,Rajanna Sircilla,Yella Reddi Peta,Venkatapur,202118,6,0,0,5,0,0,0,1,0,61105.8,0,0
+2024,November,Rajanna Sircilla,Yella Reddi Peta,Yellareddypet,202119,4,0,0,4,0,0,0,0,0,14905.6,0,0
+2024,November,Rangareddy,Abdullapurmet,Abdullapur,210058,20,1,0,13,0,0,0,1,5,49020.4,0,0
+2024,November,Rangareddy,Abdullapurmet,Anajpur,210059,1,0,0,0,0,0,1,0,0,11345,0,0
+2024,November,Rangareddy,Abdullapurmet,Bandaraviryal,210062,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Abdullapurmet,Batasingaram,210063,9,2,0,1,0,0,5,1,0,12847.3,0,0
+2024,November,Rangareddy,Abdullapurmet,Gandicheruvu,210066,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Abdullapurmet,Inamguda,277678,3,1,0,2,0,0,0,0,0,17618.8,0,0
+2024,November,Rangareddy,Abdullapurmet,Kawadipally,210070,4,0,0,4,0,0,0,0,0,42439.6,0,0
+2024,November,Rangareddy,Abdullapurmet,Laskerguda,210073,2,1,0,1,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Amangal,Chintalpally,281655,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Amangal,Meddigadda Thanda,204834,2,1,0,1,0,0,0,0,0,1336.8,0,0
+2024,November,Rangareddy,Chevella,Devuniyerravally,209945,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Chevella,Ibrahimpally,209948,1,0,0,1,0,0,0,0,0,26500,0,0
+2024,November,Rangareddy,Chevella,Kandawada,209950,3,0,0,3,0,0,0,0,0,72828.3,0,0
+2024,November,Rangareddy,Chevella,Kowkuntla,209952,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Chevella,Nyalata,209957,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Choudargudem Jilled ,Chowderguda,288939,3,0,0,3,0,0,0,0,0,11755.7,0,0
+2024,November,Rangareddy,Choudargudem Jilled ,Pedda Yelkicherla,205427,1,0,0,1,0,0,0,0,0,2320,0,0
+2024,November,Rangareddy,Farooqnagar,Annaram,205118,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Farooqnagar,Bheemaram,205120,2,0,0,2,0,0,0,0,0,3183.7,0,0
+2024,November,Rangareddy,Farooqnagar,Buchiguda,205121,1,0,0,1,0,0,0,0,0,3620,0,0
+2024,November,Rangareddy,Farooqnagar,Burgul,205122,1,0,0,1,0,0,0,0,0,2110,0,0
+2024,November,Rangareddy,Farooqnagar,Chinchod,205124,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Farooqnagar,Chowlapally,205126,1,0,0,1,0,0,0,0,0,7356.3,0,0
+2024,November,Rangareddy,Farooqnagar,Dooskal,205128,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Farooqnagar,Hajipalle,205131,19,1,0,16,1,0,0,1,0,355907.8,0,0
+2024,November,Rangareddy,Farooqnagar,Kasireddyguda,281690,1,0,0,0,1,0,0,0,0,4000,0,0
+2024,November,Rangareddy,Farooqnagar,Kishan Nagar,205135,2,0,0,2,0,0,0,0,0,2783,0,0
+2024,November,Rangareddy,Farooqnagar,Mogalagidda,205139,3,0,0,3,0,0,0,0,0,8592,0,0
+2024,November,Rangareddy,Farooqnagar,Rasamallaguda,281698,1,0,0,1,0,0,0,0,0,2200.1,0,0
+2024,November,Rangareddy,Ibrahimpatam,Cherlapatelguda,210087,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Ibrahimpatam,Dandumailaram,210088,2,0,0,2,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Ibrahimpatam,Polkampally,210098,2,0,0,0,0,0,0,2,0,0,0,0
+2024,November,Rangareddy,Ibrahimpatam,Thurkaguda,210103,1,0,0,1,0,0,0,0,0,2061,0,0
+2024,November,Rangareddy,Ibrahimpatam,Uppariguda,210105,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Ibrahimpatam,Yeliminedu,210106,3,1,0,2,0,0,0,0,0,4750.6,0,0
+2024,November,Rangareddy,Kadthal ,Anmaspally,281662,2,0,2,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Kadthal ,Kadthal,204829,4,0,0,2,0,0,2,0,0,93944.9,0,0
+2024,November,Rangareddy,Kadthal ,Salarpur,205903,1,0,0,1,0,0,0,0,0,1407.2,0,0
+2024,November,Rangareddy,Kandukur,Bachupally,210109,9,0,0,0,0,0,0,9,0,0,0,0
+2024,November,Rangareddy,Kandukur,Gummadavelly,210115,1,0,0,1,0,0,0,0,0,2455,0,0
+2024,November,Rangareddy,Kandukur,Jaithwaram Khalsa,210116,1,0,0,0,0,0,1,0,0,2074.1,0,0
+2024,November,Rangareddy,Kandukur,Kandukur,210117,2,1,0,1,0,0,0,0,0,2000,0,0
+2024,November,Rangareddy,Kandukur,Kolanguda,277740,1,0,0,1,0,0,0,0,0,1137.9,0,0
+2024,November,Rangareddy,Kandukur,Kothaguda,210118,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Kandukur,Nednoor,210125,5,0,0,5,0,0,0,0,0,4160.3,0,0
+2024,November,Rangareddy,Kandukur,Thimmapur,210129,45,7,0,37,0,0,0,1,0,736715.2,0,0
+2024,November,Rangareddy,Keshampeta,Eklaskhampeta,205320,1,0,0,0,0,0,1,0,0,4330,0,0
+2024,November,Rangareddy,Keshampeta,Keshampet,205323,3,0,0,3,0,0,0,0,0,3642.2,0,0
+2024,November,Rangareddy,Keshampeta,Kothapeta,205325,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Kondurg,Chinnayelkicherla,205414,4,0,0,4,0,0,0,0,0,6116.4,0,0
+2024,November,Rangareddy,Kondurg,Kondurg,205422,3,1,1,1,0,0,0,0,0,5628.3,0,0
+2024,November,Rangareddy,Kondurg,Mahadevpoor,205423,6,3,0,1,0,0,0,2,0,3573.5,0,0
+2024,November,Rangareddy,Kondurg,Parvathpur,205426,1,0,0,1,0,0,0,0,0,3160,0,0
+2024,November,Rangareddy,Kondurg,Pulusu Mamidi,288943,3,2,0,1,0,0,0,0,0,4922,0,0
+2024,November,Rangareddy,Kothur,Inmulnarva,205493,2,1,0,1,0,0,0,0,0,5225.8,0,0
+2024,November,Rangareddy,Kothur,Penjerla,205501,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Madgul,Aurpalle,205551,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Madgul,Irwin,205555,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Madgul,Madgul,205559,1,0,0,1,0,0,0,0,0,3966,0,0
+2024,November,Rangareddy,Maheswaram,Akhanpally,210171,2,0,0,2,0,0,0,0,0,9535.4,0,0
+2024,November,Rangareddy,Maheswaram,Ameerpet,210172,5,3,0,2,0,0,0,0,0,6218,0,0
+2024,November,Rangareddy,Maheswaram,Gangaram,277772,2,0,0,0,0,0,2,0,0,9917.6,0,0
+2024,November,Rangareddy,Maheswaram,Ghatpalle,210174,2,1,0,0,0,0,1,0,0,11194.4,0,0
+2024,November,Rangareddy,Maheswaram,Gollur,210175,2,0,0,2,0,0,0,0,0,15142.8,0,0
+2024,November,Rangareddy,Maheswaram,Kalvakole,210177,3,0,0,0,0,0,3,0,0,4289,0,0
+2024,November,Rangareddy,Maheswaram,Kollapadkal,210178,1,0,0,1,0,0,0,0,0,3678.5,0,0
+2024,November,Rangareddy,Maheswaram,Maheshwaram,210179,5,3,0,1,1,0,0,0,0,31528.6,0,0
+2024,November,Rangareddy,Maheswaram,Mansanpally,210182,3,0,0,1,0,0,1,1,0,21005.8,0,0
+2024,November,Rangareddy,Maheswaram,Nagaram,210183,3,0,0,1,0,0,2,0,0,19287.4,0,0
+2024,November,Rangareddy,Maheswaram,Nandupally,277766,3,0,0,3,0,0,0,0,0,49684.5,0,0
+2024,November,Rangareddy,Maheswaram,Sirigiripur,210189,7,0,0,7,0,0,0,0,0,12877.6,0,0
+2024,November,Rangareddy,Maheswaram,Tummaloor,210193,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Maheswaram,Uppugadda Thanda,277775,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Manchal,Agapally,210194,1,0,0,0,0,0,1,0,0,2759.6,0,0
+2024,November,Rangareddy,Manchal,Bandalemoor,210196,1,0,0,1,0,0,0,0,0,3346.2,0,0
+2024,November,Rangareddy,Manchal,Chittapur,210200,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Manchal,Nomula,210207,2,0,0,1,0,0,0,1,0,141829.6,0,0
+2024,November,Rangareddy,Manchal,Sathi Thanda,277794,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Manchal,Thallapalliguda,210209,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Moinabad,Chandanagar,210252,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Moinabad,Chilkur,210253,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Moinabad,Himayathnagar,210255,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Nandigama ,Chegur,205490,10,0,0,10,0,0,0,0,0,24650.8,0,0
+2024,November,Rangareddy,Nandigama ,Nandigama,205499,1,0,0,0,1,0,0,0,0,0,0,0
+2024,November,Rangareddy,Shabad,Etlayerravally,210423,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Shabad,Hythabad,210424,3,0,0,2,0,0,0,1,0,58860.4,0,0
+2024,November,Rangareddy,Shabad,Kakloor,210425,6,2,0,2,0,0,0,2,0,5636,0,0
+2024,November,Rangareddy,Shabad,Keshavaguda,278307,1,0,0,1,0,0,0,0,0,5500,0,0
+2024,November,Rangareddy,Shabad,Machanpally,210429,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Shabad,Nagarikunta,210435,1,0,0,1,0,0,0,0,0,6668.8,0,0
+2024,November,Rangareddy,Shabad,Rudraram,210438,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Shabad,Thimmareddyguda,210444,2,1,0,1,0,0,0,0,0,9529,0,0
+2024,November,Rangareddy,Shamshabad,Kacharam,210474,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Shamshabad,Peddatupra,210486,5,2,0,3,0,0,0,0,0,22424.2,0,0
+2024,November,Rangareddy,Shamshabad,Shankarapur,210490,4,0,0,4,0,0,0,0,0,40669,0,0
+2024,November,Rangareddy,Shankarpalle,Gopolaram,277805,2,0,0,2,0,0,0,0,0,8311.6,0,0
+2024,November,Rangareddy,Shankarpalle,Janwada,210500,4,0,0,4,0,0,0,0,0,55110.8,0,0
+2024,November,Rangareddy,Shankarpalle,Kondakal,210501,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Shankarpalle,Mokilla Thanda,277807,2,0,0,2,0,0,0,0,0,10082.4,0,0
+2024,November,Rangareddy,Shankarpalle,Seriguda,277808,2,1,0,1,0,0,0,0,0,21813.7,0,0
+2024,November,Rangareddy,Shankarpalle,Yelwarthy,210516,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Shankarpalle,Yervaguda,210517,1,0,0,1,0,0,0,0,0,6902,0,0
+2024,November,Rangareddy,Talakondapalle,Balsulapally Thanda,281745,1,0,0,1,0,0,0,0,0,3038,0,0
+2024,November,Rangareddy,Talakondapalle,Gattu Ippalapalle,205895,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Rangareddy,Talakondapalle,Haryanaik Thanda,281737,1,0,0,1,0,0,0,0,0,11003.3,0,0
+2024,November,Rangareddy,Talakondapalle,Khanapur,205898,1,0,0,1,0,0,0,0,0,5200,0,0
+2024,November,Rangareddy,Talakondapalle,Medakpalle,205900,1,0,0,1,0,0,0,0,0,8949,0,0
+2024,November,Rangareddy,Talakondapalle,Pathakota Thanda,281738,1,0,0,1,0,0,0,0,0,3486,0,0
+2024,November,Rangareddy,Talakondapalle,Talakondapalle,205904,1,0,0,1,0,0,0,0,0,18012,0,0
+2024,November,Rangareddy,Talakondapalle,Veljala,205905,3,1,0,0,0,0,2,0,0,2842,0,0
+2024,November,Rangareddy,Yacharam,Yacharam,210583,1,0,0,1,0,0,0,0,0,1248.5,0,0
+2024,November,Sangareddy,Ameenpur ,Wadakpalle,206735,4,1,0,3,0,0,0,0,0,8124,0,0
+2024,November,Sangareddy,Andole,Aksanpalle,206099,1,0,0,0,0,0,1,0,0,1069.2,0,0
+2024,November,Sangareddy,Andole,Dakoor,206104,1,0,0,1,0,0,0,0,0,2231.6,0,0
+2024,November,Sangareddy,Andole,Kodekal,206108,1,0,0,1,0,0,0,0,0,1783.9,0,0
+2024,November,Sangareddy,Andole,Masanpalle,206109,1,0,0,1,0,0,0,0,0,1593.4,0,0
+2024,November,Sangareddy,Andole,Sangupet,206118,1,0,0,1,0,0,0,0,0,1853.9,0,0
+2024,November,Sangareddy,Gummadidala ,Annaram,206326,29,2,0,27,0,0,0,0,0,77549.7,0,0
+2024,November,Sangareddy,Gummadidala ,Bonthapalle,206329,5,5,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Gummadidala ,Domadugu,206331,4,1,0,2,0,0,0,1,0,7624.2,0,0
+2024,November,Sangareddy,Gummadidala ,Gummadidala,206333,16,3,0,12,0,0,0,1,0,89569.4,0,0
+2024,November,Sangareddy,Gummadidala ,Nallavalli,206342,2,0,0,2,0,0,0,0,0,3967.6,0,0
+2024,November,Sangareddy,Gummadidala ,Veerannagudem,277886,5,2,0,3,0,0,0,0,0,18336.9,0,0
+2024,November,Sangareddy,Hathnoora,Brahmanguda,278458,2,1,0,1,0,0,0,0,0,836.1,0,0
+2024,November,Sangareddy,Hathnoora,Chintalcheru,206258,1,0,0,0,0,0,1,0,0,4534.8,0,0
+2024,November,Sangareddy,Hathnoora,Devulapally,278452,1,0,0,1,0,0,0,0,0,2168.9,0,0
+2024,November,Sangareddy,Hathnoora,Doultabad,206259,3,2,0,1,0,0,0,0,0,11881.9,0,0
+2024,November,Sangareddy,Hathnoora,Koniyal,206264,1,0,0,0,0,0,1,0,0,2860.5,0,0
+2024,November,Sangareddy,Hathnoora,Madhura,278456,1,0,0,1,0,0,0,0,0,1480,0,0
+2024,November,Sangareddy,Hathnoora,Mangapur,278451,2,0,0,0,0,0,2,0,0,10611.8,0,0
+2024,November,Sangareddy,Hathnoora,Nawabpet,243923,2,0,0,1,0,0,1,0,0,11410.2,0,0
+2024,November,Sangareddy,Hathnoora,Reddikhanapur,206270,1,0,0,0,0,0,1,0,0,5066,0,0
+2024,November,Sangareddy,Hathnoora,Royyapally,278454,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Hathnoora,Sirpura,206273,2,0,0,0,0,0,2,0,0,7615.5,0,0
+2024,November,Sangareddy,Hathnoora,Turkal Khanapur,206274,1,0,0,1,0,0,0,0,0,11006.1,0,0
+2024,November,Sangareddy,Jharasangam,Devarampalle,206306,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Jharasangam,Edulapalle,206308,2,0,0,2,0,0,0,0,0,14457.6,0,0
+2024,November,Sangareddy,Jharasangam,Kuppanagar,206317,1,0,0,1,0,0,0,0,0,4182,0,0
+2024,November,Sangareddy,Jinnaram,Jangampet,277881,2,1,0,1,0,0,0,0,0,12991,0,0
+2024,November,Sangareddy,Jinnaram,Khazipalle,206336,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Jinnaram,Mangampet,206341,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Jinnaram,Ootla,206344,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Kalher,Kalvonikunta Thanda,278758,1,0,0,1,0,0,0,0,0,2789.6,0,0
+2024,November,Sangareddy,Kalher,Mahdevpally,257927,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Kalher,Masanpalle,206355,2,1,0,1,0,0,0,0,0,3452.2,0,0
+2024,November,Sangareddy,Kalher,Raparthy,206361,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Kandi ,Cheriyal,206857,7,0,0,2,0,0,5,0,0,11404.2,0,0
+2024,November,Sangareddy,Kandi ,Indrakaran,206864,6,0,0,4,0,0,2,0,0,57704.2,0,0
+2024,November,Sangareddy,Kandi ,Julkal,206867,2,0,0,2,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Kandi ,Kandi,206870,4,2,0,2,0,0,0,0,0,13950.2,0,0
+2024,November,Sangareddy,Kandi ,Kasipur,206871,6,1,0,4,0,0,0,1,0,10327,0,0
+2024,November,Sangareddy,Kandi ,Koulampet,206873,1,0,0,1,0,0,0,0,0,6186.6,0,0
+2024,November,Sangareddy,Kandi ,Thunikila Thanda,277860,1,0,0,1,0,0,0,0,0,5248.6,0,0
+2024,November,Sangareddy,Kandi ,Yeddumailaram,206861,6,0,0,3,0,0,1,2,0,7856.5,0,0
+2024,November,Sangareddy,Kangti,Kangti,206375,3,0,0,2,0,0,0,1,0,0,0,0
+2024,November,Sangareddy,Kohir,Bilalpoor,206386,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Kohir,Kavelli,206391,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Kohir,Kohir,206393,3,0,0,2,0,0,1,0,0,12248.2,0,0
+2024,November,Sangareddy,Kondapur,Aliabad,206423,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Kondapur,Girmapur,206428,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Kondapur,Kondapur,206433,1,0,0,1,0,0,0,0,0,4194.8,0,0
+2024,November,Sangareddy,Kondapur,Malkapur,206435,24,7,0,17,0,0,0,0,0,55004.4,0,0
+2024,November,Sangareddy,Kondapur,Mallepalle,206436,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Kondapur,Mohammadapur,206439,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Kondapur,Togurpalle,206443,7,3,0,4,0,0,0,0,0,12317.4,0,0
+2024,November,Sangareddy,Munpalle,Budhera,206582,2,0,0,1,0,0,1,0,0,32550.7,0,0
+2024,November,Sangareddy,Munpalle,Kamkole,206586,2,0,1,1,0,0,0,0,0,7872.6,0,0
+2024,November,Sangareddy,Nagalgidda ,Nagalagidda,206495,1,0,0,1,0,0,0,0,0,4551.3,0,0
+2024,November,Sangareddy,Narayankhed,Bhanapur,278817,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Narayankhed,Hanmanthraopet,206628,1,0,0,1,0,0,0,0,0,2816.3,0,0
+2024,November,Sangareddy,Narayankhed,Hungarga - K,206629,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Narayankhed,Madwar Thanda,278804,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Narayankhed,Nizampet,206636,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Narayankhed,Panchagaon,206638,1,0,0,0,0,0,1,0,0,3777.5,0,0
+2024,November,Sangareddy,Nyalkal,Atnur,206664,1,0,0,1,0,0,0,0,0,2000,0,0
+2024,November,Sangareddy,Nyalkal,Ganjetti,206671,1,0,0,1,0,0,0,0,0,2728,0,0
+2024,November,Sangareddy,Nyalkal,Khaleelpur,206677,1,0,0,1,0,0,0,0,0,7014,0,0
+2024,November,Sangareddy,Nyalkal,Malgi,206678,8,0,0,2,0,0,6,0,0,11260,0,0
+2024,November,Sangareddy,Nyalkal,Nyalkal,206686,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Nyalkal,Ratnapur,206689,1,0,0,1,0,0,0,0,0,831.7,0,0
+2024,November,Sangareddy,Patancheru,Bachugudem,277870,12,0,0,12,0,0,0,0,0,29538.1,0,0
+2024,November,Sangareddy,Patancheru,Bhanur,206716,19,3,0,15,1,0,0,0,0,118727.4,0,0
+2024,November,Sangareddy,Patancheru,Chinnakanjerla,206717,6,2,0,2,1,0,0,1,0,8949.4,0,0
+2024,November,Sangareddy,Patancheru,Chitkul,206718,12,0,0,10,0,0,0,2,0,27874.9,0,0
+2024,November,Sangareddy,Patancheru,Indresham,206721,68,19,0,48,1,0,0,0,0,293915.4,0,0
+2024,November,Sangareddy,Patancheru,Isnapur,206723,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Patancheru,Kyasaram,206726,3,2,0,0,0,0,1,0,0,4613.6,0,0
+2024,November,Sangareddy,Patancheru,Lakdaram,206727,4,0,0,3,1,0,0,0,0,4555.4,0,0
+2024,November,Sangareddy,Patancheru,Nandigaon,206729,16,6,0,6,2,0,0,2,0,33928.3,0,0
+2024,November,Sangareddy,Patancheru,Pashamylaram,206730,2,0,0,1,0,0,0,1,0,0,0,0
+2024,November,Sangareddy,Patancheru,Peddakanjerla,206731,3,1,0,2,0,0,0,0,0,12673.6,0,0
+2024,November,Sangareddy,Patancheru,Rudraram,206733,7,6,0,1,0,0,0,0,0,10938,0,0
+2024,November,Sangareddy,Pulkal,Badrigudem,279016,1,0,0,1,0,0,0,0,0,2502.3,0,0
+2024,November,Sangareddy,Pulkal,Choutkur,206739,1,0,0,0,1,0,0,0,0,1807.5,0,0
+2024,November,Sangareddy,Pulkal,Posanipally,277915,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Pulkal,Singoor,206752,1,0,0,0,0,0,1,0,0,1953.1,0,0
+2024,November,Sangareddy,Raikode,A.Nagar (Pattihasnabad),206759,1,0,0,0,0,0,1,0,0,11270,0,0
+2024,November,Sangareddy,Raikode,Kushnoor,206768,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Sadashivpet,Arur,206831,3,1,0,2,0,0,0,0,0,7739.4,0,0
+2024,November,Sangareddy,Sadashivpet,Atmakur,206832,2,0,0,2,0,0,0,0,0,6334.4,0,0
+2024,November,Sangareddy,Sadashivpet,Ishrathabad,277867,1,0,0,1,0,0,0,0,0,2512.8,0,0
+2024,November,Sangareddy,Sadashivpet,Kolkur,206838,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Sadashivpet,Peddapur,206846,1,0,0,0,0,0,1,0,0,2627,0,0
+2024,November,Sangareddy,Sadashivpet,Veltur,206852,1,0,0,0,0,0,0,0,1,0,0,0
+2024,November,Sangareddy,Sadashivpet,Yellaram,206854,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Sangareddy,Fasalwadi,206863,4,3,0,1,0,0,0,0,0,2650,0,0
+2024,November,Sangareddy,Sangareddy,Hanuman Nagar,277856,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Sangareddy,Kothlapur,206872,6,0,0,3,0,0,1,0,2,14953,0,0
+2024,November,Sangareddy,Sangareddy,Kulabgoor,206874,10,2,0,6,0,0,1,1,0,26300.2,0,0
+2024,November,Sangareddy,Sangareddy,Tadlapally,206879,1,0,0,0,0,0,1,0,0,1836.1,0,0
+2024,November,Sangareddy,Sirgapur ,Kishan Nayak Thanda,278710,1,0,0,1,0,0,0,0,0,6924.4,0,0
+2024,November,Sangareddy,Sirgapur ,Sirgapoor,206362,16,10,0,1,4,0,0,1,0,6674.9,0,0
+2024,November,Sangareddy,Vatpally ,Gorrekal,206085,4,0,0,3,1,0,0,0,0,32961.7,0,0
+2024,November,Sangareddy,Zahirabad,Buchnelli,207062,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Zahirabad,Didgi,207066,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Sangareddy,Zahirabad,Raipally Pd,243916,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Akkannapeta ,Gouravelli,201224,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Akkannapeta ,Gubbadi,289460,3,0,0,2,0,0,1,0,0,1036.6,0,0
+2024,November,Siddipet,Akkannapeta ,Janagan,201227,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Akkannapeta ,Kundanivanipalli,201231,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Akkannapeta ,Ramavaram,201244,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Bejjanki,Bejjanki,200932,8,3,2,1,2,0,0,0,0,22166,0,0
+2024,November,Siddipet,Bejjanki,Bejjanki Crossing,280831,2,0,0,1,1,0,0,0,0,18276.8,0,0
+2024,November,Siddipet,Bejjanki,Dacharam,200936,1,0,0,1,0,0,0,0,0,7816.1,0,0
+2024,November,Siddipet,Bejjanki,Gagillapur,200938,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Bejjanki,Gudem,200941,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Bejjanki,Kallepally,200947,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Bejjanki,Regulapalli,200956,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Bejjanki,Thotapalli,200957,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Cheriyal,Akunoor,213340,2,0,0,0,0,0,2,0,0,8287,0,0
+2024,November,Siddipet,Cheriyal,Kadavergu,213349,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Cheriyal,Nagapuri,213354,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Cheriyal,Pothireddipalle,213357,6,1,0,5,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Cheriyal,Veerannapeta,213363,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Chinna Kodur,Chowdaram,206155,1,0,0,0,0,0,1,0,0,1766.5,0,0
+2024,November,Siddipet,Chinna Kodur,Gangapur,206156,4,0,0,4,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Chinna Kodur,Mallaram,278932,3,0,0,2,0,0,0,1,0,5033.9,0,0
+2024,November,Siddipet,Chinna Kodur,Ramuni Patla,206173,1,0,0,1,0,0,0,0,0,2816.1,0,0
+2024,November,Siddipet,Doultabad,Ahmednagar,257914,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Doultabad,Gajulapally,243414,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Doultabad,Indupriyal,206184,1,0,0,1,0,0,0,0,0,1237.8,0,0
+2024,November,Siddipet,Doultabad,Machanpalle,206188,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Siddipet,Dubbak,Appanpalle,206202,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Dubbak,Arepalle,206203,1,0,0,1,0,0,0,0,0,5207.8,0,0
+2024,November,Siddipet,Dubbak,Chittapur,206210,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Dubbak,Habshipur,206218,2,1,0,1,0,0,0,0,0,9110.5,0,0
+2024,November,Siddipet,Dubbak,Peddagundavelly,206224,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Siddipet,Dubbak,Potharam,206225,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Dubbak,Raghottampalli,206227,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Siddipet,Dubbak,Rajakkapet,206228,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Dubbak,Venkatagiri Thanda,279119,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Gajwel,Ahmedipur,206233,1,0,0,1,0,0,0,0,0,3100.4,0,0
+2024,November,Siddipet,Gajwel,Akkaram,206234,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Gajwel,Bayyaram,206237,3,1,0,2,0,0,0,0,0,5191.8,0,0
+2024,November,Siddipet,Gajwel,Dilalpur,206243,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Gajwel,Kolgur,206247,3,0,0,3,0,0,0,0,0,2624.2,0,0
+2024,November,Siddipet,Gajwel,Srigiripalle,206254,2,0,0,1,0,0,1,0,0,8183.3,0,0
+2024,November,Siddipet,Husnabad,Mahamadappor,201233,1,0,0,0,1,0,0,0,0,0,0,0
+2024,November,Siddipet,Husnabad,Malapalli,201234,1,0,0,0,0,0,0,0,1,0,0,0
+2024,November,Siddipet,Husnabad,Merjapoor,201236,1,0,0,1,0,0,0,0,0,9176,0,0
+2024,November,Siddipet,Husnabad,Pandilla,201240,3,1,0,0,0,0,1,1,0,15087.7,0,0
+2024,November,Siddipet,Husnabad,Potharam (S),201241,3,2,0,1,0,0,0,0,0,14340.6,0,0
+2024,November,Siddipet,Husnabad,Potlapalli,201243,4,1,0,1,0,0,2,0,0,4262.6,0,0
+2024,November,Siddipet,Jagdevpur,Alirajpet,206276,1,0,0,1,0,0,0,0,0,2672,0,0
+2024,November,Siddipet,Jagdevpur,Gollapalle,206285,1,0,0,1,0,0,0,0,0,7258.4,0,0
+2024,November,Siddipet,Jagdevpur,Jagdevpur,206287,3,1,0,2,0,0,0,0,0,19727.5,0,0
+2024,November,Siddipet,Jagdevpur,Lingareddypalli,206288,1,0,0,1,0,0,0,0,0,3743.5,0,0
+2024,November,Siddipet,Jagdevpur,Munigadapa,206289,2,1,0,1,0,0,0,0,0,3104.9,0,0
+2024,November,Siddipet,Jagdevpur,Teegul Narsapur,206294,2,0,0,2,0,0,0,0,0,7686.5,0,0
+2024,November,Siddipet,Jagdevpur,Thimmapur,206295,1,0,0,0,0,0,1,0,0,2001.9,0,0
+2024,November,Siddipet,Jagdevpur,Venkatapur Pt,279188,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Koheda,Koheda,201480,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Koheda,Ramchandrapoor,201487,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Koheda,Shanigaram,201489,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Koheda,Sriramulapally,201490,2,1,0,1,0,0,0,0,0,4159.9,0,0
+2024,November,Siddipet,Koheda,Teegalakuntapally,201491,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Koheda,Thangalapally,201492,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Siddipet,Komuravelli ,Ainapur,213339,2,0,0,1,0,1,0,0,0,18754.7,0,0
+2024,November,Siddipet,Komuravelli ,Gouraipalle,213346,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Komuravelli ,Guruvannapeta,213348,1,0,0,0,0,0,1,0,0,6991,0,0
+2024,November,Siddipet,Komuravelli ,Komaravelly,213351,8,4,0,2,0,0,2,0,0,60823.9,0,0
+2024,November,Siddipet,Komuravelli ,Ramsagar,213359,2,0,0,1,0,0,0,1,0,0,0,0
+2024,November,Siddipet,Komuravelli ,Rasoolabad,279733,2,0,0,2,0,0,0,0,0,41050.4,0,0
+2024,November,Siddipet,Kondapak,Bandaram,206406,1,0,0,1,0,0,0,0,0,2590.8,0,0
+2024,November,Siddipet,Kondapak,Konaipalle,206410,1,0,0,1,0,0,0,0,0,9955.4,0,0
+2024,November,Siddipet,Kondapak,Kuknurpalle,206412,3,2,0,1,0,0,0,0,0,3294.1,0,0
+2024,November,Siddipet,Kondapak,Velikatta,206421,2,0,0,2,0,0,0,0,0,21426.3,0,0
+2024,November,Siddipet,Kondapak,Vishwanthapally - Ravindranagar,279215,2,1,0,0,0,0,1,0,0,8708.2,0,0
+2024,November,Siddipet,Maddur,Bairanpalle,213752,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Maddur,Bekkal,213753,1,0,0,1,0,0,0,0,0,1449.6,0,0
+2024,November,Siddipet,Maddur,Dharmaram,213754,2,0,0,1,1,0,0,0,0,0,0,0
+2024,November,Siddipet,Maddur,Dhoolmitta,213755,2,1,0,0,0,0,1,0,0,5293.8,0,0
+2024,November,Siddipet,Maddur,Kamalayapalle,213758,2,0,0,2,0,0,0,0,0,10432.5,0,0
+2024,November,Siddipet,Maddur,Kootigal,213760,4,0,0,1,0,0,0,3,0,2030,0,0
+2024,November,Siddipet,Maddur,Ladunoor,213761,2,0,0,0,0,0,2,0,0,7623,0,0
+2024,November,Siddipet,Maddur,Rebarthi,213766,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Markook ,Bhavandapur,257961,2,0,0,2,0,0,0,0,0,3156.9,0,0
+2024,November,Siddipet,Markook ,Cheberthy,206280,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Markook ,Damarakunta,206562,2,0,0,2,0,0,0,0,0,3114.8,0,0
+2024,November,Siddipet,Markook ,Karkapatla,206563,8,2,0,1,0,0,5,0,0,12415.5,0,0
+2024,November,Siddipet,Markook ,Markook,206570,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Markook ,Pamulaparthi,207033,2,0,0,2,0,0,0,0,0,22608.7,0,0
+2024,November,Siddipet,Markook ,Pathur,207034,2,1,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Markook ,Sivar Venkatapur,206292,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Markook ,Vardarajpur,206296,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Mirdoddi,Akberpet,206541,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Mirdoddi,Alwal,206542,1,0,0,1,0,0,0,0,0,5928.8,0,0
+2024,November,Siddipet,Mirdoddi,Bhoompalli,206544,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Mirdoddi,Lingupally,279225,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Siddipet,Mirdoddi,Mallupalle,206552,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Mirdoddi,Mirdoddi,206553,5,1,0,1,2,0,0,0,1,0,0,0
+2024,November,Siddipet,Mirdoddi,Mothey,206554,3,0,0,2,0,0,0,1,0,7848.6,0,0
+2024,November,Siddipet,Mirdoddi,Rudraram,206555,3,2,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Mirdoddi,Veerareddipalle,206556,2,0,0,2,0,0,0,0,0,5318.1,0,0
+2024,November,Siddipet,Mulug,Achaipalle,206557,1,0,0,1,0,0,0,0,0,1914,0,0
+2024,November,Siddipet,Mulug,Baswapur,206560,1,0,0,1,0,0,0,0,0,2832.6,0,0
+2024,November,Siddipet,Mulug,Cheela Sagar,206561,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Mulug,Kokkonda,206565,5,0,0,5,0,0,0,0,0,34273.8,0,0
+2024,November,Siddipet,Mulug,Kothur,206567,3,1,0,1,0,0,1,0,0,1630.3,0,0
+2024,November,Siddipet,Mulug,Mulug,206571,2,0,0,2,0,0,0,0,0,5473.4,0,0
+2024,November,Siddipet,Mulug,Narsapur,243413,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Mulug,Tunki Bollaram,206575,3,2,0,1,0,0,0,0,0,14523,0,0
+2024,November,Siddipet,Nanganur,Ankushapur,206601,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Nanganur,Baddipadaga,206602,2,1,0,1,0,0,0,0,0,3257.4,0,0
+2024,November,Siddipet,Nanganur,Gatlamalyal,206604,1,0,0,1,0,0,0,0,0,3354.8,0,0
+2024,November,Siddipet,Nanganur,Khanapur,206606,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Nanganur,Maqdumpur,206609,3,2,0,0,0,0,0,1,0,0,0,0
+2024,November,Siddipet,Nanganur,Mundrai,206610,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Nanganur,Nanganur,206612,3,0,0,1,1,0,1,0,0,21515.4,0,0
+2024,November,Siddipet,Nanganur,Narmetta,206613,2,0,0,2,0,0,0,0,0,12804.2,0,0
+2024,November,Siddipet,Nanganur,Palamakula,206615,3,1,0,2,0,0,0,0,0,4000,0,0
+2024,November,Siddipet,Nanganur,Rajgopalpet,206616,3,0,0,3,0,0,0,0,0,3139.2,0,0
+2024,November,Siddipet,Nanganur,Rampur,206617,2,1,0,1,0,0,0,0,0,6609.1,0,0
+2024,November,Siddipet,Narayanaraopet,Gurralagondi,206159,5,1,0,1,0,0,3,0,0,17668.9,0,0
+2024,November,Siddipet,Narayanaraopet,Laxmidevipally,257947,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Narayanaraopet,Narayanraopet,206956,1,0,0,0,0,0,1,0,0,6339.3,0,0
+2024,November,Siddipet,Raipole ,Arepalli SJ,243924,1,0,0,1,0,0,0,0,0,1746.8,0,0
+2024,November,Siddipet,Raipole ,Chinnamasanpalle,206179,1,0,0,1,0,0,0,0,0,1741.5,0,0
+2024,November,Siddipet,Raipole ,Kothapalle,206185,1,0,0,1,0,0,0,0,0,2613.4,0,0
+2024,November,Siddipet,Raipole ,Lingareddipalli,206187,1,0,0,1,0,0,0,0,0,1717.3,0,0
+2024,November,Siddipet,Raipole ,Ramaram,206192,2,0,0,1,0,0,0,1,0,0,0,0
+2024,November,Siddipet,Raipole ,Waddepalle,206199,5,0,0,5,0,0,0,0,0,7633.3,0,0
+2024,November,Siddipet,Siddipet,Tornal,206962,2,1,0,1,0,0,0,0,0,5016.2,0,0
+2024,November,Siddipet,Thoguta,Brahmanbanjerupally,257950,1,0,0,1,0,0,0,0,0,4360,0,0
+2024,November,Siddipet,Thoguta,Ghanapur,206986,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Siddipet,Thoguta,Govardhanagiri,243415,1,0,0,1,0,0,0,0,0,3002.6,0,0
+2024,November,Siddipet,Thoguta,Thoguta,206993,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Siddipet,Thoguta,Yellareddipet,206997,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Siddipet,Wargal,Ananthagiripalle,207022,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Wargal,Chandkhan Maktha,279388,1,0,0,0,0,0,1,0,0,3787.9,0,0
+2024,November,Siddipet,Wargal,Gouraram,207025,6,0,0,3,0,0,2,1,0,30692.8,0,0
+2024,November,Siddipet,Wargal,Guntipalle,207026,3,0,0,1,0,0,2,0,0,5185.5,0,0
+2024,November,Siddipet,Wargal,Jabbapur,279390,1,0,0,1,0,0,0,0,0,712.1,0,0
+2024,November,Siddipet,Wargal,Majidpalle,207027,1,0,0,1,0,0,0,0,0,1604.4,0,0
+2024,November,Siddipet,Wargal,Mallareddypally,279399,1,0,0,0,0,0,1,0,0,1002.1,0,0
+2024,November,Siddipet,Wargal,Nacharam,207031,4,1,0,2,1,0,0,0,0,6395.4,0,0
+2024,November,Siddipet,Wargal,Nemtur,207029,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Wargal,Thuniki Maktha,279396,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Wargal,Tunki Kalsa,207035,1,0,0,0,0,0,1,0,0,1286.6,0,0
+2024,November,Siddipet,Wargal,Veluru,207036,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Siddipet,Wargal,Wargal,207037,1,0,0,1,0,0,0,0,0,6252.6,0,0
+2024,November,Suryapet,Atmakur (S),Nemmikal,207170,1,0,0,1,0,0,0,0,0,1222.4,0,0
+2024,November,Suryapet,Chilkur,Janakinagar,207303,1,0,0,1,0,0,0,0,0,1522.1,0,0
+2024,November,Suryapet,Chinthalapalem ,Chinthalapalem,207666,3,1,0,2,0,0,0,0,0,3231.8,0,0
+2024,November,Suryapet,Chivvemla,Lakshminayakthanda,207355,5,4,0,0,0,0,0,1,0,0,0,0
+2024,November,Suryapet,Jaji Reddi Gudem,Adivemla,207518,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Suryapet,Jaji Reddi Gudem,Arvapally,280955,2,0,0,0,0,0,2,0,0,3049.7,0,0
+2024,November,Suryapet,Kodad,Alwalapuram,280970,2,0,0,2,0,0,0,0,0,2750.2,0,0
+2024,November,Suryapet,Kodad,Gudibanda,207594,3,0,0,1,0,0,2,0,0,5866.4,0,0
+2024,November,Suryapet,Kodad,Kapagalu,207595,1,0,0,1,0,0,0,0,0,2015.5,0,0
+2024,November,Suryapet,Kodad,Nallabandagudem,207604,1,0,0,1,0,0,0,0,0,4689.9,0,0
+2024,November,Suryapet,Mattampalle,Mattampally,207658,2,0,0,2,0,0,0,0,0,3306.5,0,0
+2024,November,Suryapet,Mellachervu,Mellacheruvu,207673,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Suryapet,Munagala,Akupamula,207752,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Suryapet,Nagaram ,Machireddy Pally,207526,1,0,0,1,0,0,0,0,0,1488.9,0,0
+2024,November,Suryapet,Penpahad,Nagulapahad,281641,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Suryapet,Thirumalagiri,Kokyanayak Thanda,280323,1,0,0,0,0,0,1,0,0,3455,0,0
+2024,November,Suryapet,Thunga Thurthi,Gottiparthy,208168,1,0,0,0,1,0,0,0,0,0,0,0
+2024,November,Suryapet,Thunga Thurthi,Vempati,208181,2,0,0,0,0,0,2,0,0,2062.7,0,0
+2024,November,Vikarabad,Bantaram,Turmamidi,209917,2,0,0,1,0,0,0,1,0,0,0,0
+2024,November,Vikarabad,Basheerabad,Allapur (B),277683,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Basheerabad,Bahadurpur,277686,2,0,0,1,0,0,0,1,0,15543,0,0
+2024,November,Vikarabad,Basheerabad,Ekmai,209923,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Basheerabad,Mailwar,209930,1,0,0,0,0,0,1,0,0,1858.4,0,0
+2024,November,Vikarabad,Bomraspeta,Botlavani Thanda,281786,1,0,0,0,0,0,1,0,0,12407.9,0,0
+2024,November,Vikarabad,Bomraspeta,Chowdapalle,204967,2,1,0,1,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Bomraspeta,Erpumalla,204971,3,0,0,3,0,0,0,0,0,7345,0,0
+2024,November,Vikarabad,Bomraspeta,Kothur,204974,2,1,0,1,0,0,0,0,0,1354.9,0,0
+2024,November,Vikarabad,Bomraspeta,Thunkumetla,204985,2,0,0,0,0,0,2,0,0,8318.8,0,0
+2024,November,Vikarabad,Dharur,Chinthakunta,209969,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Dharur,Ghattepally,209975,1,0,0,1,0,0,0,0,0,6102,0,0
+2024,November,Vikarabad,Dharur,Gurudotla,209977,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Dharur,Kerelly,209979,1,0,0,0,0,0,1,0,0,12495.5,0,0
+2024,November,Vikarabad,Dharur,Nagasamunder,209986,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Doma,Dadapur,209998,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Doma,Dirsampally,209999,1,0,0,1,0,0,0,0,0,5741.2,0,0
+2024,November,Vikarabad,Doma,Gumdal,210004,1,0,0,1,0,0,0,0,0,4180,0,0
+2024,November,Vikarabad,Doma,Kistapur,210005,1,0,0,1,0,0,0,0,0,4843,0,0
+2024,November,Vikarabad,Doulatabad,Bandivada,281804,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Doulatabad,Bichal,205100,2,0,0,1,0,0,0,1,0,14891.7,0,0
+2024,November,Vikarabad,Doulatabad,Doulatabad,205104,3,0,0,0,0,0,2,1,0,8200,0,0
+2024,November,Vikarabad,Doulatabad,Kudrimalla,205109,3,2,0,0,0,0,1,0,0,13368.4,0,0
+2024,November,Vikarabad,Doulatabad,Yamki,205117,1,0,0,1,0,0,0,0,0,5681.9,0,0
+2024,November,Vikarabad,Kodangal,Appaipalle,205352,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Kodangal,Hasnabad,205355,2,1,0,1,0,0,0,0,0,13842.7,0,0
+2024,November,Vikarabad,Kodangal,Parsapur,205362,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Kodangal,Udmeshwaram,205369,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Kotepally,Barwad,209904,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Kotepally,Kotpally,210346,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Kulkacharla,Adivivenkatapur,210142,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Kulkacharla,Chellapur,210148,1,0,0,1,0,0,0,0,0,12981.6,0,0
+2024,November,Vikarabad,Kulkacharla,Chowdapur,210149,3,0,0,3,0,0,0,0,0,34091.6,0,0
+2024,November,Vikarabad,Kulkacharla,Ghanapur,210150,1,0,0,1,0,0,0,0,0,4227.9,0,0
+2024,November,Vikarabad,Kulkacharla,Ippaipalle,210151,1,0,0,1,0,0,0,0,0,3007.2,0,0
+2024,November,Vikarabad,Kulkacharla,Kulkacherla,210155,5,1,0,4,0,0,0,0,0,53367.7,0,0
+2024,November,Vikarabad,Kulkacharla,Rampur,210166,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Marpalle,Ghanpur,210215,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Marpalle,Kalkoda,210216,1,0,0,1,0,0,0,0,0,1945.2,0,0
+2024,November,Vikarabad,Marpalle,Kotlapur,210218,1,0,0,1,0,0,0,0,0,1535.1,0,0
+2024,November,Vikarabad,Marpalle,Siripura,210228,1,0,0,0,0,0,1,0,0,2504.9,0,0
+2024,November,Vikarabad,Mominpet,Cheemaldari,210274,2,1,1,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Mominpet,Durgamchervu,210276,1,0,0,0,0,0,1,0,0,1531.4,0,0
+2024,November,Vikarabad,Mominpet,Kesaram,210279,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Mominpet,Kolkonda,210280,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Mominpet,Mominpet,210282,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Mominpet,Yenkathala,210288,2,0,0,0,0,0,2,0,0,4340.3,0,0
+2024,November,Vikarabad,Nawabpet,Arkathala,210291,2,0,0,2,0,0,0,0,0,48387.5,0,0
+2024,November,Vikarabad,Nawabpet,Dathapur,278196,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Nawabpet,Gangeda,210296,12,12,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Nawabpet,Kadcharla,210298,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Nawabpet,Madireddipalle,210303,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Nawabpet,Pulumamidi,210309,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Nawabpet,Vattimeenapally,278197,1,0,0,0,0,0,1,0,0,4090.4,0,0
+2024,November,Vikarabad,Nawabpet,Yellakonda,210310,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Pargi,Barkathpally,210311,1,0,0,1,0,0,0,0,0,3114.8,0,0
+2024,November,Vikarabad,Pargi,Gadsingapur,210315,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Pargi,Govindapoor,210316,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Pargi,Jafferpally,278205,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Pargi,Madharam,210320,4,2,0,2,0,0,0,0,0,1903,0,0
+2024,November,Vikarabad,Pargi,Mittakodur,210321,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Pargi,Narayanpoor,210322,4,0,0,3,0,0,1,0,0,17472.5,0,0
+2024,November,Vikarabad,Pargi,Naskal,210323,12,8,0,4,0,0,0,0,0,10390.9,0,0
+2024,November,Vikarabad,Pargi,Peta Madaram,278208,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Pargi,Rapole,210327,1,0,0,1,0,0,0,0,0,4672.2,0,0
+2024,November,Vikarabad,Pargi,Ravalapally,278252,6,4,0,0,0,0,0,2,0,0,0,0
+2024,November,Vikarabad,Pargi,Rukumpally,278201,2,1,0,1,0,0,0,0,0,2702.3,0,0
+2024,November,Vikarabad,Pargi,Sulthanpoor,210329,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Pargi,Syedmalkapur,210330,5,2,0,1,0,0,2,0,0,17294.4,0,0
+2024,November,Vikarabad,Peddemul,Gazipur,210337,1,0,0,0,1,0,0,0,0,11471.2,0,0
+2024,November,Vikarabad,Peddemul,Mambapur,210347,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Peddemul,Nagulapally,210350,1,0,0,1,0,0,0,0,0,10511,0,0
+2024,November,Vikarabad,Peddemul,Thattepally,210357,12,0,0,0,0,0,1,11,0,6068.5,0,0
+2024,November,Vikarabad,Pudur,Angadichittampalle,210358,5,5,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Pudur,Chengomul,210360,1,0,0,1,0,0,0,0,0,4970,0,0
+2024,November,Vikarabad,Pudur,Kadmoor,210362,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Pudur,Kandlapalle,210363,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Pudur,Kankal,210364,2,0,0,2,0,0,0,0,0,6432.4,0,0
+2024,November,Vikarabad,Pudur,Kervelly,210365,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Pudur,Mirzapur,210370,7,0,0,0,0,0,7,0,0,23252.9,0,0
+2024,November,Vikarabad,Pudur,Pudugurthi,278292,1,0,0,1,0,0,0,0,0,2420.4,0,0
+2024,November,Vikarabad,Pudur,Somangurthy,210376,3,0,0,3,0,0,0,0,0,18373.1,0,0
+2024,November,Vikarabad,Pudur,Thirumalapur,210377,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Tandur,Antharam(B),210519,2,1,0,1,0,0,0,0,0,10796.1,0,0
+2024,November,Vikarabad,Vikarabad,Godamguda,209976,2,0,0,2,0,0,0,0,0,35805.4,0,0
+2024,November,Vikarabad,Vikarabad,Khamareddy Guda,277819,4,0,0,1,0,0,0,3,0,0,0,0
+2024,November,Vikarabad,Vikarabad,Kothalguda,210551,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Vikarabad,Vikarabad,Yerravalle,210563,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Amarachintha,Chandragad,205745,1,0,0,1,0,0,0,0,0,2206.9,0,0
+2024,November,Wanaparthy,Amarachintha,Mastipur,204871,1,0,0,1,0,0,0,0,0,3136.3,0,0
+2024,November,Wanaparthy,Amarachintha,Nandimalla X Roads,257963,1,0,0,1,0,0,0,0,0,1742.2,0,0
+2024,November,Wanaparthy,Amarachintha,Pamireddipalle,204876,2,0,0,0,0,0,2,0,0,4289,0,0
+2024,November,Wanaparthy,Amarachintha,Singampeta,204879,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Atmakur,Arepalle,204862,2,1,0,1,0,0,0,0,0,1758.7,0,0
+2024,November,Wanaparthy,Atmakur,Jurial,204867,1,0,0,1,0,0,0,0,0,1045.9,0,0
+2024,November,Wanaparthy,Atmakur,Thippadampalle,204880,7,0,0,2,0,0,3,2,0,16688.5,0,0
+2024,November,Wanaparthy,Atmakur,Thoompalle,204881,1,0,0,0,1,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Chinnambavi ,Kaloor,206014,1,0,0,1,0,0,0,0,0,2173.3,0,0
+2024,November,Wanaparthy,Ghanpur,Anthaipally,205170,1,0,0,0,0,0,1,0,0,1696.7,0,0
+2024,November,Wanaparthy,Ghanpur,Donthikunta Thanda,280326,2,0,0,1,0,0,1,0,0,3112.7,0,0
+2024,November,Wanaparthy,Ghanpur,Eerla Thanda,280327,2,0,0,2,0,0,0,0,0,2720.7,0,0
+2024,November,Wanaparthy,Ghanpur,Ghanpur,205172,6,2,0,4,0,0,0,0,0,23765.4,0,0
+2024,November,Wanaparthy,Ghanpur,Kamaluddinpur,205174,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Ghanpur,Mamidimada,205176,1,0,0,1,0,0,0,0,0,802.2,0,0
+2024,November,Wanaparthy,Ghanpur,Manajipet,205177,5,0,0,3,0,0,1,1,0,5524.8,0,0
+2024,November,Wanaparthy,Ghanpur,Parvathapur,205179,3,0,0,3,0,0,0,0,0,3589.2,0,0
+2024,November,Wanaparthy,Ghanpur,Solipur,205183,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Ghanpur,Suraipally,279627,1,0,0,0,0,0,1,0,0,1489.1,0,0
+2024,November,Wanaparthy,Gopalpeta,Ananthapur,279326,2,0,0,2,0,0,0,0,0,3501.9,0,0
+2024,November,Wanaparthy,Gopalpeta,Chennur,205216,2,1,0,1,0,0,0,0,0,1337.8,0,0
+2024,November,Wanaparthy,Gopalpeta,Gopalpet,205217,3,0,0,2,0,0,0,1,0,3416.5,0,0
+2024,November,Wanaparthy,Gopalpeta,Jainthirmalapur,205218,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Gopalpeta,Tadiparthy,205224,3,0,0,3,0,0,0,0,0,4077.6,0,0
+2024,November,Wanaparthy,Gopalpeta,Yedutla,205227,2,1,0,1,0,0,0,0,0,11090.7,0,0
+2024,November,Wanaparthy,Kothakota,Amdabakula,205465,2,0,0,2,0,0,0,0,0,2618.7,0,0
+2024,November,Wanaparthy,Kothakota,Apparala,205466,1,0,0,1,0,0,0,0,0,1106.3,0,0
+2024,November,Wanaparthy,Kothakota,Kanaipally,205470,1,0,0,1,0,0,0,0,0,2503.4,0,0
+2024,November,Wanaparthy,Kothakota,Nirven,205480,1,0,0,1,0,0,0,0,0,1299,0,0
+2024,November,Wanaparthy,Kothakota,Pamapur,205482,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Madanapur ,Duppalle,204995,1,0,0,1,0,0,0,0,0,1516.4,0,0
+2024,November,Wanaparthy,Madanapur ,Govindahally,280676,1,0,0,1,0,0,0,0,0,1004.4,0,0
+2024,November,Wanaparthy,Madanapur ,Konnur,205472,2,0,0,2,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Madanapur ,Madanapur,205474,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Madanapur ,Narsingapur,205477,2,0,0,1,0,0,0,1,0,1469.5,0,0
+2024,November,Wanaparthy,Madanapur ,Thirumalaipally,205488,1,0,0,0,0,0,1,0,0,1313.7,0,0
+2024,November,Wanaparthy,Pangal,Bahadur Gudem,280844,1,0,0,1,0,0,0,0,0,603,0,0
+2024,November,Wanaparthy,Pangal,Busireddypally,205793,1,0,0,1,0,0,0,0,0,1301.7,0,0
+2024,November,Wanaparthy,Pangal,Chikkepally,205794,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Pangal,Chinthakunta,205795,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Pangal,Davajipally,205796,1,0,0,0,0,0,1,0,0,806,0,0
+2024,November,Wanaparthy,Pangal,Kethepally,205802,2,0,0,2,0,0,0,0,0,1656.7,0,0
+2024,November,Wanaparthy,Pangal,Kistapur Thanda,280849,1,0,0,1,0,0,0,0,0,1820,0,0
+2024,November,Wanaparthy,Pangal,Mohammadapur,205804,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Pangal,Pangal,205805,1,0,0,1,0,0,0,0,0,1468.8,0,0
+2024,November,Wanaparthy,Pangal,Tellarallapally,205810,1,0,0,1,0,0,0,0,0,898.9,0,0
+2024,November,Wanaparthy,Pangal,Vengalaipally,205812,1,0,0,1,0,0,0,0,0,709.3,0,0
+2024,November,Wanaparthy,Pebbair,Gummadam,205817,1,0,0,1,0,0,0,0,0,2670,0,0
+2024,November,Wanaparthy,Pebbair,Kanchiraopally,205821,1,0,0,1,0,0,0,0,0,2627,0,0
+2024,November,Wanaparthy,Pebbair,Pathapally,205823,1,0,0,0,0,0,1,0,0,3015.3,0,0
+2024,November,Wanaparthy,Pebbair,Rangapoor,205827,6,0,0,4,0,0,1,1,0,6951.7,0,0
+2024,November,Wanaparthy,Pebbair,Shakapoor (Y),205829,2,0,0,2,0,0,0,0,0,2838.9,0,0
+2024,November,Wanaparthy,Peddamandadi,Chinnamandadi,205856,1,0,0,1,0,0,0,0,0,1170,0,0
+2024,November,Wanaparthy,Peddamandadi,Gatlakhanapur,205859,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Peddamandadi,Manigilla,205863,1,0,0,1,0,0,0,0,0,1688,0,0
+2024,November,Wanaparthy,Peddamandadi,Mojerla,205864,1,0,0,1,0,0,0,0,0,1105.9,0,0
+2024,November,Wanaparthy,Peddamandadi,Peddamandadi,205866,3,2,0,1,0,0,0,0,0,1551.6,0,0
+2024,November,Wanaparthy,Peddamandadi,Veeraipally,205868,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Peddamandadi,Veltoor,205869,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Revally        ,Chennaram,205215,3,0,0,3,0,0,0,0,0,6260,0,0
+2024,November,Wanaparthy,Revally        ,Keshampet,205219,1,0,0,1,0,0,0,0,0,2025,0,0
+2024,November,Wanaparthy,Revally        ,Talpunur,205225,1,0,0,1,0,0,0,0,0,1380.7,0,0
+2024,November,Wanaparthy,Srirangapur ,Srirangapur,205830,2,0,0,0,0,0,2,0,0,2220.5,0,0
+2024,November,Wanaparthy,Wanaparthy,Chandapur,206066,2,0,0,1,0,0,0,1,0,1051.1,0,0
+2024,November,Wanaparthy,Wanaparthy,Chityala,206068,10,7,0,3,0,0,0,0,0,6230.8,0,0
+2024,November,Wanaparthy,Wanaparthy,Kadukuntla,206070,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Wanaparthy,Wanaparthy,Pedda Thanda R,279240,2,0,0,1,0,0,1,0,0,2299.5,0,0
+2024,November,Wanaparthy,Wanaparthy,Rajapet,206077,3,2,0,0,0,0,1,0,0,2701.5,0,0
+2024,November,Wanaparthy,Weepanagandla,Govardhanagiri,206012,2,0,0,2,0,0,0,0,0,3054.7,0,0
+2024,November,Wanaparthy,Weepanagandla,Thoomukunta,206023,1,0,0,1,0,0,0,0,0,999.2,0,0
+2024,November,Warangal ,Chennaraopet,Akkalchedu,213319,1,0,0,1,0,0,0,0,0,1135.6,0,0
+2024,November,Warangal ,Chennaraopet,Ameenabad,213320,1,0,0,1,0,0,0,0,0,1510.8,0,0
+2024,November,Warangal ,Chennaraopet,Chennaraopeta,213324,6,2,0,2,0,0,0,2,0,5176.9,0,0
+2024,November,Warangal ,Chennaraopet,Dharma Thanda,278071,2,0,0,2,0,0,0,0,0,1507.5,0,0
+2024,November,Warangal ,Chennaraopet,Gollabhama Thanda,278060,1,0,0,1,0,0,0,0,0,2549.2,0,0
+2024,November,Warangal ,Chennaraopet,Jojipet Narayana Thanda,278059,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Chennaraopet,Kalanaik Thanda,278067,1,0,0,1,0,0,0,0,0,170,0,0
+2024,November,Warangal ,Chennaraopet,Konapur,213328,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Chennaraopet,Papaiahpeta,213332,1,0,0,1,0,0,0,0,0,2773.3,0,0
+2024,November,Warangal ,Chennaraopet,Pullaibodu Thanda,278058,2,0,0,1,0,0,1,0,0,5359.8,0,0
+2024,November,Warangal ,Chennaraopet,Thimmarainipahad,213336,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Chennaraopet,Upparapalle,213337,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Duggondi,Bikkajipelli,277971,1,0,0,1,0,0,0,0,0,1569.2,0,0
+2024,November,Warangal ,Duggondi,Girnibavi,277969,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Duggondi,Laxmipur,213461,2,0,0,2,0,0,0,0,0,2900,0,0
+2024,November,Warangal ,Duggondi,Venkatapur,213474,1,0,0,1,0,0,0,0,0,3724.9,0,0
+2024,November,Warangal ,Khanapur,Ayodyanagar,277993,1,0,0,1,0,0,0,0,0,2267.5,0,0
+2024,November,Warangal ,Khanapur,Khanapur,213673,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Khanapur,Kothuru,213674,1,0,0,0,0,0,1,0,0,1968.6,0,0
+2024,November,Warangal ,Nallabelly,Arvaiahpally,278042,2,0,0,2,0,0,0,0,0,2929.3,0,0
+2024,November,Warangal ,Nallabelly,Asaravelly,278050,3,0,0,3,0,0,0,0,0,5203.7,0,0
+2024,November,Warangal ,Nallabelly,Govindapuram,213877,3,0,0,3,0,0,0,0,0,13795.2,0,0
+2024,November,Warangal ,Nallabelly,Kondailpally,278047,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Nallabelly,Medapalle,213883,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Nallabelly,Muduchekkalapally,278035,2,1,0,1,0,0,0,0,0,2746.8,0,0
+2024,November,Warangal ,Nallabelly,Nagarajupally,278043,1,0,0,1,0,0,0,0,0,2262.3,0,0
+2024,November,Warangal ,Nallabelly,Nallabelli,213885,1,0,0,1,0,0,0,0,0,2483,0,0
+2024,November,Warangal ,Nallabelly,Nandigama,213886,1,0,0,0,0,0,1,0,0,1468.2,0,0
+2024,November,Warangal ,Nallabelly,Narakkapeta,213887,3,0,0,1,0,0,2,0,0,2940.6,0,0
+2024,November,Warangal ,Nallabelly,Rampuram,213889,1,0,0,1,0,0,0,0,0,2952.2,0,0
+2024,November,Warangal ,Nallabelly,Relakunta,213891,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Narsampet,Enugal Thanda,278009,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Narsampet,Gurijal,213325,1,0,0,1,0,0,0,0,0,1327.4,0,0
+2024,November,Warangal ,Narsampet,Itikalpalle,213938,1,0,0,0,0,0,1,0,0,2680.1,0,0
+2024,November,Warangal ,Narsampet,Kammepally,213939,1,0,0,1,0,0,0,0,0,1356.4,0,0
+2024,November,Warangal ,Narsampet,Laknepalle,213940,2,1,0,0,1,0,0,0,0,0,0,0
+2024,November,Warangal ,Narsampet,Maheswaram,213942,4,3,0,0,0,0,1,0,0,3719.3,0,0
+2024,November,Warangal ,Narsampet,Makdumpur,213331,2,1,0,0,0,0,1,0,0,3090.9,0,0
+2024,November,Warangal ,Narsampet,Muthojipeta,213943,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Narsampet,Nagurlapalle,213944,2,0,0,2,0,0,0,0,0,3844.9,0,0
+2024,November,Warangal ,Narsampet,Pata Maqdumpuram,213333,1,0,0,0,0,0,1,0,0,3790,0,0
+2024,November,Warangal ,Narsampet,Ramulu Naik Thanda,278012,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Nekkonda,Ajmeera Mangya Thanda,279077,4,0,0,2,0,0,1,1,0,8606.1,0,0
+2024,November,Warangal ,Nekkonda,Ameenpet,213321,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Nekkonda,Bollikonda,213972,3,0,0,2,0,0,0,1,0,17146.3,0,0
+2024,November,Warangal ,Nekkonda,Chandrugonda,213973,1,0,0,1,0,0,0,0,0,1360,0,0
+2024,November,Warangal ,Nekkonda,Deekshakunta,213975,1,0,0,1,0,0,0,0,0,541.8,0,0
+2024,November,Warangal ,Nekkonda,Devuni Thanda,279056,1,0,0,1,0,0,0,0,0,2338.2,0,0
+2024,November,Warangal ,Nekkonda,Nekkonda,213982,7,2,1,4,0,0,0,0,0,43767.2,0,0
+2024,November,Warangal ,Nekkonda,Venkatapur,213989,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Parvathagiri,Addabata Thanda,278086,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Parvathagiri,Annaram,214037,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Parvathagiri,Enugallu,214042,3,1,0,2,0,0,0,0,0,2592.2,0,0
+2024,November,Warangal ,Parvathagiri,Gugulothu Thanda,278096,3,0,0,3,0,0,0,0,0,4740,0,0
+2024,November,Warangal ,Parvathagiri,Kalleda,214045,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Parvathagiri,Narayanapur,214047,2,0,0,1,0,0,1,0,0,8387.1,0,0
+2024,November,Warangal ,Parvathagiri,Parvathagiri,214048,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Parvathagiri,Pedda Thanda,214049,1,0,0,1,0,0,0,0,0,760.9,0,0
+2024,November,Warangal ,Parvathagiri,Ravoor,214050,1,0,0,1,0,0,0,0,0,1639.5,0,0
+2024,November,Warangal ,Parvathagiri,Rollakal,214051,7,4,0,1,0,0,0,2,0,4110.7,0,0
+2024,November,Warangal ,Parvathagiri,Somaram,214052,1,0,0,1,0,0,0,0,0,3585.1,0,0
+2024,November,Warangal ,Parvathagiri,Vadlakonda,214054,1,0,0,0,0,0,0,1,0,0,0,0
+2024,November,Warangal ,Raiparthy,Are Gudem,279105,2,0,0,2,0,0,0,0,0,3483.6,0,0
+2024,November,Warangal ,Raiparthy,Gathikal,214083,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Raiparthy,Jaithuram Thanda,279137,1,0,0,1,0,0,0,0,0,4753,0,0
+2024,November,Warangal ,Raiparthy,Jinkuram Thanda,279121,1,0,0,1,0,0,0,0,0,2266,0,0
+2024,November,Warangal ,Raiparthy,Katrapalle,214085,1,0,0,1,0,0,0,0,0,1811,0,0
+2024,November,Warangal ,Raiparthy,Kolanpalle,214087,3,1,1,1,0,0,0,0,0,2717,0,0
+2024,November,Warangal ,Raiparthy,Kondapur,214088,1,0,0,1,0,0,0,0,0,3726,0,0
+2024,November,Warangal ,Raiparthy,Moripirala,214092,1,0,0,1,0,0,0,0,0,1588.4,0,0
+2024,November,Warangal ,Raiparthy,Perikaid,214095,1,0,0,1,0,0,0,0,0,2499,0,0
+2024,November,Warangal ,Raiparthy,RR Colony,279117,1,0,0,1,0,0,0,0,0,1976.6,0,0
+2024,November,Warangal ,Raiparthy,Raiparthy,214098,14,10,0,4,0,0,0,0,0,9906.2,0,0
+2024,November,Warangal ,Raiparthy,Thirmalayapalle,214101,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Sangem,Theegarajupalle,214151,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Wardhannapet,Chendru Thanda,277953,1,0,0,0,0,0,1,0,0,2593.9,0,0
+2024,November,Warangal ,Wardhannapet,Dammannapeta,214220,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Warangal ,Wardhannapet,Katryal,214226,2,0,0,0,0,0,2,0,0,5523.3,0,0
+2024,November,Warangal ,Wardhannapet,Kothapalle,214227,1,0,0,1,0,0,0,0,0,3341.6,0,0
+2024,November,Warangal ,Wardhannapet,Yellanda,214242,1,0,0,0,0,0,1,0,0,2512.4,0,0
+2024,November,Yadadri Bhuvanagiri,Addagudur ,Addagudur,207724,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Addagudur ,Kanchanpally,207739,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Alair,Kolanpaka,207097,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Atmakur (M),Athmakur,207133,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Atmakur (M),Khapuraipally,207139,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Atmakur (M),Koratikal,207141,6,2,0,4,0,0,0,0,0,3250.6,0,0
+2024,November,Yadadri Bhuvanagiri,Atmakur (M),Modugukunta,281173,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Atmakur (M),Pallepahad,207464,4,4,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Bhuvanagiri,Anajipuram,207176,2,0,0,0,0,1,1,0,0,2947.5,0,0
+2024,November,Yadadri Bhuvanagiri,Bhuvanagiri,Baswapur,207180,1,0,0,1,0,0,0,0,0,4529.2,0,0
+2024,November,Yadadri Bhuvanagiri,Bhuvanagiri,Bollepally,207182,2,0,0,2,0,0,0,0,0,2445.3,0,0
+2024,November,Yadadri Bhuvanagiri,Bhuvanagiri,Hanmapur,207188,2,1,0,0,1,0,0,0,0,7043.7,0,0
+2024,November,Yadadri Bhuvanagiri,Bhuvanagiri,Namathpally,207196,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Bhuvanagiri,Ramachandrapur,207201,1,0,0,1,0,0,0,0,0,940,0,0
+2024,November,Yadadri Bhuvanagiri,Bibinagar,Annampatla,207210,2,0,0,1,0,0,0,1,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Bibinagar,Battugudem,207211,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Bibinagar,Bibinagar,207212,5,3,0,1,1,0,0,0,0,17193.3,0,0
+2024,November,Yadadri Bhuvanagiri,Bibinagar,Chinnaravula Pally,207214,1,0,0,0,0,0,1,0,0,5942.8,0,0
+2024,November,Yadadri Bhuvanagiri,Bibinagar,Jainepally,207218,1,0,0,1,0,0,0,0,0,11126.6,0,0
+2024,November,Yadadri Bhuvanagiri,Bibinagar,Jiyapally,207221,1,0,0,1,0,0,0,0,0,5845.5,0,0
+2024,November,Yadadri Bhuvanagiri,Bibinagar,Kondamadugu,207222,2,1,0,1,0,0,0,0,0,13383.1,0,0
+2024,November,Yadadri Bhuvanagiri,Bibinagar,Maktha Anantharam,207225,1,0,0,1,0,0,0,0,0,14376,0,0
+2024,November,Yadadri Bhuvanagiri,Bibinagar,Nemergomula,207227,3,0,0,3,0,0,0,0,0,19811.7,0,0
+2024,November,Yadadri Bhuvanagiri,Bibinagar,Ravipahad Thanda,281157,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Bibinagar,Yerrabettu Thanda,281275,1,0,0,1,0,0,0,0,0,18542.7,0,0
+2024,November,Yadadri Bhuvanagiri,Bommalaramaram,Fakeergudem,281070,1,0,0,1,0,0,0,0,0,6260.5,0,0
+2024,November,Yadadri Bhuvanagiri,Bommalaramaram,Govindthanda,281083,1,0,0,1,0,0,0,0,0,3645.8,0,0
+2024,November,Yadadri Bhuvanagiri,Bommalaramaram,Mylaram,207251,1,0,0,1,0,0,0,0,0,5681.8,0,0
+2024,November,Yadadri Bhuvanagiri,Bommalaramaram,Mysireddypally,281747,1,0,0,1,0,0,0,0,0,3030,0,0
+2024,November,Yadadri Bhuvanagiri,Bommalaramaram,Ramalingampally,207256,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Choutuppal,Chinnakondur,207368,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Choutuppal,D.Nagaram,207370,2,0,0,0,0,0,0,2,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Choutuppal,Malkapur,207378,5,0,0,1,0,0,4,0,0,83292.7,0,0
+2024,November,Yadadri Bhuvanagiri,Choutuppal,Nelapatla,207381,1,0,0,1,0,0,0,0,0,896.7,0,0
+2024,November,Yadadri Bhuvanagiri,Choutuppal,Toopranpet,207388,5,5,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Gundala,Brahmanpally,207457,1,0,0,1,0,0,0,0,0,480.5,0,0
+2024,November,Yadadri Bhuvanagiri,Gundala,Ramaram,207467,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,M Turkapalle,Dattaipally,207612,3,2,0,1,0,0,0,0,0,1825,0,0
+2024,November,Yadadri Bhuvanagiri,M Turkapalle,Gandamalla,207614,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,M Turkapalle,Gollagudem,207615,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,M Turkapalle,Madhapur,207621,1,0,0,1,0,0,0,0,0,2949.7,0,0
+2024,November,Yadadri Bhuvanagiri,M Turkapalle,Rusthapur,207628,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,M Turkapalle,Vasalamarri,207630,1,0,0,0,0,0,1,0,0,2245.1,0,0
+2024,November,Yadadri Bhuvanagiri,Mothkur,Dattappagudem,207734,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Mothkur,Podichedu,207749,3,3,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Motkondur ,Chandepally,207136,2,0,0,1,0,0,0,1,0,1624.3,0,0
+2024,November,Yadadri Bhuvanagiri,Motkondur ,Dilwarpur,207093,1,0,0,0,1,0,0,0,0,1917.1,0,0
+2024,November,Yadadri Bhuvanagiri,Motkondur ,Katepally,207138,2,0,0,1,0,0,1,0,0,3173,0,0
+2024,November,Yadadri Bhuvanagiri,Motkondur ,Matoor,207101,1,0,0,1,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Motkondur ,Motakondur,208240,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Motkondur ,Muthireddy Gudem,281008,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Motkondur ,Vartoor,208247,1,0,0,1,0,0,0,0,0,1150.2,0,0
+2024,November,Yadadri Bhuvanagiri,Narayanapur,G Malkapuram,207862,1,0,0,1,0,0,0,0,0,10047.6,0,0
+2024,November,Yadadri Bhuvanagiri,Narayanapur,Narayanapuram,207868,4,0,0,3,0,0,1,0,0,17531.7,0,0
+2024,November,Yadadri Bhuvanagiri,Pochampalle,Deshmukhi,208011,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Pochampalle,Sai Nagar,281286,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Rajapet,Begumpet,208031,4,2,0,2,0,0,0,0,0,3006.7,0,0
+2024,November,Yadadri Bhuvanagiri,Rajapet,Kondreddy Cheruvu,281001,1,0,0,1,0,0,0,0,0,3921.1,0,0
+2024,November,Yadadri Bhuvanagiri,Rajapet,Pamukunta,208041,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Rajapet,Parupally,208042,1,0,0,1,0,0,0,0,0,1868.9,0,0
+2024,November,Yadadri Bhuvanagiri,Rajapet,Raghunathpur,208044,1,0,0,0,0,0,1,0,0,1885.2,0,0
+2024,November,Yadadri Bhuvanagiri,Rajapet,Rajapet,208045,3,1,0,2,0,0,0,0,0,4600.8,0,0
+2024,November,Yadadri Bhuvanagiri,Rajapet,Somaram,208048,1,0,1,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Ramannapeta,Ennaram,208069,1,0,0,1,0,0,0,0,0,4427.9,0,0
+2024,November,Yadadri Bhuvanagiri,Ramannapeta,Iskilla,208052,1,0,0,1,0,0,0,0,0,3511.6,0,0
+2024,November,Yadadri Bhuvanagiri,Ramannapeta,Janampally,208053,2,2,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Ramannapeta,Munipampula,208057,2,0,0,2,0,0,0,0,0,4425.2,0,0
+2024,November,Yadadri Bhuvanagiri,Ramannapeta,Siripuram,208065,1,0,0,1,0,0,0,0,0,6232.7,0,0
+2024,November,Yadadri Bhuvanagiri,Ramannapeta,Yellanki,208068,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Valigonda,Dasireddygudem,281238,1,0,0,0,0,0,1,0,0,3266.6,0,0
+2024,November,Yadadri Bhuvanagiri,Valigonda,M.Turkapally,208193,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Valigonda,Muddapuram,281247,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Valigonda,Pahilwanpur,208199,1,0,0,1,0,0,0,0,0,8689.2,0,0
+2024,November,Yadadri Bhuvanagiri,Valigonda,Proddutur,208200,1,0,0,1,0,0,0,0,0,5980,0,0
+2024,November,Yadadri Bhuvanagiri,Valigonda,Valigonda,208210,8,0,0,8,0,0,0,0,0,26490.3,0,0
+2024,November,Yadadri Bhuvanagiri,Yadagirigutta,Chinna Gowraipally,281761,1,1,0,0,0,0,0,0,0,0,0,0
+2024,November,Yadadri Bhuvanagiri,Yadagirigutta,Peddakandukur,208241,2,1,0,1,0,0,0,0,0,4776.2,0,0
+2024,November,Yadadri Bhuvanagiri,Yadagirigutta,Ramajipet,208243,1,0,0,1,0,0,0,0,0,2856,0,0
+2024,November,Yadadri Bhuvanagiri,Yadagirigutta,Tallagudem,208246,1,0,0,1,0,0,0,0,0,2834.7,0,0
